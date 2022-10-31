@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal on evocations</title>
+    <link>http://dathash.github.io/tags/personal/</link>
+    <description>Recent content in personal on evocations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>uncopyright</copyright>
+    <lastBuildDate>Sun, 30 Oct 2022 20:24:54 -0700</lastBuildDate><atom:link href="http://dathash.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://dathash.github.io/posts/intro/</link>
+      <pubDate>Sun, 30 Oct 2022 20:24:54 -0700</pubDate>
+      
+      <guid>http://dathash.github.io/posts/intro/</guid>
+      <description>Hi there, I&amp;rsquo;m Alex. Here is my first post.
+The web has been so wonderful to me (though I spend little time here now). I love old internet homepages particularly. Here are a couple of examples. Oh my goodness, there&amp;rsquo;s something so sublime about how raw these pages are, and the way that stupid things are shared so effortlessly, without fear. I sometimes wonder if these pages were even built knowing that this would be a person&amp;rsquo;s public-facing self, or if maybe that idea hadn&amp;rsquo;t fully dawned on them yet.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://dathash.github.io/</loc>
+    <lastmod>2022-10-30T20:24:54-07:00</lastmod>
+  </url><url>
+    <loc>http://dathash.github.io/posts/intro/</loc>
+    <lastmod>2022-10-30T20:24:54-07:00</lastmod>
+  </url><url>
+    <loc>http://dathash.github.io/tags/personal/</loc>
+    <lastmod>2022-10-30T20:24:54-07:00</lastmod>
+  </url><url>
+    <loc>http://dathash.github.io/posts/</loc>
+    <lastmod>2022-10-30T20:24:54-07:00</lastmod>
+  </url><url>
+    <loc>http://dathash.github.io/tags/</loc>
+    <lastmod>2022-10-30T20:24:54-07:00</lastmod>
+  </url><url>
+    <loc>http://dathash.github.io/about/</loc>
+    <lastmod>2022-10-30T17:14:45-07:00</lastmod>
+  </url><url>
+    <loc>http://dathash.github.io/archive/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://dathash.github.io/categories/</loc>
+  </url>
+</urlset>

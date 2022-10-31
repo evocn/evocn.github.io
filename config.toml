@@ -1,0 +1,40 @@
+baseURL = 'http://dathash.github.io'
+languageCode = 'en-us'
+title = 'evocations'
+theme = 'archie'
+copyright = "uncopyright"
+pygmentsstyle = "rrt"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+publishDir = "docs"
+
+[params]
+    mode="toggle"
+    useCDN=false
+	subtitle = "Learning about Computers."
+	description = "Evocations is a blog about computers. Or, a computer about blogs."
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/dathash"
+
+[[params.social]]
+name = "Email"
+icon = "mail"
+url = "mailto: alexanderhartford@gmail.com"
+
+[[menu.main]]
+name = "archive"
+url = "/posts"
+weight = 1
+
+[[menu.main]]
+name = "tags"
+url = "/tags"
+weight = 2
+
+[[menu.main]]
+name = "README"
+url = "/about"
+weight = 3

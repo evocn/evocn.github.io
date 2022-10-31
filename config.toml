@@ -1,4 +1,4 @@
-baseURL = 'http://dathash.github.io'
+baseURL = 'https://dathash.github.io'
 languageCode = 'en-us'
 title = 'evocations'
 theme = 'archie'

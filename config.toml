@@ -12,7 +12,8 @@ publishDir = "docs"
     mode="toggle"
     useCDN=false
 	subtitle = "Learning about computers. Honing my craft."
-	description = "Evocations is a blog about computers. Or, a computer about blogs."
+	description = "Evocations is a blog about computers and ideas."
+	favicon="favicon.png"
 
 [[params.social]]
 name = "GitHub"

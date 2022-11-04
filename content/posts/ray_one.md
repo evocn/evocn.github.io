@@ -4,8 +4,8 @@ date: 2022-10-31T22:26:25-07:00
 draft: false
 description: "Understanding the underlying concepts of a basic ray tracer."
 tags: [code, graphics]
+math: true
 ---
-
 Over the last few weeks, I've been poking around with a basic ray-tracer.
 It's been fun to tweak values, but it's my intention to fully understand
 everything that's going on under the hood.
@@ -22,7 +22,7 @@ When we experience the sensation of sight with our eyes, what is truly happening
 is that rays of light reflect off of objects in our environment, eventually
 arriving at our eyes.
 
-![Figure 1](/ray_f1.jpeg)
+![Figure 1](/ray_f1.jpg)
 
 All insights build from this, so understanding this deeply is vital.
 There are minor details to this model that aren't immediately obvious as well.
@@ -50,7 +50,7 @@ of an object.
 > An example of diffuse surface is... Pretty much everything around you. Stone,
 > wood, fabric, etc.
 
-![Figure 2](/ray_f2.jpeg)
+![Figure 2](/ray_f2.jpg)
 
 A final note, light often only finds your eye after one or two or ten
 **bounces**. A bounce is what happens when a ray hits an object and then hits
@@ -89,20 +89,21 @@ Those rays intersect with objects, "seeing" a color when they do.
 
 A ray can be defined by the following relation:
 
-> P(t) = A + tb
->
-> P is a point on our ray.
->
-> A is the origin point.
->
-> b is the direction vector.
+$P(t) = A + tb$
+
+> Where:
 > 
-> t is how far along the ray you are. t = 0 is the origin. Positive t values
+> * P is a point on our ray.
+> * A is the origin point.
+> * b is the direction vector.
+> * t is how far along the ray you are.
+> 
+> t = 0 is the origin. Positive t values
   result in a point in the path of the direction vector starting at the origin
   point.
   For our purposes, a ray generally only refers to positive t values.
 
-![Figure 3](/ray_f3.jpeg)
+![Figure 3](/ray_f3.jpg)
 
 ## Collisions
 So we have rays. What do they do?
@@ -127,63 +128,58 @@ them all over the place online.
 The reason for this is that sphere collisions are the easiest collisions to
 detect. Let's go over this collision.
 
-> Ray-Sphere Intersection
->
-> A sphere at the origin can be defined by the following equation:
->
-> x^2 + y^2 + z^2 = R^2
->
-> Where
->
-> x,y,z is the center of the sphere.
->
-> R is the sphere's radius.
->
-> In other words, if a point and radius satisfies this equation, it is on the
-> sphere's surface. If the left side of the equation is larger, it means that
-> the point is outside of the circle. If the right side is larger, the point is
-> inside the circle.
->
-> We can generalize this equation to a sphere at an arbitrary point (a,b,c):
->
-> (x-a)^2 + (y-b)^2 + (z-c)^2 = r^2
->
-> This can also be written in the following way:
->
-> (P-C)^2 = r^2
->
-> Where
->
-> P is our given point
->
-> C is the circle's center.
->
-> This equation is the one we will use to represent a sphere in space.
-> In order to calculate whether a ray collides with the sphere, we need to
-> determine if a point is in the sphere or not. Thankfully, we have a
-> relationship which defines a ray at a point already:
->
-> P(t) = A + tb
->
-> We can therefore substitute this in for the point value in the circle
-> equation:
->
-> (A+tb - C)^2 = r^2
->
-> And to move all of this to the left side and simplify, we get:
->
-> t^2 * b + 2tb * (A-C)+ (A-C)^2 - r^2 = 0
->
-> Now we only have one unknown value – t, and we have a quadratic equation. 
-> 
-> We can solve this equation and find our roots. There are three possibilities:
-> 
->   0 Roots means that we don't have a collision.
->
->   1 Root means we collide with the edge of the sphere.
->
->   2 Roots means we collide with the sphere and punch through the other side.
->
+### Ray-Sphere Intersection
+
+A sphere at the origin can be defined by the following equation:
+
+$x^2 + y^2 + z^2 = R^2$
+
+Where:
+* $(x, y, z)$ is the center of the sphere.
+* $R$ is the sphere's radius.
+
+In other words, if a point and radius satisfies this equation, it is on the
+sphere's surface. If the left side of the equation is larger, it means that
+the point is outside of the circle. If the right side is larger, the point is
+inside the circle.
+
+We can generalize this equation to a sphere at an arbitrary point (a,b,c):
+
+$(x-a)^2 + (y-b)^2 + (z-c)^2 = r^2$
+
+This can also be written in the following way:
+
+$(P-C)^2 = r^2$
+
+Where:
+* P is our given point
+* C is the circle's center.
+
+This equation is the one we will use to represent a sphere in space.
+In order to calculate whether a ray collides with the sphere, we need to
+determine if a point is in the sphere or not. Thankfully, we have a
+relationship which defines a ray at a point already:
+
+$P(t) = A + tb$
+
+We can therefore substitute this in for the point value in the circle
+equation:
+
+$(A+tb - C)^2 = r^2$
+
+And to move all of this to the left side and simplify, we get:
+
+$t^2 * b + 2tb * (A-C)+ (A-C)^2 - r^2 = 0$
+
+Now we only have one unknown value: $t$, and we have a quadratic equation. 
+
+We can solve this equation and find our roots. There are three possibilities:
+
+* **0 Roots** means that we don't have a collision.
+* **1 Root** means we collide with the edge of the sphere.
+* **2 Roots** means we collide with the sphere and punch through the other side.
+
+![Figure 6](/ray_f6.jpg)
 
 So we have our collision detection in place.
 In this case, we want to determine whether our ray collides with an object in
@@ -222,6 +218,8 @@ that one point.
 In order to populate our screen, we need to consider a pinhole at each of the
 pixels of that sheet. We call this a **viewport**.
 
+![Figure 4](/ray_f4.jpg)
+
 > For our simple example, the image and viewport should have the same aspect
 > ratio. However, they need not have the same number of pixels. If this is the
 > case, consider the consequences. One could get a ton of rays in different
@@ -235,7 +233,7 @@ If we send a ray through each of these points on our viewport, from the origin,
 we get a good sample of where objects are in the world, and we end up with a
 result like this!
 
-![Figure 5](/ray_f5.jpeg)
+![Figure 5](/ray_f5.png)
 
 Stay tuned for next time where I will discuss how we make this look like a real
-3D shape.
+3D shape by using various mathematical tricks!

@@ -1,10 +1,34 @@
 <!DOCTYPE html>
 <html><head>
 	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>How to model light with computers - evocations</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>How to model light with computers - evocations</title><link rel="icon" type="image/png" href=favicon.png /><meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Understanding the underlying concepts of a basic ray tracer." />
 	<meta property="og:image" content=""/>
-	<meta property="og:title" content="How to model light with computers" />
+	<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.3/dist/katex.min.css" 
+    integrity="sha384-Juol1FqnotbkyZUT5Z7gUPjQ9gzlwCENvUZTpQBAPxtusdwFLRy382PSDx5UUJ4/" crossorigin="anonymous">
+
+    
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.3/dist/katex.min.js" 
+        integrity="sha384-97gW6UIJxnlKemYavrqDHSX3SiygeOwIZhwyOKRfSaf0JWKRVj9hLASHgFTzT+0O" 
+        crossorigin="anonymous"></script>
+
+    
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.3/dist/contrib/auto-render.min.js" 
+        integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" 
+        crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+</head>
+
+	<script>
+		document.addEventListener("DOMContentLoaded", function() {
+			renderMathInElement(document.body, {
+				delimiters: [
+					{left: "$$", right: "$$", display: true},
+					{left: "$", right: "$", display: false}
+				]
+			});
+		});
+	</script><meta property="og:title" content="How to model light with computers" />
 <meta property="og:description" content="Understanding the underlying concepts of a basic ray tracer." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://dathash.github.io/posts/ray_one/" /><meta property="article:section" content="posts" />
@@ -68,7 +92,7 @@ Consider this a 30,000 foot overview of ray-tracing.</p>
 When we experience the sensation of sight with our eyes, what is truly happening
 is that rays of light reflect off of objects in our environment, eventually
 arriving at our eyes.</p>
-<p><img src="/ray_f1.jpeg" alt="Figure 1"></p>
+<p><img src="/ray_f1.jpg" alt="Figure 1"></p>
 <p>All insights build from this, so understanding this deeply is vital.
 There are minor details to this model that aren&rsquo;t immediately obvious as well.</p>
 <h3 id="nuances">Nuances</h3>
@@ -95,7 +119,7 @@ off the surface perfectly.</p>
 <p>An example of diffuse surface is&hellip; Pretty much everything around you. Stone,
 wood, fabric, etc.</p>
 </blockquote>
-<p><img src="/ray_f2.jpeg" alt="Figure 2"></p>
+<p><img src="/ray_f2.jpg" alt="Figure 2"></p>
 <p>A final note, light often only finds your eye after one or two or ten
 <strong>bounces</strong>. A bounce is what happens when a ray hits an object and then hits
 another object before hitting your eye. This bouncing property is generally
@@ -130,17 +154,21 @@ rays, which can theoretically be calculated to any depth</p>
 </blockquote>
 <p>Those rays intersect with objects, &ldquo;seeing&rdquo; a color when they do.</p>
 <p>A ray can be defined by the following relation:</p>
+<p>$P(t) = A + tb$</p>
 <blockquote>
-<p>P(t) = A + tb</p>
-<p>P is a point on our ray.</p>
-<p>A is the origin point.</p>
-<p>b is the direction vector.</p>
-<p>t is how far along the ray you are. t = 0 is the origin. Positive t values
+<p>Where:</p>
+<ul>
+<li>P is a point on our ray.</li>
+<li>A is the origin point.</li>
+<li>b is the direction vector.</li>
+<li>t is how far along the ray you are.</li>
+</ul>
+<p>t = 0 is the origin. Positive t values
 result in a point in the path of the direction vector starting at the origin
 point.
 For our purposes, a ray generally only refers to positive t values.</p>
 </blockquote>
-<p><img src="/ray_f3.jpeg" alt="Figure 3"></p>
+<p><img src="/ray_f3.jpg" alt="Figure 3"></p>
 <h2 id="collisions">Collisions</h2>
 <p>So we have rays. What do they do?</p>
 <p>These rays are going to tell us information about a 3D space.
@@ -161,40 +189,45 @@ they collide. If so, damage is done.</p>
 them all over the place online.
 The reason for this is that sphere collisions are the easiest collisions to
 detect. Let&rsquo;s go over this collision.</p>
-<blockquote>
-<p>Ray-Sphere Intersection</p>
+<h3 id="ray-sphere-intersection">Ray-Sphere Intersection</h3>
 <p>A sphere at the origin can be defined by the following equation:</p>
-<p>x^2 + y^2 + z^2 = R^2</p>
-<p>Where</p>
-<p>x,y,z is the center of the sphere.</p>
-<p>R is the sphere&rsquo;s radius.</p>
+<p>$x^2 + y^2 + z^2 = R^2$</p>
+<p>Where:</p>
+<ul>
+<li>$(x, y, z)$ is the center of the sphere.</li>
+<li>$R$ is the sphere&rsquo;s radius.</li>
+</ul>
 <p>In other words, if a point and radius satisfies this equation, it is on the
 sphere&rsquo;s surface. If the left side of the equation is larger, it means that
 the point is outside of the circle. If the right side is larger, the point is
 inside the circle.</p>
 <p>We can generalize this equation to a sphere at an arbitrary point (a,b,c):</p>
-<p>(x-a)^2 + (y-b)^2 + (z-c)^2 = r^2</p>
+<p>$(x-a)^2 + (y-b)^2 + (z-c)^2 = r^2$</p>
 <p>This can also be written in the following way:</p>
-<p>(P-C)^2 = r^2</p>
-<p>Where</p>
-<p>P is our given point</p>
-<p>C is the circle&rsquo;s center.</p>
+<p>$(P-C)^2 = r^2$</p>
+<p>Where:</p>
+<ul>
+<li>P is our given point</li>
+<li>C is the circle&rsquo;s center.</li>
+</ul>
 <p>This equation is the one we will use to represent a sphere in space.
 In order to calculate whether a ray collides with the sphere, we need to
 determine if a point is in the sphere or not. Thankfully, we have a
 relationship which defines a ray at a point already:</p>
-<p>P(t) = A + tb</p>
+<p>$P(t) = A + tb$</p>
 <p>We can therefore substitute this in for the point value in the circle
 equation:</p>
-<p>(A+tb - C)^2 = r^2</p>
+<p>$(A+tb - C)^2 = r^2$</p>
 <p>And to move all of this to the left side and simplify, we get:</p>
-<p>t^2 * b + 2tb * (A-C)+ (A-C)^2 - r^2 = 0</p>
-<p>Now we only have one unknown value – t, and we have a quadratic equation.</p>
+<p>$t^2 * b + 2tb * (A-C)+ (A-C)^2 - r^2 = 0$</p>
+<p>Now we only have one unknown value: $t$, and we have a quadratic equation.</p>
 <p>We can solve this equation and find our roots. There are three possibilities:</p>
-<p>0 Roots means that we don&rsquo;t have a collision.</p>
-<p>1 Root means we collide with the edge of the sphere.</p>
-<p>2 Roots means we collide with the sphere and punch through the other side.</p>
-</blockquote>
+<ul>
+<li><strong>0 Roots</strong> means that we don&rsquo;t have a collision.</li>
+<li><strong>1 Root</strong> means we collide with the edge of the sphere.</li>
+<li><strong>2 Roots</strong> means we collide with the sphere and punch through the other side.</li>
+</ul>
+<p><img src="/ray_f6.jpg" alt="Figure 6"></p>
 <p>So we have our collision detection in place.
 In this case, we want to determine whether our ray collides with an object in
 space. If it does, we know there&rsquo;s an object there. Once we have determined
@@ -227,6 +260,7 @@ open. If we shoot a ray through there, we will get collision information through
 that one point.</p>
 <p>In order to populate our screen, we need to consider a pinhole at each of the
 pixels of that sheet. We call this a <strong>viewport</strong>.</p>
+<p><img src="/ray_f4.jpg" alt="Figure 4"></p>
 <blockquote>
 <p>For our simple example, the image and viewport should have the same aspect
 ratio. However, they need not have the same number of pixels. If this is the
@@ -240,9 +274,9 @@ graphics, and more.</p>
 <p>If we send a ray through each of these points on our viewport, from the origin,
 we get a good sample of where objects are in the world, and we end up with a
 result like this!</p>
-<p><img src="/ray_f5.jpeg" alt="Figure 5"></p>
+<p><img src="/ray_f5.png" alt="Figure 5"></p>
 <p>Stay tuned for next time where I will discuss how we make this look like a real
-3D shape.</p>
+3D shape by using various mathematical tricks!</p>
 
 		</section>
 

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>graphics on evocations</title>
+    <link>https://dathash.github.io/tags/graphics/</link>
+    <description>Recent content in graphics on evocations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>uncopyright</copyright>
+    <lastBuildDate>Mon, 31 Oct 2022 22:26:25 -0700</lastBuildDate><atom:link href="https://dathash.github.io/tags/graphics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to model light with computers</title>
+      <link>https://dathash.github.io/posts/ray_one/</link>
+      <pubDate>Mon, 31 Oct 2022 22:26:25 -0700</pubDate>
+      
+      <guid>https://dathash.github.io/posts/ray_one/</guid>
+      <description>Over the last few weeks, I&amp;rsquo;ve been poking around with a basic ray-tracer. It&amp;rsquo;s been fun to tweak values, but it&amp;rsquo;s my intention to fully understand everything that&amp;rsquo;s going on under the hood.
+Studies show that teaching (or preparing for teaching) a subject leads to deeper understanding. Therefore, I&amp;rsquo;m going to try to explain the concepts at as simple a level as is possible here, for the sake of really grokking this stuff myself.</description>
+    </item>
+    
+  </channel>
+</rss>

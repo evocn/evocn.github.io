@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html><head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>How to model light with computers - evocations</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Understanding the underlying concepts of a basic ray tracer." />
+	<meta property="og:image" content=""/>
+	<meta property="og:title" content="How to model light with computers" />
+<meta property="og:description" content="Understanding the underlying concepts of a basic ray tracer." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://dathash.github.io/posts/ray_one/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-10-31T22:26:25-07:00" />
+<meta property="article:modified_time" content="2022-10-31T22:26:25-07:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="How to model light with computers"/>
+<meta name="twitter:description" content="Understanding the underlying concepts of a basic ray tracer."/>
+<script src="https://dathash.github.io/js/feather.min.js"></script>
+	
+	
+        <link href="https://dathash.github.io/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
+	
+
+	
+	<link rel="stylesheet" type="text/css" media="screen" href="https://dathash.github.io/css/main.d972b9fbad61fb75c07dd62d6102f936e6f48b7ecf2d41968d5254edd12055f1.css" />
+		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="https://dathash.github.io/css/dark.726cd11ca6eb7c4f7d48eb420354f814e5c1b94281aaf8fd0511c1319f7f78a4.css"  disabled />
+	
+	
+	
+</head>
+<body>
+        <div class="content"><header>
+	<div class="main">
+		<a href="https://dathash.github.io/">evocations</a>
+	</div>
+	<nav>
+		
+		<a href="/posts">archive</a>
+		
+		<a href="/tags">tags</a>
+		
+		<a href="/about">README</a>
+		
+		| <a id="dark-mode-toggle" onclick="toggleTheme()" href=""></a>
+		<script src="https://dathash.github.io/js/themetoggle.js"></script>
+		
+	</nav>
+</header>
+
+<main>
+	<article>
+		<div class="title">
+			<h1 class="title">How to model light with computers</h1>
+			<div class="meta">Posted on Oct 31, 2022</div>
+		</div>
+		
+
+		<section class="body">
+			<p>Over the last few weeks, I&rsquo;ve been poking around with a basic ray-tracer.
+It&rsquo;s been fun to tweak values, but it&rsquo;s my intention to fully understand
+everything that&rsquo;s going on under the hood.</p>
+<p><a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fedu0000071">Studies show</a> that
+teaching (or preparing for teaching) a subject leads to deeper understanding.
+Therefore, I&rsquo;m going to try to explain the concepts at as simple a level as is
+possible here, for the sake of really grokking this stuff myself.
+Consider this a 30,000 foot overview of ray-tracing.</p>
+<h2 id="a-basic-model-of-light">A Basic Model of Light</h2>
+<p>In general, here&rsquo;s the idea:
+When we experience the sensation of sight with our eyes, what is truly happening
+is that rays of light reflect off of objects in our environment, eventually
+arriving at our eyes.</p>
+<p><img src="/ray_f1.jpeg" alt="Figure 1"></p>
+<p>All insights build from this, so understanding this deeply is vital.
+There are minor details to this model that aren&rsquo;t immediately obvious as well.</p>
+<h3 id="nuances">Nuances</h3>
+<p>Objects always appear to have a <strong>color</strong>. This color is a property inherent to
+the object, but it appears that way because it <strong>reflects</strong> that color of light,
+and <strong>absorbs</strong> all other colors of light.</p>
+<blockquote>
+<p>An example of this phenomena in action is plant photosynthesis. Plants appear green
+to us, which means that they absorb other types of light (red, blue).
+it is well documented that plants are completely unable to absorb green light.
+Therefore, a plant washed in green light and nothing else receives just as
+much nutrition as one in pitch darkness.</p>
+</blockquote>
+<p>Objects also appear to have a <strong>surface</strong> type.
+These surfaces are defined by the particular way in which light reflects off
+of an object.</p>
+<p><strong>Specular</strong> surfaces reflect light perfectly.</p>
+<blockquote>
+<p>A good example of this is a mirror. Given a ray in, you can trace the bounce
+off the surface perfectly.</p>
+</blockquote>
+<p><strong>Diffuse</strong> surfaces are rough, and therefore reflect light imperfectly.</p>
+<blockquote>
+<p>An example of diffuse surface is&hellip; Pretty much everything around you. Stone,
+wood, fabric, etc.</p>
+</blockquote>
+<p><img src="/ray_f2.jpeg" alt="Figure 2"></p>
+<p>A final note, light often only finds your eye after one or two or ten
+<strong>bounces</strong>. A bounce is what happens when a ray hits an object and then hits
+another object before hitting your eye. This bouncing property is generally
+responsible for the principle of <strong>ambient</strong> light.</p>
+<blockquote>
+<p>Look under your desk right now. There&rsquo;s not a direct path from your light
+source to that point under your desk, but it&rsquo;s still illuminated due to light
+bouncing off of the rest of your environment and then bouncing from that
+otherwise dark point.</p>
+</blockquote>
+<p>There are a variety of other crazy situations with light, but armed with this
+basic axiomatic model of light, one can start to understand them. How does glass
+work? What about water? These answers are just a few short minutes of reflection
+(or a google search on the word <em>refraction</em>) away. It&rsquo;s a very wonderful
+system.</p>
+<p>Once you&rsquo;ve got a good handle on how light functions, we can start talking about
+how we can implement this model in our computers!</p>
+<h2 id="rays">Rays</h2>
+<p>We consider our eyes to be a singular point for the sake of computing light.
+We call that point our origin.
+Emanating from this point are rays.</p>
+<blockquote>
+<p>You may be asking: Why are the rays <strong>coming from</strong> our eyes, when light
+actually comes <strong>into</strong> our eyes from light sources in real life?
+A perfectly reasonable question. In fact, this is the first of many completely
+inaccurate approximations we make for the sake of <strong>performance</strong>.</p>
+<p>You see, calculating all of the individual rays of light coming from all over
+the place is a lot of work. Especially when you consider all the rays that
+never even intersect your eye (the vast majority of rays that exist in your
+environment right now). Add to this the difficulty of calculating bouncing
+rays, which can theoretically be calculated to any depth</p>
+</blockquote>
+<p>Those rays intersect with objects, &ldquo;seeing&rdquo; a color when they do.</p>
+<p>A ray can be defined by the following relation:</p>
+<blockquote>
+<p>P(t) = A + tb</p>
+<p>P is a point on our ray.</p>
+<p>A is the origin point.</p>
+<p>b is the direction vector.</p>
+<p>t is how far along the ray you are. t = 0 is the origin. Positive t values
+result in a point in the path of the direction vector starting at the origin
+point.
+For our purposes, a ray generally only refers to positive t values.</p>
+</blockquote>
+<p><img src="/ray_f3.jpeg" alt="Figure 3"></p>
+<h2 id="collisions">Collisions</h2>
+<p>So we have rays. What do they do?</p>
+<p>These rays are going to tell us information about a 3D space.
+Much in the same way that light bounces off objects into our eyes, which allows
+us to tell what objects are where in space, our rays are going to collide with
+objects and do the same.</p>
+<p>The way we do this is through <strong>collisions</strong>. Collisions are useful in all sorts
+of programming, from graphics to gameplay to everything inbetween. This is the
+science of determining if some object is in the same place as
+another object, and what it means when it is.</p>
+<blockquote>
+<p>An example can be found in all manner of computer games. Fighting games are
+especially collision-focused. A character&rsquo;s attacks generate a bunch of boxes,
+which check against an opponent&rsquo;s boxes, and each of these must determine if
+they collide. If so, damage is done.</p>
+</blockquote>
+<p>In the interest of simplicity, most basic ray-tracers use spheres. You&rsquo;ll see
+them all over the place online.
+The reason for this is that sphere collisions are the easiest collisions to
+detect. Let&rsquo;s go over this collision.</p>
+<blockquote>
+<p>Ray-Sphere Intersection</p>
+<p>A sphere at the origin can be defined by the following equation:</p>
+<p>x^2 + y^2 + z^2 = R^2</p>
+<p>Where</p>
+<p>x,y,z is the center of the sphere.</p>
+<p>R is the sphere&rsquo;s radius.</p>
+<p>In other words, if a point and radius satisfies this equation, it is on the
+sphere&rsquo;s surface. If the left side of the equation is larger, it means that
+the point is outside of the circle. If the right side is larger, the point is
+inside the circle.</p>
+<p>We can generalize this equation to a sphere at an arbitrary point (a,b,c):</p>
+<p>(x-a)^2 + (y-b)^2 + (z-c)^2 = r^2</p>
+<p>This can also be written in the following way:</p>
+<p>(P-C)^2 = r^2</p>
+<p>Where</p>
+<p>P is our given point</p>
+<p>C is the circle&rsquo;s center.</p>
+<p>This equation is the one we will use to represent a sphere in space.
+In order to calculate whether a ray collides with the sphere, we need to
+determine if a point is in the sphere or not. Thankfully, we have a
+relationship which defines a ray at a point already:</p>
+<p>P(t) = A + tb</p>
+<p>We can therefore substitute this in for the point value in the circle
+equation:</p>
+<p>(A+tb - C)^2 = r^2</p>
+<p>And to move all of this to the left side and simplify, we get:</p>
+<p>t^2 * b + 2tb * (A-C)+ (A-C)^2 - r^2 = 0</p>
+<p>Now we only have one unknown value – t, and we have a quadratic equation.</p>
+<p>We can solve this equation and find our roots. There are three possibilities:</p>
+<p>0 Roots means that we don&rsquo;t have a collision.</p>
+<p>1 Root means we collide with the edge of the sphere.</p>
+<p>2 Roots means we collide with the sphere and punch through the other side.</p>
+</blockquote>
+<p>So we have our collision detection in place.
+In this case, we want to determine whether our ray collides with an object in
+space. If it does, we know there&rsquo;s an object there. Once we have determined
+there is a collision, then we engage in <strong>collision handling</strong>. This process
+varies greatly from program to program.</p>
+<blockquote>
+<p>Mario colliding with the ground and colliding with a goomba use the same
+collision detection algorithm, but result in different collision handling.</p>
+</blockquote>
+<p>In our case, when a ray collides with an object, we will tell it to illuminate a
+pixel based on what that object&rsquo;s color should be. This is a huge step, so let&rsquo;s
+break it down.</p>
+<h2 id="filling-a-canvas">Filling a canvas</h2>
+<p>Firstly, our screen is a large canvas of pixels. At first, they&rsquo;re blank.
+Our foundation implies that we can color pixels whatever we want them to be,
+with something like blitToScreen(120, 335, RED), which makes a pixel at x=120, y=335
+change to red. We can set these pixels to be whatever we like, but we know we
+only have so many of them, determined by our <strong>resolution</strong>. Resolution is based
+on your monitor&rsquo;s pixel density and size.</p>
+<p>So we have a good number of pixels, maybe 1920 by 1080. The ratio between these
+numbers is also important to think about. It&rsquo;s basically the type of rectangle
+we want to render to. When you hear people talk about an <strong>aspect ratio</strong>, or
+mention that a movie is in <em>widescreen</em> or <em>4:3</em> or <em>16:9</em>, they&rsquo;re talking
+about aspect ratios. We can choose our aspect ratio as programmers, meaning that
+we can make square shots or super wide, epic shots. Pretty cool to play around
+with.</p>
+<p>Secondly, those pixels are our end result, so we need to capture data for each
+of them. Imagine casting rays at a sheet with a pinhole with just one pixel
+open. If we shoot a ray through there, we will get collision information through
+that one point.</p>
+<p>In order to populate our screen, we need to consider a pinhole at each of the
+pixels of that sheet. We call this a <strong>viewport</strong>.</p>
+<blockquote>
+<p>For our simple example, the image and viewport should have the same aspect
+ratio. However, they need not have the same number of pixels. If this is the
+case, consider the consequences. One could get a ton of rays in different
+points and then average them to get a pixel&rsquo;s color, creating the illusion of
+precision even though we don&rsquo;t have enough pixels to truly create the precise
+lines the source has. This technique is known as <strong>anti-aliasing</strong>, and it&rsquo;s
+happening all over your computer right now to render smooth looking fonts,
+graphics, and more.</p>
+</blockquote>
+<p>If we send a ray through each of these points on our viewport, from the origin,
+we get a good sample of where objects are in the world, and we end up with a
+result like this!</p>
+<p><img src="/ray_f5.jpeg" alt="Figure 5"></p>
+<p>Stay tuned for next time where I will discuss how we make this look like a real
+3D shape.</p>
+
+		</section>
+
+		<div class="post-tags">
+			
+			
+			<nav class="nav tags">
+				<ul class="tags">
+					
+					<li><a href="/tags/code">code</a></li>
+					
+					<li><a href="/tags/graphics">graphics</a></li>
+					
+				</ul>
+			</nav>
+			
+			
+		</div>
+	</article>
+</main>
+<footer>
+  <div style="display:flex"><a class="soc" href="https://github.com/dathash" title="GitHub"><i data-feather="github"></i></a>
+    <a class="border"></a><a class="soc" href="mailto:%20alexanderhartford@gmail.com" title="Email"><i data-feather="mail"></i></a>
+    <a class="border"></a></div>
+  <div class="footer-info">
+    2022  uncopyright 
+  </div>
+</footer>
+
+
+<script>
+  feather.replace()
+</script></div>
+    </body>
+</html>

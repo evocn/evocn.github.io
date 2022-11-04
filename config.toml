@@ -11,7 +11,7 @@ publishDir = "docs"
 [params]
     mode="toggle"
     useCDN=false
-	subtitle = "Learning about Computers."
+	subtitle = "Learning about computers. Honing my craft."
 	description = "Evocations is a blog about computers. Or, a computer about blogs."
 
 [[params.social]]

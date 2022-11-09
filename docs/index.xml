@@ -35,8 +35,8 @@ Creativity is holy | Pressfield&amp;rsquo;s insistence on treating the magic of 
       <pubDate>Mon, 31 Oct 2022 22:26:25 -0700</pubDate>
       
       <guid>https://dathash.github.io/posts/ray_one/</guid>
-      <description>Over the last few weeks, I&amp;rsquo;ve been poking around with a basic ray-tracer. My Code It&amp;rsquo;s been fun to tweak values, but it&amp;rsquo;s my intention to fully understand everything that&amp;rsquo;s going on under the hood.
-Studies show that teaching (or preparing for teaching) a subject leads to deeper understanding. Therefore, I&amp;rsquo;m going to try to explain the concepts at as simple a level as is possible here, for the sake of really grokking this stuff myself.</description>
+      <description>Over the last few weeks, I&amp;rsquo;ve been poking around with a basic ray-tracer. &amp;lt;My Code&amp;gt; It&amp;rsquo;s been fun to tweak values, but it&amp;rsquo;s my intention to fully understand everything that&amp;rsquo;s going on under the hood.
+I tend to find that teaching a subject leads to deeper understanding. In pursuit of understanding, I&amp;rsquo;m going to explain the concepts involved at a basic level for the sake of grokking this stuff myself. Consider this to be a 30,000 foot overview of ray-tracing.</description>
     </item>
     
     <item>

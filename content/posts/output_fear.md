@@ -16,6 +16,9 @@ Ideas that really struck me:
   someone turns pro.
 * **Craft, not Art** | Creation should be treated as a professional endeavor, since that model has
   lots of desirable traits that creative labor should orient itself towards.
+* **Find your Territory** | Territory is the realm you command. You know every
+  inch of its land. It's a song that's in your fingers. It's your morning
+  routine.
 
 Along with this wonderful nugget:
 > “The Bhagavad-Gita tells us we have a right only to our labor, not to the

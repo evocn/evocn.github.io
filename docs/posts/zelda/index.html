@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html><head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Movement in &#39;The Legend of Zelda&#39; - evocations</title><link rel="icon" type="image/png" href=favicon.png /><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="A cool trick from 1986." />
+	<meta property="og:image" content=""/>
+	
+	<script>
+		document.addEventListener("DOMContentLoaded", function() {
+			renderMathInElement(document.body, {
+				delimiters: [
+					{left: "$$", right: "$$", display: true},
+					{left: "$", right: "$", display: false}
+				]
+			});
+		});
+	</script><meta property="og:title" content="Movement in &#39;The Legend of Zelda&#39;" />
+<meta property="og:description" content="A cool trick from 1986." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://dathash.github.io/posts/zelda/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-11-11T10:09:56-08:00" />
+<meta property="article:modified_time" content="2022-11-11T10:09:56-08:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Movement in &#39;The Legend of Zelda&#39;"/>
+<meta name="twitter:description" content="A cool trick from 1986."/>
+<script src="https://dathash.github.io/js/feather.min.js"></script>
+	
+	
+        <link href="https://dathash.github.io/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
+	
+
+	
+	<link rel="stylesheet" type="text/css" media="screen" href="https://dathash.github.io/css/main.d972b9fbad61fb75c07dd62d6102f936e6f48b7ecf2d41968d5254edd12055f1.css" />
+		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="https://dathash.github.io/css/dark.726cd11ca6eb7c4f7d48eb420354f814e5c1b94281aaf8fd0511c1319f7f78a4.css"  disabled />
+	
+	
+	
+</head>
+<body>
+        <div class="content"><header>
+	<div class="main">
+		<a href="https://dathash.github.io/">evocations</a>
+	</div>
+	<nav>
+		
+		<a href="/posts">archive</a>
+		
+		<a href="/tags">tags</a>
+		
+		<a href="/about">README</a>
+		
+		| <a id="dark-mode-toggle" onclick="toggleTheme()" href=""></a>
+		<script src="https://dathash.github.io/js/themetoggle.js"></script>
+		
+	</nav>
+</header>
+
+<main>
+	<article>
+		<div class="title">
+			<h1 class="title">Movement in &#39;The Legend of Zelda&#39;</h1>
+			<div class="meta">Posted on Nov 11, 2022</div>
+		</div>
+		
+
+		<section class="body">
+			<p>In <em>Zelda</em> for the NES, I noticed a cool trick used to keep people from getting
+stuck on the terrain. It looks like this:</p>
+<p><img src="/z_mov.gif" alt="movement"></p>
+<p>There&rsquo;s something weird going on here that is hard to put your finger on, but
+impossible to miss as you&rsquo;re playing the game. There&rsquo;s an effect, some nuance of
+the movement, that keeps you from getting stuck on the terrain and keeps your
+sword in line with the enemies.</p>
+<p>To show what the game avoids with this effect, here&rsquo;s an example from a little
+mock-up I made of this movement without the effect applied.</p>
+<p><img src="/z_mock.gif" alt="mockup"></p>
+<p>You can see that the player gets stuck on objects. We don&rsquo;t want that. The
+player&rsquo;s intention was clearly to move between the trees, but that intention
+doesn&rsquo;t translate very well in my mockup. In Zelda, this rarely happens. Most of
+the time you squeeze right through gaps like these. So how do they do it?</p>
+<p>In the game, the player is allowed to move pixel-by-pixel. This gives the player
+a high degree of control over their movements. However, in other games, this can
+lead to some frustrating player experiences. You get stuck often. In some games,
+you&rsquo;d rather just move on a grid to avoid this problem entirely.</p>
+<p>That&rsquo;s what Zelda does.</p>
+<p>You can move pixel-by-pixel, as shown.
+However, when you try and move on the other axis, it snaps you into place.
+There&rsquo;s a hidden grid keeping you from bonking on objects!</p>
+<p><img src="/z_mov.gif" alt="movement"></p>
+<p>As a note, Zelda&rsquo;s grid occurs on an 8-by-8 pattern, so Link takes up four
+tiles. This also serves to continue the illusion of precise movement.</p>
+<p>It&rsquo;s a great solution to the problem, one that gives this game a distinctive
+feel. You can really get used to this kind of movement, and it becomes a pretty
+deep and compelling system in its more demanding moments.</p>
+<p><img src="/z_com.gif" alt="combat"></p>
+<p>The game is obviously well-known for being a sprawling adventure, magical in
+ways other games aren&rsquo;t. However, its core mechanic often goes
+underappreciated, and upon replaying it recently, I realized that what really
+compelled me about the game was its dynamic combats. These combats are made
+possible by this technique.</p>
+<h2 id="other-options">Other options</h2>
+<p>How have other games solved this problem?</p>
+<p>Look no further than <em>Link to the Past</em>, released five years later.</p>
+<p><img src="/z_lttp.gif" alt="link to the past"></p>
+<p>This game opts to fudge things a little.</p>
+<p>It&rsquo;s hard to say which method is preferable. Zelda 1 creates a system that I&rsquo;ve
+never seen repeated in a game – it makes combat which is compelling with only a
+four-frame sword whose hitbox is the size of a pencil. LTTP, on the other hand,
+is a lot bigger, a lot flashier, and, it can&rsquo;t be argued, a lot smoother.</p>
+<p>There&rsquo;s something in the design of that original Zelda that really speaks to me.
+A system without perfect control. It strikes a balance without feeling &ldquo;smooth&rdquo;,
+and that&rsquo;s what keeps Zelda in the realm of hard games. Every screen is a
+life-or-death struggle. I find the combat and the movement in Zelda 1 to be more
+compelling than that of its successor. While the developers worked to remove
+obviously annoying things from the game, it&rsquo;s still true to itself and its
+system.</p>
+
+		</section>
+
+		<div class="post-tags">
+			
+			
+			<nav class="nav tags">
+				<ul class="tags">
+					
+					<li><a href="/tags/games">games</a></li>
+					
+					<li><a href="/tags/design">design</a></li>
+					
+				</ul>
+			</nav>
+			
+			
+		</div>
+	</article>
+</main>
+<footer>
+  <div style="display:flex"><a class="soc" href="https://github.com/dathash" title="GitHub"><i data-feather="github"></i></a>
+    <a class="border"></a><a class="soc" href="mailto:%20alexanderhartford@gmail.com" title="Email"><i data-feather="mail"></i></a>
+    <a class="border"></a></div>
+  <div class="footer-info">
+    2022  uncopyright 
+  </div>
+</footer>
+
+
+<script>
+  feather.replace()
+</script></div>
+    </body>
+</html>

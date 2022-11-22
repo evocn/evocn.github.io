@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>uncopyright</copyright>
-    <lastBuildDate>Fri, 11 Nov 2022 10:09:56 -0800</lastBuildDate><atom:link href="https://dathash.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Nov 2022 17:41:40 -0800</lastBuildDate><atom:link href="https://dathash.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finish your game</title>
+      <link>https://dathash.github.io/posts/finishing/</link>
+      <pubDate>Mon, 21 Nov 2022 17:41:40 -0800</pubDate>
+      
+      <guid>https://dathash.github.io/posts/finishing/</guid>
+      <description>There is are two types of people in this world: those who finish games, and those who do not.
+This idea is rapidly coming to the forefront of my life. I&amp;rsquo;m a college student, just beginning to seek my life&amp;rsquo;s work. In these days of discovery and overcoming resistance, I have learned the joy of starting.
+Starting, that wonderful process&amp;hellip; it&amp;rsquo;s my favorite thing to do. I&amp;rsquo;ll start things all day long, and never rest, never tire, and I probably won&amp;rsquo;t get up from my chair&amp;hellip; Until I get to the point where the starting is over and the continuing begins.</description>
+    </item>
+    
     <item>
       <title>Movement in &#39;The Legend of Zelda&#39;</title>
       <link>https://dathash.github.io/posts/zelda/</link>
@@ -40,13 +51,13 @@ Creativity is holy | Pressfield&amp;rsquo;s insistence on treating the magic of 
     </item>
     
     <item>
-      <title>How to model light with computers</title>
+      <title>Modeling light with computers</title>
       <link>https://dathash.github.io/posts/ray_one/</link>
       <pubDate>Mon, 31 Oct 2022 22:26:25 -0700</pubDate>
       
       <guid>https://dathash.github.io/posts/ray_one/</guid>
-      <description>Over the last few weeks, I&amp;rsquo;ve been poking around with a basic ray-tracer. &amp;lt;My Code&amp;gt; It&amp;rsquo;s been fun to tweak values, but it&amp;rsquo;s my intention to fully understand everything that&amp;rsquo;s going on under the hood.
-I tend to find that teaching a subject leads to deeper understanding. In pursuit of understanding, I&amp;rsquo;m going to explain the concepts involved at a basic level for the sake of grokking this stuff myself. Consider this to be a 30,000 foot overview of ray-tracing.</description>
+      <description>Over the last few weeks, I&amp;rsquo;ve been poking around with a basic ray-tracer. You can find my code &amp;lt;here&amp;gt;. It&amp;rsquo;s been fun to tweak values, but it&amp;rsquo;s my intention to fully understand everything that&amp;rsquo;s going on under the hood.
+I tend to find that teaching a subject leads to deeper understanding. In pursuit of understanding, I&amp;rsquo;m going to explain the concepts involved at a basic level for the sake of grokking this stuff myself.</description>
     </item>
     
     <item>

@@ -1,8 +1,8 @@
 ---
-title: "How to model light with computers"
+title: "Modeling light with computers"
 date: 2022-10-31T22:26:25-07:00
 draft: false
-description: "Understanding the underlying concepts of a basic ray tracer."
+description: "Understanding a toy ray tracer."
 tags: [code, graphics]
 math: true
 ---
@@ -230,5 +230,5 @@ result like this!
 
 ![Figure 5](/ray_f5.png)
 
-Stay tuned for next time where I will discuss how we make this look like a real
-3D shape by using various mathematical tricks!
+Beyond this simple ray-tracer, there isn't that much more to go until we have a
+real 3D-looking image.

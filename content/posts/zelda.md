@@ -61,7 +61,7 @@ Look no further than *Link to the Past*, released five years later.
 
 ![link to the past](/z_lttp.gif)
 
-This game opts to fudge things a little.
+This game opts to fudge things a little, with rounded hitboxes you roll off of.
 
 It's hard to say which method is preferable. Zelda 1 creates a system that I've
 never seen repeated in a game – it makes combat which is compelling with only a

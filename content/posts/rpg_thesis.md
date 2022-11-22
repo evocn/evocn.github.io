@@ -2,8 +2,7 @@
 title: "A game's role"
 date: 2022-11-08T21:28:46-08:00
 draft: false
-description: "A thesis on Role-Playing Games and a review of Raph Koster's book
-'A Theory of Fun'"
+description: "Role-Playing Games | Raph Koster's 'A Theory of Fun'"
 tags: [design, games, reviews]
 ---
 

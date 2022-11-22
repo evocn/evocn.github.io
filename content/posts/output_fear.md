@@ -2,7 +2,7 @@
 title: "Output Fear"
 date: 2022-11-02T11:17:54-07:00
 draft: false
-description: "A review of Steven Pressfield's book 'The War of Art'"
+description: "Steven Pressfield's 'The War of Art'"
 tags: [personal, reviews]
 ---
 I recently read Steven Pressfield's *The War of Art*.

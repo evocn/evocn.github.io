@@ -11,29 +11,31 @@ those who do not.
 
 This idea is rapidly coming to the forefront of my life.
 I'm a college student, just beginning to seek my life's work.
-In these days of discovery and overcoming resistance, I have learned the joy of
-**starting**.
+In these days of discovery, I have learned the joy of **starting**.
 
-Starting, that wonderful process... it's my favorite thing to do. I'll start
-things all day long, and never rest, never tire, and I probably won't get up
-from my chair...
-Until I get to the point where the starting is over and the continuing begins.
+Starting; that wonderful process... it's my favorite thing to do. I'll start
+things all day long, and never rest, never tire. Just
+until I get to the point where the starting is over and the continuing begins.
 
-Agh! What horror I feel when I continue to do something.
+Agh! What horror I feel when I must continue to do something after the
+excitement of starting has worn off.
 Every part of my body, every nerve in my brain, screams at me to stop.
-It begs me, "You don't need to finish this. It's not worth your effort."
+"You don't need to finish this. It's not worth your effort."
 
 And so I trudge to the fridge, make myself the dreaded peanut-butter and jelly
-sandwich, my usual offering to that demon of [Resistance](/posts/output_fear),
-regretfully, and without even putting up a fight. Pitiful.
+sandwich, my usual offering to that demon of [Resistance](/posts/output_fear).
+Pitiful.
 
-The only forgivable aspect of this weekly (sometimes daily) withering of wills
-is that it is of the most common variety. Give me a handful of human beings and
-I'll show you their unspoken startings – heaps and heaps, piles of dreams, given
-up on after some short period, usually five seconds, often as long as ten years.
-I'll show you the man's once-dream of architecture. I'll show you his wife's
-if-only of that child she thought she might mother. I'll show you my very own
-"projects," each started in earnest, and forgotten as soon as possible.
+The only forgivable aspect of this withering of will
+is that it is of the most common variety. 
+Give me a handful of human beings and
+I'll show you their unspoken startings – dreams forgotten after some short
+period of excitement, usually only five seconds, often as long as ten years.
+I'll show you the businessperson's once-dream of architecture.
+I'll show you the artist's bin of crumpled scratchpapers.
+And I'll show you my very own
+"projects," each started in earnest, and forgotten just as soon as the going
+gets tough.
 
 However, whether or not it can be forgiven or understood, some individuals
 triumph over such a lifestyle. They begin... continue... and finish.

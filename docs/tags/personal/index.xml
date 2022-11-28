@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>personal on evocations</title>
-    <link>https://dathash.github.io/tags/personal/</link>
+    <link>https://evocn.github.io/tags/personal/</link>
     <description>Recent content in personal on evocations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>uncopyright</copyright>
-    <lastBuildDate>Sun, 27 Nov 2022 20:31:44 -0800</lastBuildDate><atom:link href="https://dathash.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>evocations</copyright>
+    <lastBuildDate>Sun, 27 Nov 2022 20:31:44 -0800</lastBuildDate><atom:link href="https://evocn.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curriculum</title>
-      <link>https://dathash.github.io/posts/curriculum/</link>
+      <link>https://evocn.github.io/posts/curriculum/</link>
       <pubDate>Sun, 27 Nov 2022 20:31:44 -0800</pubDate>
       
-      <guid>https://dathash.github.io/posts/curriculum/</guid>
+      <guid>https://evocn.github.io/posts/curriculum/</guid>
       <description>Computer education is DIY.
 Classes teach basics, point out the most popular methods, frameworks. The learning happens inbetween.
 I&amp;rsquo;ve held a love-hate relationship with this reality for the four years I&amp;rsquo;ve spent programming. On the one hand, information is free, knowledge is out there, and you can teach yourself anything these days. On the other hand, it&amp;rsquo;s discouraging. My best resources are archaic books packed to the gills with information that you can&amp;rsquo;t effectively search through, along with Google, the mother of my despair, which you can effectively search through, but is so packed with garbage that it boggles the mind.</description>
@@ -21,10 +21,10 @@ I&amp;rsquo;ve held a love-hate relationship with this reality for the four year
     
     <item>
       <title>Finish your game</title>
-      <link>https://dathash.github.io/posts/finishing/</link>
+      <link>https://evocn.github.io/posts/finish/</link>
       <pubDate>Mon, 21 Nov 2022 17:41:40 -0800</pubDate>
       
-      <guid>https://dathash.github.io/posts/finishing/</guid>
+      <guid>https://evocn.github.io/posts/finish/</guid>
       <description>There is are two types of people in this world: those who finish games, and those who do not.
 This idea is rapidly coming to the forefront of my life. I&amp;rsquo;m a college student, just beginning to seek my life&amp;rsquo;s work. In these days of discovery, I have learned the joy of starting.
 Starting; that wonderful process&amp;hellip; it&amp;rsquo;s my favorite thing to do. I&amp;rsquo;ll start things all day long, and never rest, never tire.</description>
@@ -32,10 +32,10 @@ Starting; that wonderful process&amp;hellip; it&amp;rsquo;s my favorite thing to
     
     <item>
       <title>Output Fear</title>
-      <link>https://dathash.github.io/posts/output_fear/</link>
+      <link>https://evocn.github.io/posts/warofart/</link>
       <pubDate>Wed, 02 Nov 2022 11:17:54 -0700</pubDate>
       
-      <guid>https://dathash.github.io/posts/output_fear/</guid>
+      <guid>https://evocn.github.io/posts/warofart/</guid>
       <description>I recently read Steven Pressfield&amp;rsquo;s The War of Art. It was a great book, packed with great insight, hard-earned wisdom, and some spiritual thoughts that I resonated strongly with.
 Ideas that really struck me:
 Creativity is holy | Pressfield&amp;rsquo;s insistence on treating the magic of creation with the religious reverance it has so often been deprived of today. Turning pro | Amateur artists are simply submitting to resistance. If you really cared, you would do it full-time, no matter the consequences.</description>
@@ -43,12 +43,13 @@ Creativity is holy | Pressfield&amp;rsquo;s insistence on treating the magic of 
     
     <item>
       <title>Introduction</title>
-      <link>https://dathash.github.io/posts/intro/</link>
+      <link>https://evocn.github.io/posts/intro/</link>
       <pubDate>Sun, 30 Oct 2022 20:24:54 -0700</pubDate>
       
-      <guid>https://dathash.github.io/posts/intro/</guid>
-      <description>Hi there, I&amp;rsquo;m Alex. Here is my first post.
-The web has been so wonderful to me (though I spend little time here now). I love old internet homepages particularly. Here are a couple of examples. Oh my goodness, there&amp;rsquo;s something so sublime about how raw these pages are, and the way that stupid things are shared so effortlessly, without fear. I sometimes wonder if these pages were even built knowing that this would be a person&amp;rsquo;s public-facing self, or if maybe that idea hadn&amp;rsquo;t fully dawned on them yet.</description>
+      <guid>https://evocn.github.io/posts/intro/</guid>
+      <description>Hi there, I&amp;rsquo;m Alex. This is my first post.
+The web has been so wonderful to me in my life (though I spend little time here now).
+I love old internet homepages particularly. Here are a couple of examples. There&amp;rsquo;s something so sublime about how raw these pages are, and the way that stupid things are shared so effortlessly, without fear. I sometimes wonder if these pages were even built knowing that this would be a person&amp;rsquo;s public-facing self, or if maybe that idea hadn&amp;rsquo;t fully dawned on anyone back in the day.</description>
     </item>
     
   </channel>

@@ -3,7 +3,6 @@
 	<article>
 		<div class="title">
 			<h1 class="title">{{ .Title }}</h1>
-			<div class="meta">Posted on {{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
 		</div>
 		{{ if isset .Params "tldr" }}
 		<div class="tldr">
@@ -28,6 +27,7 @@
 			{{ end }}
 			{{ end }}
 		</div>
+		<div class="meta">Posted on {{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
 	</article>
 </main>
 {{ end }}

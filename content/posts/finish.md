@@ -23,7 +23,7 @@ Every part of my body, every nerve in my brain, screams at me to stop.
 "You don't need to finish this. It's not worth your effort."
 
 And so I trudge to the fridge, make myself the dreaded peanut-butter and jelly
-sandwich, my usual offering to that demon of [Resistance](/posts/output_fear).
+sandwich, my usual offering to that demon of [Resistance](/posts/output).
 Pitiful.
 
 The only forgivable aspect of this withering of will
@@ -86,8 +86,8 @@ ideas, and I wanted to try implementing them.
 ![Zelda](/2day.gif)
 
 As a result, I pretty much got the tiles, hitboxes, animations, and the cool
-[partial-grid system](/posts/zelda) working. It's fun to just move around, but AI is too much
-for two days, and I basically scrambled to get anything else added.
+[partial-grid system](/posts/zelda) working. It's fun to just move around, but
+AI is too much for two days, and I basically scrambled to add anything more.
 
 ## Lessons
 Just as soon as I finished this game, things got busy at school, so I had to put
@@ -96,7 +96,7 @@ the plan on pause. The one-week and two-week games will be upcoming.
 I suck at finishing games. Even though I set out to finish a game no matter
 what, I failed to make something playable in both cases.
 
-**Lessons Learned**
+#### Lessons Learned
 * Games are hard to finish. Resistance hates when you try to finish a game.
 * Put ideas down in a list when you have them. Don't immediately jump ship.
   Someday, when you are ready, your list of new ideas will be ready for you.

@@ -37,16 +37,16 @@ out to do something like this.
 My wisdom can help you to better prepare yourself for setting out on a journey
 of your own.
 
-# The problems with self-learning
-**Motivation**
+## The problems with self-learning
+#### Motivation
 * Motivation does not exist.
 
-**Wasting Time**
+#### Wasting Time
 * When you learn on your own, you don't know what's central and what's fluff.
 * When you take a course in school, your professor knows which chapters of the
   textbook to teach.
 
-**Getting Help**
+#### Getting Help
 * Programming stuck is the worst kind of stuck you can be in.
 * Most of the time when you're learning like this you're in a new, unfamiliar
   programming environment (e.g. trying to learn a new language, algorithm, API).
@@ -57,8 +57,8 @@ of your own.
 For this Winter, I've devised some strategies to negate these problems and have
 successfully applied each to my own life in some way.
 
-# The solutions
-**Motivation**
+## The solutions
+#### Motivation
 * Those who succeed build systems such that they do not require motivation, 
   those who fail do not.
 * Building habits is more essential to success in this field than developing
@@ -69,13 +69,12 @@ successfully applied each to my own life in some way.
   make my [best movie yet](https://www.youtube.com/watch?v=54FBdRIYEFE)
   literally the next week.
 
-**Wasting Time**
+#### Wasting Time
 * Be extremely discerning about your goal in pursuing the knowledge. For a
   primer on this, watch 
   [this Jon Blow talk](https://www.youtube.com/watch?v=SqFu5O-oPmU).
-  * If you have no goal, don't try to learn things on your own. Find a
-    structured environment where you can relax and focus your energies on
-    discovery.
+  If you have no goal, don't try to learn things on your own. Find a structured
+  environment where you can relax and focus your energies on discovery.
 * Focus on products. It's a [neutral indicator of value](https://sive.rs/mn1)
   which means that you can actually judge whether something is worth doing by
   whether or not it is load-bearing.
@@ -88,7 +87,7 @@ successfully applied each to my own life in some way.
   * When you do decide to focus on Exploration, make it intentional and
     explicit.
 
-**Getting Help**
+#### Getting Help
 * Find the best resources you possibly can. Buy the best textbooks, find the
   most concise tutorials.
 * Seek out help in unconventional ways. If you live near a university, approach
@@ -100,7 +99,7 @@ successfully applied each to my own life in some way.
   few minutes. Better to drop a feature than spend days looking for answers on
   some forum on the third page of Google search results.
 
-# Endnote
+## Endnote
 And as a final note, there is a single guiding principle overriding all of these
 factors: ***Incremental Growth***.
 You must believe completely in Incremental Growth.

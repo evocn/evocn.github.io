@@ -2,63 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dathash.github.io/posts/curriculum/</loc>
+    <loc>https://evocn.github.io/</loc>
+    <lastmod>2022-11-27T21:25:33-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.github.io/posts/</loc>
+    <lastmod>2022-11-27T21:25:33-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.github.io/posts/recommendations/</loc>
+    <lastmod>2022-11-27T21:25:33-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.github.io/tags/reviews/</loc>
+    <lastmod>2022-11-27T21:25:33-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.github.io/tags/</loc>
+    <lastmod>2022-11-27T21:25:33-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.github.io/posts/curriculum/</loc>
     <lastmod>2022-11-27T20:31:44-08:00</lastmod>
   </url><url>
-    <loc>https://dathash.github.io/tags/education/</loc>
+    <loc>https://evocn.github.io/tags/education/</loc>
     <lastmod>2022-11-27T20:31:44-08:00</lastmod>
   </url><url>
-    <loc>https://dathash.github.io/</loc>
+    <loc>https://evocn.github.io/tags/personal/</loc>
     <lastmod>2022-11-27T20:31:44-08:00</lastmod>
   </url><url>
-    <loc>https://dathash.github.io/tags/personal/</loc>
-    <lastmod>2022-11-27T20:31:44-08:00</lastmod>
-  </url><url>
-    <loc>https://dathash.github.io/posts/</loc>
-    <lastmod>2022-11-27T20:31:44-08:00</lastmod>
-  </url><url>
-    <loc>https://dathash.github.io/tags/</loc>
-    <lastmod>2022-11-27T20:31:44-08:00</lastmod>
-  </url><url>
-    <loc>https://dathash.github.io/posts/finishing/</loc>
+    <loc>https://evocn.github.io/posts/finish/</loc>
     <lastmod>2022-11-21T17:41:40-08:00</lastmod>
   </url><url>
-    <loc>https://dathash.github.io/tags/games/</loc>
+    <loc>https://evocn.github.io/tags/games/</loc>
     <lastmod>2022-11-21T17:41:40-08:00</lastmod>
   </url><url>
-    <loc>https://dathash.github.io/tags/reviews/</loc>
-    <lastmod>2022-11-21T17:41:40-08:00</lastmod>
-  </url><url>
-    <loc>https://dathash.github.io/tags/design/</loc>
+    <loc>https://evocn.github.io/tags/design/</loc>
     <lastmod>2022-11-11T10:09:56-08:00</lastmod>
   </url><url>
-    <loc>https://dathash.github.io/posts/zelda/</loc>
+    <loc>https://evocn.github.io/posts/zelda/</loc>
     <lastmod>2022-11-11T10:09:56-08:00</lastmod>
   </url><url>
-    <loc>https://dathash.github.io/posts/rpg_thesis/</loc>
+    <loc>https://evocn.github.io/posts/theoryoffun/</loc>
     <lastmod>2022-11-08T21:28:46-08:00</lastmod>
   </url><url>
-    <loc>https://dathash.github.io/posts/output_fear/</loc>
+    <loc>https://evocn.github.io/posts/warofart/</loc>
     <lastmod>2022-11-02T11:17:54-07:00</lastmod>
   </url><url>
-    <loc>https://dathash.github.io/tags/code/</loc>
+    <loc>https://evocn.github.io/tags/code/</loc>
     <lastmod>2022-10-31T22:26:25-07:00</lastmod>
   </url><url>
-    <loc>https://dathash.github.io/tags/graphics/</loc>
+    <loc>https://evocn.github.io/tags/graphics/</loc>
     <lastmod>2022-10-31T22:26:25-07:00</lastmod>
   </url><url>
-    <loc>https://dathash.github.io/posts/ray_one/</loc>
+    <loc>https://evocn.github.io/posts/ray_one/</loc>
     <lastmod>2022-10-31T22:26:25-07:00</lastmod>
   </url><url>
-    <loc>https://dathash.github.io/posts/intro/</loc>
+    <loc>https://evocn.github.io/posts/intro/</loc>
     <lastmod>2022-10-30T20:24:54-07:00</lastmod>
   </url><url>
-    <loc>https://dathash.github.io/about/</loc>
+    <loc>https://evocn.github.io/about/</loc>
     <lastmod>2022-10-30T17:14:45-07:00</lastmod>
   </url><url>
-    <loc>https://dathash.github.io/archive/</loc>
+    <loc>https://evocn.github.io/archive/</loc>
     <lastmod>2022-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dathash.github.io/categories/</loc>
+    <loc>https://evocn.github.io/categories/</loc>
   </url>
 </urlset>

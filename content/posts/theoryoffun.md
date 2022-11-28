@@ -55,7 +55,7 @@ running TTRPGs.
 
 ## My development as a Dungeon Master
 I've run a tabletop role-playing game most weeks of my life for the last five
-years. It's my bread-and-butter. My [Territory](/posts/output_fear/).
+years. It's my bread-and-butter. My [Territory](/posts/output).
 
 In high school, I ran combats, thought the most fun part of the game was the
 system, and I hit my players with lots of fun, often borderline silly, stuff – kept things light. It was a

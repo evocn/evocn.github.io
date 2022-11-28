@@ -1,8 +1,8 @@
-baseURL = 'https://dathash.github.io/'
+baseURL = 'https://evocn.github.io/'
 languageCode = 'en-us'
 title = 'evocations'
 theme = 'archie'
-copyright = "uncopyright"
+copyright = "evocations"
 pygmentsstyle = "rrt"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -11,14 +11,19 @@ publishDir = "docs"
 [params]
     mode="toggle"
     useCDN=false
-	subtitle = "Learning about computers. Honing my craft."
+	subtitle = "The blog of **Alex Hartford** | Learning about computers. Honing my craft"
 	description = "Evocations is a blog about computers and ideas."
 	favicon="favicon.png"
 
 [[params.social]]
+name = "Youtube"
+icon = "youtube"
+url = "https://youtube.com/@alexanderhartford"
+
+[[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/dathash"
+url = "https://github.com/evocn"
 
 [[params.social]]
 name = "Email"

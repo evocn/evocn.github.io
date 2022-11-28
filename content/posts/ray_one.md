@@ -7,7 +7,7 @@ tags: [code, graphics]
 math: true
 ---
 Over the last few weeks, I've been poking around with a basic ray-tracer.
-You can find my code <[here](https://github.com/dathash/ray)>.
+You can find my code [here](https://github.com/dathash/ray).
 ![My Result](/ray_head.png)
 It's been fun to tweak values, but it's my intention to fully understand
 everything that's going on under the hood.

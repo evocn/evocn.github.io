@@ -7,19 +7,20 @@ tags: [personal]
 ---
 
 Hi there, I'm Alex.
-Here is my first post.
+This is my first post.
 
-The web has been so wonderful to me (though I spend little time here now).
+The web has been so wonderful to me in my life (though I spend little time here now).
+
 I love old internet homepages particularly.
 [Here](http://number-none.com/blow/index.html) are a 
 [couple](http://nothings.org/) of
 [examples](https://web.archive.org/web/20131011125002/http://www-formal.stanford.edu/jmc/).
-Oh my goodness, there's something so sublime about how raw these pages are, and
+There's something so sublime about how raw these pages are, and
 the way that stupid things are shared so effortlessly, without fear.
 I sometimes wonder if these pages were even built knowing that this would be a
-person's public-facing self, or if maybe that idea hadn't fully dawned on them
-yet.
-Perhaps they knew something we all forgot.
+person's public-facing self, or if maybe that idea hadn't fully dawned on anyone
+back in the day.
+Perhaps they had some confidence that we all forgot.
 
 When looking at these sites, I particularly love the jack-of-all-trades manner
 of being that these hackers had/have.
@@ -76,7 +77,6 @@ made an impression on me.
 ...And of course, here are the pictures.
 
 ![Me on a boat](/boat.jpg)
-Here's me!
 
 ![Shooting a movie with Ting](/movie_making.jpg)
 Here's me and my friend [Ting](https://acousticdarkness.com)
@@ -84,13 +84,11 @@ shooting a movie on the lovely Lake Boren in Newcastle, Washington, my home
 town.
 
 ![Resolutions](/resolutions.jpg)
-Here's a funny shot of my goals in life. Truly a man on a mission here.
 
 ![June and I](/chilling.jpg)
-This is me and my girlfriend June. She's my best friend and my partner.
+This is me and my girlfriend June. She's my best friend.
 
 ![June and I 2!](/with_june.jpg)
-Here's June and I again.
 
 So now you've seen me, internet! I hope that someone out there sees this and
 joins me out here, vulnerable to the world.

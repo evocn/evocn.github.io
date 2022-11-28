@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>education on evocations</title>
+    <link>https://dathash.github.io/tags/education/</link>
+    <description>Recent content in education on evocations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>uncopyright</copyright>
+    <lastBuildDate>Sun, 27 Nov 2022 20:31:44 -0800</lastBuildDate><atom:link href="https://dathash.github.io/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curriculum</title>
+      <link>https://dathash.github.io/posts/curriculum/</link>
+      <pubDate>Sun, 27 Nov 2022 20:31:44 -0800</pubDate>
+      
+      <guid>https://dathash.github.io/posts/curriculum/</guid>
+      <description>Computer education is DIY.
+Classes teach basics, point out the most popular methods, frameworks. The learning happens inbetween.
+I&amp;rsquo;ve held a love-hate relationship with this reality for the four years I&amp;rsquo;ve spent programming. On the one hand, information is free, knowledge is out there, and you can teach yourself anything these days. On the other hand, it&amp;rsquo;s discouraging. My best resources are archaic books packed to the gills with information that you can&amp;rsquo;t effectively search through, along with Google, the mother of my despair, which you can effectively search through, but is so packed with garbage that it boggles the mind.</description>
+    </item>
+    
+  </channel>
+</rss>

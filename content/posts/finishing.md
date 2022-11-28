@@ -3,7 +3,7 @@ title: "Finish your game"
 date: 2022-11-21T17:41:40-08:00
 draft: false
 description: "A personal trial of overcoming Resistance."
-tags: [review, personal, games]
+tags: [reviews, personal, games]
 ---
 
 There is are two types of people in this world: those who finish games, and
@@ -79,14 +79,14 @@ It's pretty fun to move around and stuff, but it's a failure on the part of
 finished game.
 
 ## Two Day Game
-For this one, I had been playing a lot of [Zelda](/posts/zelda), and wanted to
+For this one, I had been playing a lot of *The Legend of Zelda*, and wanted to
 try my hand at making something like it. I thought it had some really cool
 ideas, and I wanted to try implementing them.
 
 ![Zelda](/2day.gif)
 
 As a result, I pretty much got the tiles, hitboxes, animations, and the cool
-partial-grid system working. It's fun to just move around, but AI is too much
+[partial-grid system](/posts/zelda) working. It's fun to just move around, but AI is too much
 for two days, and I basically scrambled to get anything else added.
 
 ## Lessons
@@ -108,5 +108,5 @@ for posterity. They'll be bigger, but my main goal is, of course, to finish
 them.
 
 [^1]: If you want to finish your games, read his book, or read the more concise,
-straight to the vein version [here](https://www.derekyu.com/makegames/deathloops.html).
+straight to the vein version [here](https://makegames.tumblr.com/post/1136623767/finishing-a-game).
 

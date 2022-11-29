@@ -64,9 +64,9 @@ Prine, Car Seat Headrest, Bach, Mozart, Jim Croce, and America.
 My favorite movies are hard to tie down, but I really loved *The End of
 Evangelion* once, when it was closer to me. The last really good movie I watched
 was probably *The Wind Rises*, which made me cry tears of joy! Never had that
-happen before, so I'm looking for more movies that can do that. I loved the
-colors in *The Adolescence of Utena*, but for the most part, it wasn't my
-favorite.
+happen before, so I'm looking for more movies that can do that. I recently
+watched *The Adolescence of Utena*. Loved the colors, but for the most part, it
+wasn't my favorite.
 
 I've been reading books a lot more recently, mostly self-help books. Recent
 favorite is *The Subtle Art of Not Giving a Fuck* by Mark Manson, which was a
@@ -96,3 +96,5 @@ If not, I'll stand proudly and hold the banner alone.
 Stick around, there's more of me yet.
 
 Next week: Probably working on a ray-tracer.
+
+<hr>

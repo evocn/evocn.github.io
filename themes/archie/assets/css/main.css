@@ -30,7 +30,7 @@ p {
 
 hr {
     border: none;
-    color: #333;
+    color: var(--secondary);
     overflow: visible;
     text-align: center;
     height: 5px;
@@ -155,24 +155,29 @@ header .main {
   font-size: 1.5rem;
 }
 
+header .main:after {
+  content: '𐃐';
+  color: var(--secondary);
+  font-size: 100%;
+  padding: 0 2px;
+  position: relative;
+}
+
 h1 {
   font-size: 1.4rem;
   margin-top: 1.5em;
   margin-bottom: 0.3em;
-  text-indent: -1ch;
 }
 h2 {
   font-size: 1.5rem;
   margin-top: 2em;
   margin-bottom: -0.3em;
-  text-indent: -1.5ch;
 }
 
 h3 {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   margin-top: 2em;
   margin-bottom: -0.3em;
-  text-indent: 0ch;
 }
 h4, h5, h6 {
   font-weight: bold
@@ -196,7 +201,7 @@ footer {
   align-items: center;
   border-top: 0.5rem dotted var(--secondary);
   padding: 1rem 0rem;
-  margin-top: 1rem;
+  margin-top: 0.5rem;
 }
 .soc {
   display: flex;
@@ -225,8 +230,10 @@ time {
 
 /* Posts */
 article .title {
-  font-size: 3.0rem;
-  margin-bottom: 1em;
+  font-size: 2.5rem;
+  margin-top: 1em;
+  margin-bottom: -0.2em;
+  line-height: 35px;
 }
 
 

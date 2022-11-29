@@ -15,9 +15,6 @@ body {
   text-shadow: none;
 }
 
-hr {
-  border-top: 3px dotted blue;
-}
 code {
   background-color: var(--darksecondary);
   color: black;
@@ -35,12 +32,12 @@ pre {
   padding: 1em;
 }
 
+hr:after {
+	color: var(--darksecondary);
+}
+
 footer {
-  display: flex;
-  align-items: center;
   border-top: 0.5rem dotted var(--darksecondary);
-  padding: 1rem 0rem;
-  margin-top: 1rem;
 }
 
 h1,
@@ -60,6 +57,10 @@ a:hover {
 .site-title a {
   color: white;
   text-decoration: none !important;
+}
+
+header .main:after {
+  color: var(--darksecondary);
 }
 
 .header nav,

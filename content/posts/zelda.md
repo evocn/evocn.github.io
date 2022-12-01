@@ -3,7 +3,7 @@ title: "Movement in 'The Legend of Zelda'"
 date: 2022-11-11T10:09:56-08:00
 draft: false
 description: "A cool trick from 1986."
-tags: [games, design]
+tags: [games]
 ---
 
 In *Zelda* for the NES, I noticed a cool trick used to keep people from getting

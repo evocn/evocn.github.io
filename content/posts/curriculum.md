@@ -3,7 +3,7 @@ title: "Curriculum"
 date: 2022-11-27T20:31:44-08:00
 draft: false
 description: "Hard-earned wisdom | How to learn things yourself"
-tags: [personal, education]
+tags: [education]
 ---
 
 Computer education is DIY.

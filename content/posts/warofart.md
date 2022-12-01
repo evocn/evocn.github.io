@@ -3,7 +3,7 @@ title: "Output Fear"
 date: 2022-11-02T11:17:54-07:00
 draft: false
 description: "Steven Pressfield's 'The War of Art'"
-tags: [personal, reviews]
+tags: [review]
 ---
 I recently read Steven Pressfield's *The War of Art*.
 It was a great book, packed with great insight, hard-earned wisdom, and some spiritual thoughts that I resonated strongly with.

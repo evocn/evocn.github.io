@@ -3,7 +3,7 @@ title: "A game's role"
 date: 2022-11-08T21:28:46-08:00
 draft: false
 description: "Raph Koster's 'A Theory of Fun'"
-tags: [design, games, reviews]
+tags: [review, games]
 ---
 
 My experience with game design has been a tenuous one. This is a summary of the

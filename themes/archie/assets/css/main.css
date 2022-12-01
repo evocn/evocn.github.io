@@ -28,6 +28,13 @@ p {
   line-height: 1.5;
 }
 
+.lighttags {
+  color: gray;
+  display: inline-block;
+  padding: .5rem;
+  margin-top: -10px;
+}
+
 hr {
     border: none;
     color: var(--secondary);
@@ -225,6 +232,7 @@ footer {
 }
 
 time {
+  margin-top: -10px;
   color: grey;
 }
 
@@ -260,6 +268,10 @@ article .title {
 
 .site-description {
   justify-content: space-between;
+}
+
+.description {
+  margin-top: -20px;
 }
 
 article .tags {

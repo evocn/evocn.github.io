@@ -3,7 +3,7 @@ title: "Recommendations"
 date: 2022-11-27T21:25:33-08:00
 draft: false
 description: "Stuff I like that you might like too"
-tags: [reviews]
+tags: [review]
 ---
 
 This is a simple list of recommendations to anyone who is looking for something

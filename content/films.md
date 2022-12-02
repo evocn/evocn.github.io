@@ -11,7 +11,7 @@ These are my recently produced films.
 ### frisbee
 {{< youtube id="54FBdRIYEFE" title="frisbee">}}
 
-Short set to Dvorak's **Humoresque**.
+Short set to Dvorak's *Humoresque*.
 Conceptualized, shot, and edited in three hours on a wonderful afternoon.
 
 Fun fact: we shot the video without even knowing what we were going to set it
@@ -20,7 +20,7 @@ to.
 ### tr
 {{< youtube id="oxYr-EdERus" title="tr">}}
 
-Music video for Logic's track **Thelonius Rick**.
+Music video for Logic's track *Thelonius Rick*.
 Conceptualized, shot, and edited in four hours in pure desperation.
 
 Learned about motion.

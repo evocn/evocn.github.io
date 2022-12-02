@@ -2,72 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on evocations</title>
-    <link>https://evocn.github.io/tags/</link>
+    <link>https://evocn.org/tags/</link>
     <description>Recent content in Tags on evocations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>evocations</copyright>
-    <lastBuildDate>Sun, 27 Nov 2022 21:25:33 -0800</lastBuildDate><atom:link href="https://evocn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2022 09:39:14 -0800</lastBuildDate><atom:link href="https://evocn.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>reviews</title>
-      <link>https://evocn.github.io/tags/reviews/</link>
+      <title>personal</title>
+      <link>https://evocn.org/tags/personal/</link>
+      <pubDate>Thu, 01 Dec 2022 09:39:14 -0800</pubDate>
+      
+      <guid>https://evocn.org/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>https://evocn.org/tags/review/</link>
       <pubDate>Sun, 27 Nov 2022 21:25:33 -0800</pubDate>
       
-      <guid>https://evocn.github.io/tags/reviews/</guid>
+      <guid>https://evocn.org/tags/review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>education</title>
-      <link>https://evocn.github.io/tags/education/</link>
+      <link>https://evocn.org/tags/education/</link>
       <pubDate>Sun, 27 Nov 2022 20:31:44 -0800</pubDate>
       
-      <guid>https://evocn.github.io/tags/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>personal</title>
-      <link>https://evocn.github.io/tags/personal/</link>
-      <pubDate>Sun, 27 Nov 2022 20:31:44 -0800</pubDate>
-      
-      <guid>https://evocn.github.io/tags/personal/</guid>
+      <guid>https://evocn.org/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>games</title>
-      <link>https://evocn.github.io/tags/games/</link>
+      <link>https://evocn.org/tags/games/</link>
       <pubDate>Mon, 21 Nov 2022 17:41:40 -0800</pubDate>
       
-      <guid>https://evocn.github.io/tags/games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>design</title>
-      <link>https://evocn.github.io/tags/design/</link>
-      <pubDate>Fri, 11 Nov 2022 10:09:56 -0800</pubDate>
-      
-      <guid>https://evocn.github.io/tags/design/</guid>
+      <guid>https://evocn.org/tags/games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>code</title>
-      <link>https://evocn.github.io/tags/code/</link>
+      <link>https://evocn.org/tags/code/</link>
       <pubDate>Mon, 31 Oct 2022 22:26:25 -0700</pubDate>
       
-      <guid>https://evocn.github.io/tags/code/</guid>
+      <guid>https://evocn.org/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>graphics</title>
-      <link>https://evocn.github.io/tags/graphics/</link>
+      <link>https://evocn.org/tags/graphics/</link>
       <pubDate>Mon, 31 Oct 2022 22:26:25 -0700</pubDate>
       
-      <guid>https://evocn.github.io/tags/graphics/</guid>
+      <guid>https://evocn.org/tags/graphics/</guid>
       <description></description>
     </item>
     

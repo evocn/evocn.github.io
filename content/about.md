@@ -4,15 +4,18 @@ date: 2022-10-30T17:14:45-07:00
 draft: false
 ---
 
-I'm a student of programming and design, primarily learning on my own.
+I'm a student of programming, film, and game design, mostly self-taught, though
+I am studying Computer Science at Cal Poly SLO.
 
-Currently studying programming at Cal Poly SLO.
+Mostly focused on three areas:
+* Computer Graphics
+* Game Design
+* Short ( <5 minute ) films with character
 
-Learning about Computer Graphics and various other low-level technical topics.
+This blog is to chronicle my development and express some ideas I have.
+I hope you like some of my work.
 
-This log is an account of thoughts, lessons, and knowledge gained along the way.
-
-The best way to reach me is by email at
+Let me know at
 alexanderhartford@gmail.com.
 Feel free to reach out.
 

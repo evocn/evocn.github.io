@@ -11,7 +11,7 @@ publishDir = "docs"
 [params]
     mode="toggle"
     useCDN=false
-	subtitle = "The blog of **Alex Hartford** | Learning about computers. Honing my craft"
+	subtitle = "The blog of **Alex Hartford** | Learning about computers. Making games and movies. Honing my craft."
 	description = "Evocations is a blog about computers and ideas."
 	favicon="favicon.png"
 
@@ -41,6 +41,11 @@ url = "/tags"
 weight = 2
 
 [[menu.main]]
-name = "README"
+name = "about"
 url = "/about"
 weight = 3
+
+[[menu.main]]
+name = "films"
+url = "/films"
+weight = 4

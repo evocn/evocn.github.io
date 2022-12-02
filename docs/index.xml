@@ -2,18 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>evocations</title>
-    <link>https://evocn.github.io/</link>
+    <link>https://evocn.org/</link>
     <description>Recent content on evocations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>evocations</copyright>
-    <lastBuildDate>Sun, 27 Nov 2022 21:25:33 -0800</lastBuildDate><atom:link href="https://evocn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2022 09:39:14 -0800</lastBuildDate><atom:link href="https://evocn.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Films</title>
+      <link>https://evocn.org/films/</link>
+      <pubDate>Thu, 01 Dec 2022 22:35:55 -0800</pubDate>
+      
+      <guid>https://evocn.org/films/</guid>
+      <description>These are my recently produced films.
+frisbee Short set to Dvorak&amp;rsquo;s Humoresque. Conceptualized, shot, and edited in three hours on a wonderful afternoon.
+Fun fact: we shot the video without even knowing what we were going to set it to.
+tr Music video for Logic&amp;rsquo;s track Thelonius Rick. Conceptualized, shot, and edited in four hours in pure desperation.
+Learned about motion.
+Our Last Summer A day at the lake for six old friends.</description>
+    </item>
+    
+    <item>
+      <title>The Fountainhead</title>
+      <link>https://evocn.org/posts/fountainhead/</link>
+      <pubDate>Thu, 01 Dec 2022 09:39:14 -0800</pubDate>
+      
+      <guid>https://evocn.org/posts/fountainhead/</guid>
+      <description>My Heel I&amp;rsquo;ve always known what my Achilles heel is.
+Over the last few years I&amp;rsquo;ve grown distant from people. I&amp;rsquo;ve avoided making introductions, reaching out, etc.
+I&amp;rsquo;ve had my justifications: &amp;ldquo;I&amp;rsquo;m working on something,&amp;rdquo; &amp;ldquo;I don&amp;rsquo;t want to compromise myself to try to make an impression on them,&amp;rdquo; and similar thoughts come to mind.
+The true reason was always twofold. First, elitism. I believed that no one could offer me anything new, and they were just wasting my time.</description>
+    </item>
+    
     <item>
       <title>Recommendations</title>
-      <link>https://evocn.github.io/posts/recommendations/</link>
+      <link>https://evocn.org/posts/recommendations/</link>
       <pubDate>Sun, 27 Nov 2022 21:25:33 -0800</pubDate>
       
-      <guid>https://evocn.github.io/posts/recommendations/</guid>
+      <guid>https://evocn.org/posts/recommendations/</guid>
       <description>This is a simple list of recommendations to anyone who is looking for something good to experience. My tendency is towards recommending off-beat stuff that you might not have heard of before.
 Films Wolf Children is the most personal movie I&amp;rsquo;ve ever seen. Takagi Masakatsu&amp;rsquo;s soundtrack brings me sheer joy every single time I watch it.
 Angel&amp;rsquo;s Egg is harrowing. Mamoru Oshii before Ghost in the Shell.
@@ -22,10 +48,10 @@ Anime Gunbuster was doing relativity tragedy almost thirty years before Interste
     
     <item>
       <title>Curriculum</title>
-      <link>https://evocn.github.io/posts/curriculum/</link>
+      <link>https://evocn.org/posts/curriculum/</link>
       <pubDate>Sun, 27 Nov 2022 20:31:44 -0800</pubDate>
       
-      <guid>https://evocn.github.io/posts/curriculum/</guid>
+      <guid>https://evocn.org/posts/curriculum/</guid>
       <description>Computer education is DIY.
 Classes teach basics, point out the most popular methods, frameworks. The learning happens inbetween.
 I&amp;rsquo;ve held a love-hate relationship with this reality for the four years I&amp;rsquo;ve spent programming. On the one hand, information is free, knowledge is out there, and you can teach yourself anything these days. On the other hand, it&amp;rsquo;s discouraging. My best resources are archaic books packed to the gills with information that you can&amp;rsquo;t effectively search through, along with Google, the mother of my despair, which you can effectively search through, but is so packed with garbage that it boggles the mind.</description>
@@ -33,10 +59,10 @@ I&amp;rsquo;ve held a love-hate relationship with this reality for the four year
     
     <item>
       <title>Finish your game</title>
-      <link>https://evocn.github.io/posts/finish/</link>
+      <link>https://evocn.org/posts/finish/</link>
       <pubDate>Mon, 21 Nov 2022 17:41:40 -0800</pubDate>
       
-      <guid>https://evocn.github.io/posts/finish/</guid>
+      <guid>https://evocn.org/posts/finish/</guid>
       <description>There is are two types of people in this world: those who finish games, and those who do not.
 This idea is rapidly coming to the forefront of my life. I&amp;rsquo;m a college student, just beginning to seek my life&amp;rsquo;s work. In these days of discovery, I have learned the joy of starting.
 Starting; that wonderful process&amp;hellip; it&amp;rsquo;s my favorite thing to do. I&amp;rsquo;ll start things all day long, and never rest, never tire.</description>
@@ -44,30 +70,30 @@ Starting; that wonderful process&amp;hellip; it&amp;rsquo;s my favorite thing to
     
     <item>
       <title>Movement in &#39;The Legend of Zelda&#39;</title>
-      <link>https://evocn.github.io/posts/zelda/</link>
+      <link>https://evocn.org/posts/zelda/</link>
       <pubDate>Fri, 11 Nov 2022 10:09:56 -0800</pubDate>
       
-      <guid>https://evocn.github.io/posts/zelda/</guid>
+      <guid>https://evocn.org/posts/zelda/</guid>
       <description>In Zelda for the NES, I noticed a cool trick used to keep people from getting stuck on the terrain. It looks like this:
 There&amp;rsquo;s something weird going on here that is hard to put your finger on, but impossible to miss as you&amp;rsquo;re playing the game. There&amp;rsquo;s an effect, some nuance of the movement, that keeps you from getting stuck on the terrain and keeps your sword in line with the enemies.</description>
     </item>
     
     <item>
       <title>A game&#39;s role</title>
-      <link>https://evocn.github.io/posts/theoryoffun/</link>
+      <link>https://evocn.org/posts/theoryoffun/</link>
       <pubDate>Tue, 08 Nov 2022 21:28:46 -0800</pubDate>
       
-      <guid>https://evocn.github.io/posts/theoryoffun/</guid>
+      <guid>https://evocn.org/posts/theoryoffun/</guid>
       <description>My experience with game design has been a tenuous one. This is a summary of the development of my opinions on games over time:
 Age 9 – 16 | Love games. Sometimes flirt with armchair criticism. Age 17 – Today | General distaste for games. Belief that some games are gold. Games meant a lot to me once, in the sort of child-like way that only can be felt at one time, then remembered fondly.</description>
     </item>
     
     <item>
       <title>Output Fear</title>
-      <link>https://evocn.github.io/posts/warofart/</link>
+      <link>https://evocn.org/posts/warofart/</link>
       <pubDate>Wed, 02 Nov 2022 11:17:54 -0700</pubDate>
       
-      <guid>https://evocn.github.io/posts/warofart/</guid>
+      <guid>https://evocn.org/posts/warofart/</guid>
       <description>I recently read Steven Pressfield&amp;rsquo;s The War of Art. It was a great book, packed with great insight, hard-earned wisdom, and some spiritual thoughts that I resonated strongly with.
 Ideas that really struck me:
 Creativity is holy | Pressfield&amp;rsquo;s insistence on treating the magic of creation with the religious reverance it has so often been deprived of today. Turning pro | Amateur artists are simply submitting to resistance. If you really cared, you would do it full-time, no matter the consequences.</description>
@@ -75,20 +101,20 @@ Creativity is holy | Pressfield&amp;rsquo;s insistence on treating the magic of 
     
     <item>
       <title>Modeling light with computers</title>
-      <link>https://evocn.github.io/posts/ray_one/</link>
+      <link>https://evocn.org/posts/ray_one/</link>
       <pubDate>Mon, 31 Oct 2022 22:26:25 -0700</pubDate>
       
-      <guid>https://evocn.github.io/posts/ray_one/</guid>
+      <guid>https://evocn.org/posts/ray_one/</guid>
       <description>Over the last few weeks, I&amp;rsquo;ve been poking around with a basic ray-tracer. You can find my code here. It&amp;rsquo;s been fun to tweak values, but it&amp;rsquo;s my intention to fully understand everything that&amp;rsquo;s going on under the hood.
 I tend to find that teaching a subject leads to deeper understanding. In pursuit of understanding, I&amp;rsquo;m going to explain the concepts involved at a basic level for the sake of grokking this stuff myself.</description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://evocn.github.io/posts/intro/</link>
+      <link>https://evocn.org/posts/intro/</link>
       <pubDate>Sun, 30 Oct 2022 20:24:54 -0700</pubDate>
       
-      <guid>https://evocn.github.io/posts/intro/</guid>
+      <guid>https://evocn.org/posts/intro/</guid>
       <description>Hi there, I&amp;rsquo;m Alex. This is my first post.
 The web has been so wonderful to me in my life (though I spend little time here now).
 I love old internet homepages particularly. Here are a couple of examples. There&amp;rsquo;s something so sublime about how raw these pages are, and the way that stupid things are shared so effortlessly, without fear. I sometimes wonder if these pages were even built knowing that this would be a person&amp;rsquo;s public-facing self, or if maybe that idea hadn&amp;rsquo;t fully dawned on anyone back in the day.</description>
@@ -96,24 +122,23 @@ I love old internet homepages particularly. Here are a couple of examples. There
     
     <item>
       <title>About</title>
-      <link>https://evocn.github.io/about/</link>
+      <link>https://evocn.org/about/</link>
       <pubDate>Sun, 30 Oct 2022 17:14:45 -0700</pubDate>
       
-      <guid>https://evocn.github.io/about/</guid>
-      <description>I&amp;rsquo;m a student of programming and design, primarily learning on my own.
-Currently studying programming at Cal Poly SLO.
-Learning about Computer Graphics and various other low-level technical topics.
-This log is an account of thoughts, lessons, and knowledge gained along the way.
-The best way to reach me is by email at alexanderhartford@gmail.com. Feel free to reach out.
-My code is all on Github. My movies are on Youtube.</description>
+      <guid>https://evocn.org/about/</guid>
+      <description>I&amp;rsquo;m a student of programming, film, and game design, mostly self-taught, though I am studying Computer Science at Cal Poly SLO.
+Mostly focused on three areas:
+Computer Graphics Game Design Short ( &amp;lt;5 minute ) films with character This blog is to chronicle my development and express some ideas I have. I hope you like some of my work.
+Let me know at alexanderhartford@gmail.com. Feel free to reach out.
+My code is all on Github.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://evocn.github.io/archive/</link>
+      <link>https://evocn.org/archive/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://evocn.github.io/archive/</guid>
+      <guid>https://evocn.org/archive/</guid>
       <description></description>
     </item>
     

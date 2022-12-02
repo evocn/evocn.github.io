@@ -1,12 +1,11 @@
 ---
 title: "The Fountainhead"
 date: 2022-12-01T09:39:14-08:00
-draft: true
-description: FILL
+draft: false
+description: "A contradiction."
 tags: [personal]
 ---
 
-Have you ever heard the story of Achilles?
 ![achilles](/achilles.jpg)
 
 ## My Heel
@@ -15,7 +14,7 @@ I've always known what my Achilles heel is.
 Over the last few years I've grown distant from people. I've avoided making
 introductions, reaching out, etc.
 
-I've had my justifications. "I'm working on something," "I don't want to
+I've had my justifications: "I'm working on something," "I don't want to
 compromise myself to try to make an impression on them," and similar thoughts
 come to mind.
 
@@ -64,8 +63,8 @@ I am Peter Keating.
 In moments of fleeting vision, I transcend to become Howard Roark. Like some
 Steppenwolf of two faces, I try to justify myself as Roark most of the time, but
 it's a rare form of expression. Usually it occurs during the process of
-creation. When making a movie, game, or blog post. I very rarely experience
-Roark's complete relaxation.
+creation. When making a movie, game, or blog post. As for Roark's complete
+relaxation, his momentary bliss, almost never.
 
 ## Reconciliation
 Obviously, it's a contradiction.

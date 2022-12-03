@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>art on evocations</title>
+    <link>https://evocn.org/tags/art/</link>
+    <description>Recent content in art on evocations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>evocations</copyright>
+    <lastBuildDate>Sat, 03 Dec 2022 11:41:15 -0800</lastBuildDate><atom:link href="https://evocn.org/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art month</title>
+      <link>https://evocn.org/posts/dec_art/</link>
+      <pubDate>Sat, 03 Dec 2022 11:41:15 -0800</pubDate>
+      
+      <guid>https://evocn.org/posts/dec_art/</guid>
+      <description>This month I&amp;rsquo;m going to try to make some art, because it&amp;rsquo;s fun.
+I&amp;rsquo;m going to do it every day, because then I will get better quickly.
+Every day I&amp;rsquo;ll post something I make here.
+Day 1 – Emerald 5 Hours
+Day 2 – Fighter 1 Hour
+Day 3 – June 2 Hours</description>
+    </item>
+    
+  </channel>
+</rss>

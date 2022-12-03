@@ -4,7 +4,6 @@ title = 'evocations'
 theme = 'archie'
 copyright = "evocations"
 googleAnalytics = "G-7W98KDFL8L"
-googleAnalyticsAsync = false
 pygmentsstyle = "rrt"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true

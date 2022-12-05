@@ -8,6 +8,18 @@ tags: []
 
 These are my recently produced films.
 
+### rain
+{{< youtube id="2IyqQCqUDUA" title="rain">}}
+
+Short set to *Green Bird* from *Cowboy Bebop*.
+Decided to shoot a movie because it was raining, ended up getting a ton of
+footage.
+
+Learned about evocative editing, lots of zoom/pan shots, and how to get a good
+static shot.
+
+Cut it to the song, turned out great. Three to shoot, three to edit.
+
 ### frisbee
 {{< youtube id="54FBdRIYEFE" title="frisbee">}}
 

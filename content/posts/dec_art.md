@@ -1,8 +1,8 @@
 ---
-title: "Art month"
+title: "Art-vent calendar"
 date: 2022-12-03T11:41:15-08:00
 draft: false
-description: "This month I'm creating some piece of art every day."
+description: "Zero to hero in one month"
 tags: [art]
 ---
 
@@ -11,6 +11,10 @@ This month I'm going to try to make some art, because it's fun.
 I'm going to do it every day, because then I will get better quickly.
 
 Every day I'll post something I make here.
+
+Since art can always be tweaked, I am setting my goal at the end of the month to
+be efficiency. I want to be able to create a piece of art that is of high
+quality in a short time (e.g. not 5 hours).
 
 ## Day 1 – Emerald
 ![01](/art/01-emerald.png)
@@ -26,3 +30,13 @@ Every day I'll post something I make here.
 ![03](/art/03-june.png)
 
 2 Hours
+
+## Day 4 – front 45º
+![04](/art/04-farm.png)
+
+2 Hours
+
+They're in the order I made them.
+
+Learned a lot today about perspective. These are front 45's. Tomorrow I'll
+probably try out some corner 45's.

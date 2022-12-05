@@ -40,3 +40,16 @@ They're in the order I made them.
 
 Learned a lot today about perspective. These are front 45's. Tomorrow I'll
 probably try out some corner 45's.
+
+## Day 5 – side 45º
+![04](/art/05-side.png)
+
+2 Hours
+
+Started by copying a design.
+
+Went on to make my own.
+Sort of inspired by Notre Dame Cathedral.
+
+Probably a little ambitious for now, but if you don't look too hard at it, it's
+alright.

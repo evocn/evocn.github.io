@@ -42,7 +42,7 @@ Learned a lot today about perspective. These are front 45's. Tomorrow I'll
 probably try out some corner 45's.
 
 ## Day 5 – side 45º
-![04](/art/05-side.png)
+![05](/art/05-side.png)
 
 2 Hours
 
@@ -53,3 +53,11 @@ Sort of inspired by Notre Dame Cathedral.
 
 Probably a little ambitious for now, but if you don't look too hard at it, it's
 alright.
+
+## Day 6 – canvas
+![06](/art/06-canvas.png)
+
+1 Hour
+
+Just decided to do another on day 5, felt like trying out different color
+palettes.

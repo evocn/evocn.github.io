@@ -61,3 +61,18 @@ alright.
 
 Just decided to do another on day 5, felt like trying out different color
 palettes.
+
+## Day 7 – farm
+![07](/art/07-farm2.png)
+
+## Day 8 – agent
+![08](/art/08-cowboy.png)
+
+Trying out Brandon James Greer's method of starting with lines, then forms, then
+grayscale shading, then color. Had a hard time getting used to it, but it seems
+like it actually did me some good. Might keep doing it.
+
+## Day 9 – warrior
+![09](/art/09-mohican.png)
+
+Inspired by Mugen from Samurai Champloo and Last of the Mohicans.

@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://evocn.org/</loc>
+    <lastmod>2022-12-06T08:37:17-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.org/posts/multipliers/</loc>
+    <lastmod>2022-12-06T08:37:17-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.org/tags/optimization/</loc>
+    <lastmod>2022-12-06T08:37:17-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.org/posts/</loc>
+    <lastmod>2022-12-06T08:37:17-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.org/tags/</loc>
+    <lastmod>2022-12-06T08:37:17-08:00</lastmod>
+  </url><url>
     <loc>https://evocn.org/tags/art/</loc>
     <lastmod>2022-12-03T11:41:15-08:00</lastmod>
   </url><url>
     <loc>https://evocn.org/posts/dec_art/</loc>
-    <lastmod>2022-12-03T11:41:15-08:00</lastmod>
-  </url><url>
-    <loc>https://evocn.org/</loc>
-    <lastmod>2022-12-03T11:41:15-08:00</lastmod>
-  </url><url>
-    <loc>https://evocn.org/posts/</loc>
-    <lastmod>2022-12-03T11:41:15-08:00</lastmod>
-  </url><url>
-    <loc>https://evocn.org/tags/</loc>
     <lastmod>2022-12-03T11:41:15-08:00</lastmod>
   </url><url>
     <loc>https://evocn.org/films/</loc>

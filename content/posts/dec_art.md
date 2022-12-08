@@ -68,6 +68,8 @@ palettes.
 ## Day 8 – agent
 ![08](/art/08-cowboy.png)
 
+1 Hour
+
 Trying out Brandon James Greer's method of starting with lines, then forms, then
 grayscale shading, then color. Had a hard time getting used to it, but it seems
 like it actually did me some good. Might keep doing it.
@@ -75,4 +77,25 @@ like it actually did me some good. Might keep doing it.
 ## Day 9 – warrior
 ![09](/art/09-mohican.png)
 
+2 Hours
+
 Inspired by Mugen from Samurai Champloo and Last of the Mohicans.
+
+## Day 10 – jackie
+![10](/art/10-jackie.png)
+
+1 Hour
+
+Watched *Drunken Master* and just had to try to put Jackie in pixel art.
+Horse stance was hard to get right. You can see the subject below.
+
+![jackie](/art/jackie_src.jpg)
+
+## Day 11 – anatomy
+![11](/art/11-anatomy.png)
+
+3 Hours
+
+Spent most of the day obsessing over anatomy. Really had some fun with it. You
+can outline stuff quick, and I can feel myself getting better.
+

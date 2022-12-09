@@ -99,3 +99,10 @@ Horse stance was hard to get right. You can see the subject below.
 Spent most of the day obsessing over anatomy. Really had some fun with it. You
 can outline stuff quick, and I can feel myself getting better.
 
+## Day 12 – munkee
+![12](/art/14-monkey.gif)
+
+1.5 Hours
+
+Did some animation. It's so fun! I can't wait to try some more of this stuff!
+Also, monkeys are so fun and cute that I kind of want to make a monkey game now.

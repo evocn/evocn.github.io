@@ -8,6 +8,18 @@ tags: []
 
 These are my recently produced films.
 
+### fool
+{{< youtube id="1Pvo8DZQn1Y" title="fool">}}
+
+A little bit of a different idea this time.
+Tried out dialogue, effects, etc.
+
+Happy with some of it, disappointed with others.
+
+six hours shooting over three days.
+
+six hours editing, mostly fixing iphone audio.
+
 ### rain
 {{< youtube id="2IyqQCqUDUA" title="rain">}}
 

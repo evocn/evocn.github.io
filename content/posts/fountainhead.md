@@ -2,8 +2,8 @@
 title: "Two destinies"
 date: 2022-12-01T09:39:14-08:00
 draft: false
-description: "And how to choose just one"
-tags: [personal]
+description: "Ayn Rand's 'The Fountainhead'"
+tags: [review, personal]
 ---
 
 ![achilles](/achilles.jpg)
@@ -88,7 +88,7 @@ In order to enforce this, I will root out that which is weak and pitiful in
 myself. I will not seek out help from others without first practicing the act of
 thinking and overcoming.
 
-<hr>
+---
 
 This article acts mostly as prayer, a deeply personal reminder of what I need to
 change.

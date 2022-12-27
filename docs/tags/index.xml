@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>evocations</copyright>
-    <lastBuildDate>Tue, 06 Dec 2022 08:37:17 -0800</lastBuildDate><atom:link href="https://evocn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 13:22:11 -0800</lastBuildDate><atom:link href="https://evocn.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>creations</title>
+      <link>https://evocn.org/tags/creations/</link>
+      <pubDate>Tue, 27 Dec 2022 13:22:11 -0800</pubDate>
+      
+      <guid>https://evocn.org/tags/creations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>https://evocn.org/tags/personal/</link>
+      <pubDate>Tue, 27 Dec 2022 11:46:08 -0800</pubDate>
+      
+      <guid>https://evocn.org/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reflection</title>
+      <link>https://evocn.org/tags/reflection/</link>
+      <pubDate>Tue, 27 Dec 2022 11:46:08 -0800</pubDate>
+      
+      <guid>https://evocn.org/tags/reflection/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>optimization</title>
       <link>https://evocn.org/tags/optimization/</link>
@@ -27,11 +54,11 @@
     </item>
     
     <item>
-      <title>personal</title>
-      <link>https://evocn.org/tags/personal/</link>
+      <title>review</title>
+      <link>https://evocn.org/tags/review/</link>
       <pubDate>Thu, 01 Dec 2022 09:39:14 -0800</pubDate>
       
-      <guid>https://evocn.org/tags/personal/</guid>
+      <guid>https://evocn.org/tags/review/</guid>
       <description></description>
     </item>
     
@@ -50,15 +77,6 @@
       <pubDate>Fri, 11 Nov 2022 10:09:56 -0800</pubDate>
       
       <guid>https://evocn.org/tags/games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>review</title>
-      <link>https://evocn.org/tags/review/</link>
-      <pubDate>Tue, 08 Nov 2022 21:28:46 -0800</pubDate>
-      
-      <guid>https://evocn.org/tags/review/</guid>
       <description></description>
     </item>
     

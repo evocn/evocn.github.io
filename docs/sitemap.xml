@@ -2,22 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://evocn.org/games/</loc>
-    <lastmod>2022-12-26T23:11:03-08:00</lastmod>
+    <loc>https://evocn.org/tags/creations/</loc>
+    <lastmod>2022-12-27T13:22:11-08:00</lastmod>
   </url><url>
     <loc>https://evocn.org/</loc>
-    <lastmod>2022-12-06T08:37:17-08:00</lastmod>
+    <lastmod>2022-12-27T13:22:11-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.org/music/</loc>
+    <lastmod>2022-12-27T13:22:11-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.org/tags/</loc>
+    <lastmod>2022-12-27T13:22:11-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.org/art/</loc>
+    <lastmod>2022-12-27T12:54:07-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.org/posts/f2022/</loc>
+    <lastmod>2022-12-27T11:46:08-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.org/tags/personal/</loc>
+    <lastmod>2022-12-27T11:46:08-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.org/posts/</loc>
+    <lastmod>2022-12-27T11:46:08-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.org/tags/reflection/</loc>
+    <lastmod>2022-12-27T11:46:08-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.org/games/</loc>
+    <lastmod>2022-12-26T23:11:03-08:00</lastmod>
   </url><url>
     <loc>https://evocn.org/posts/multipliers/</loc>
     <lastmod>2022-12-06T08:37:17-08:00</lastmod>
   </url><url>
     <loc>https://evocn.org/tags/optimization/</loc>
-    <lastmod>2022-12-06T08:37:17-08:00</lastmod>
-  </url><url>
-    <loc>https://evocn.org/posts/</loc>
-    <lastmod>2022-12-06T08:37:17-08:00</lastmod>
-  </url><url>
-    <loc>https://evocn.org/tags/</loc>
     <lastmod>2022-12-06T08:37:17-08:00</lastmod>
   </url><url>
     <loc>https://evocn.org/tags/art/</loc>
@@ -29,7 +47,7 @@
     <loc>https://evocn.org/films/</loc>
     <lastmod>2022-12-01T22:35:55-08:00</lastmod>
   </url><url>
-    <loc>https://evocn.org/tags/personal/</loc>
+    <loc>https://evocn.org/tags/review/</loc>
     <lastmod>2022-12-01T09:39:14-08:00</lastmod>
   </url><url>
     <loc>https://evocn.org/posts/fountainhead/</loc>
@@ -48,9 +66,6 @@
     <lastmod>2022-11-11T10:09:56-08:00</lastmod>
   </url><url>
     <loc>https://evocn.org/posts/theoryoffun/</loc>
-    <lastmod>2022-11-08T21:28:46-08:00</lastmod>
-  </url><url>
-    <loc>https://evocn.org/tags/review/</loc>
     <lastmod>2022-11-08T21:28:46-08:00</lastmod>
   </url><url>
     <loc>https://evocn.org/posts/warofart/</loc>

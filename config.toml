@@ -52,12 +52,21 @@ url = "/films"
 weight = 3
 
 [[menu.main]]
+name = "music"
+url = "/music"
+weight = 4
+
+[[menu.main]]
+name = "art"
+url = "/art"
+weight = 5
+
+[[menu.main]]
 name = "archive"
 url = "/posts"
-weight = 4
+weight = 6
 
 [[menu.main]]
 name = "tags"
 url = "/tags"
-weight = 5
-
+weight = 7

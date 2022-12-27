@@ -35,8 +35,6 @@ leaves in the same amount of time.
 Your first three months programming will see you grawing a very small amount
 relative to the growth you experience in three months at expert-level.
 
-Below I've shared some of my favorite multipliers.
-
 ## Catalogue
 Here's a list of my favorite multipliers, which act as a foundation to allow me
 to do all the things that I do.
@@ -124,7 +122,7 @@ energy crisis.
     since it renders most other optimizations irrelevant due to its sheer
     force.
 
-<hr>
+---
 
 As you can see, I've found quite a few multipliers.
 I love finding new ones and exploiting the ones in my bag of tricks to do things

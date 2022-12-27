@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>creations on evocations</title>
+    <link>https://evocn.org/tags/creations/</link>
+    <description>Recent content in creations on evocations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>evocations</copyright>
+    <lastBuildDate>Tue, 27 Dec 2022 13:22:11 -0800</lastBuildDate><atom:link href="https://evocn.org/tags/creations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music</title>
+      <link>https://evocn.org/music/</link>
+      <pubDate>Tue, 27 Dec 2022 13:22:11 -0800</pubDate>
+      
+      <guid>https://evocn.org/music/</guid>
+      <description>These are my songs.
+2023 No music yet!
+2022 Mohican </description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>https://evocn.org/art/</link>
+      <pubDate>Tue, 27 Dec 2022 12:54:07 -0800</pubDate>
+      
+      <guid>https://evocn.org/art/</guid>
+      <description>This is a collection of cool little art pieces I make in my spare time.
+I&amp;rsquo;m an amateur, most certainly, but it&amp;rsquo;s fun to do something new.
+The Monkey Collection gorill munkee tilesetFeel free to use this!</description>
+    </item>
+    
+    <item>
+      <title>Games</title>
+      <link>https://evocn.org/games/</link>
+      <pubDate>Mon, 26 Dec 2022 23:11:03 -0800</pubDate>
+      
+      <guid>https://evocn.org/games/</guid>
+      <description>These are my recently developed games.
+emblem prototypea scene from an early prototype.
+A work-in-progress.
+A small-scale tactics game in the vein of Fire Emblem and Into the Breach.
+Developed from scratch (minus SDL) in C++.</description>
+    </item>
+    
+    <item>
+      <title>Films</title>
+      <link>https://evocn.org/films/</link>
+      <pubDate>Thu, 01 Dec 2022 22:35:55 -0800</pubDate>
+      
+      <guid>https://evocn.org/films/</guid>
+      <description>These are my recently produced films.
+fool A little bit of a different idea this time. Tried out dialogue, effects, etc.
+Happy with some of it, disappointed with others.
+six hours shooting over three days.
+six hours editing, mostly fixing iphone audio.
+rain Short set to Green Bird from Cowboy Bebop. Decided to shoot a movie because it was raining, ended up getting a ton of footage.
+Learned about evocative editing, lots of zoom/pan shots, and how to get a good static shot.</description>
+    </item>
+    
+  </channel>
+</rss>

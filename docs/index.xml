@@ -9,6 +9,18 @@
     <copyright>evocations</copyright>
     <lastBuildDate>Tue, 06 Dec 2022 08:37:17 -0800</lastBuildDate><atom:link href="https://evocn.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Games</title>
+      <link>https://evocn.org/games/</link>
+      <pubDate>Mon, 26 Dec 2022 23:11:03 -0800</pubDate>
+      
+      <guid>https://evocn.org/games/</guid>
+      <description>These are my recently developed games.
+emblem A work-in-progress.
+A small-scale tactics game in the vein of Fire Emblem and Into the Breach.
+Developed from scratch (minus SDL) in C++.</description>
+    </item>
+    
+    <item>
       <title>Multipliers</title>
       <link>https://evocn.org/posts/multipliers/</link>
       <pubDate>Tue, 06 Dec 2022 08:37:17 -0800</pubDate>
@@ -48,27 +60,16 @@ Learned about evocative editing, lots of zoom/pan shots, and how to get a good s
     </item>
     
     <item>
-      <title>The Fountainhead</title>
+      <title>Two destinies</title>
       <link>https://evocn.org/posts/fountainhead/</link>
       <pubDate>Thu, 01 Dec 2022 09:39:14 -0800</pubDate>
       
       <guid>https://evocn.org/posts/fountainhead/</guid>
-      <description>My Heel I&amp;rsquo;ve always known what my Achilles heel is.
-Over the last few years I&amp;rsquo;ve grown distant from people. I&amp;rsquo;ve avoided making introductions, reaching out, etc.
+      <description>I&amp;rsquo;ve always known what my Achilles heel is.
+Over the last few years I&amp;rsquo;ve grown distant from people. I&amp;rsquo;ve avoided making introductions, reaching out to strangers, etc.
 I&amp;rsquo;ve had my justifications: &amp;ldquo;I&amp;rsquo;m working on something,&amp;rdquo; &amp;ldquo;I don&amp;rsquo;t want to compromise myself to try to make an impression on them,&amp;rdquo; and similar thoughts come to mind.
-The true reason was always twofold. First, elitism. I believed that no one could offer me anything new, and they were just wasting my time.</description>
-    </item>
-    
-    <item>
-      <title>Recommendations</title>
-      <link>https://evocn.org/posts/recommendations/</link>
-      <pubDate>Sun, 27 Nov 2022 21:25:33 -0800</pubDate>
-      
-      <guid>https://evocn.org/posts/recommendations/</guid>
-      <description>This is a simple list of recommendations to anyone who is looking for something good to experience. My tendency is towards recommending off-beat stuff that you might not have heard of before.
-Films Wolf Children is the most personal movie I&amp;rsquo;ve ever seen. Takagi Masakatsu&amp;rsquo;s soundtrack brings me sheer joy every single time I watch it.
-Angel&amp;rsquo;s Egg is harrowing. Mamoru Oshii before Ghost in the Shell.
-Anime Gunbuster was doing relativity tragedy almost thirty years before Interstellar.</description>
+The true reason was always twofold.
+Elitism | I believed that no one could offer me anything new, and they were just wasting my time.</description>
     </item>
     
     <item>
@@ -78,19 +79,10 @@ Anime Gunbuster was doing relativity tragedy almost thirty years before Interste
       
       <guid>https://evocn.org/posts/curriculum/</guid>
       <description>Computer education is DIY.
-Classes teach basics, point out the most popular methods, frameworks. The learning happens inbetween.
-I&amp;rsquo;ve held a love-hate relationship with this reality for the four years I&amp;rsquo;ve spent programming. On the one hand, information is free, knowledge is out there, and you can teach yourself anything these days. On the other hand, it&amp;rsquo;s discouraging. My best resources are archaic books packed to the gills with information that you can&amp;rsquo;t effectively search through, along with Google, the mother of my despair, which you can effectively search through, but is so packed with garbage that it boggles the mind.</description>
-    </item>
-    
-    <item>
-      <title>Finish your game</title>
-      <link>https://evocn.org/posts/finish/</link>
-      <pubDate>Mon, 21 Nov 2022 17:41:40 -0800</pubDate>
-      
-      <guid>https://evocn.org/posts/finish/</guid>
-      <description>There is are two types of people in this world: those who finish games, and those who do not.
-This idea is rapidly coming to the forefront of my life. I&amp;rsquo;m a college student, just beginning to seek my life&amp;rsquo;s work. In these days of discovery, I have learned the joy of starting.
-Starting; that wonderful process&amp;hellip; it&amp;rsquo;s my favorite thing to do. I&amp;rsquo;ll start things all day long, and never rest, never tire.</description>
+Classes teach basics, point out the most popular methods, frameworks. The learning happens inbetween them.
+I&amp;rsquo;ve held a love-hate relationship with this reality for the four years I&amp;rsquo;ve spent programming.
+On the one hand, information is free, knowledge is out there, and you can teach yourself anything these days.
+On the other hand, it&amp;rsquo;s discouraging. My best resources are archaic books packed to the gills with information that you can&amp;rsquo;t effectively search through, along with Google, the mother of my despair, which you can effectively search through, but is so packed with garbage that it boggles the mind.</description>
     </item>
     
     <item>
@@ -99,7 +91,7 @@ Starting; that wonderful process&amp;hellip; it&amp;rsquo;s my favorite thing to
       <pubDate>Fri, 11 Nov 2022 10:09:56 -0800</pubDate>
       
       <guid>https://evocn.org/posts/zelda/</guid>
-      <description>In Zelda for the NES, I noticed a cool trick used to keep people from getting stuck on the terrain. It looks like this:
+      <description>In The Legend of Zelda for the NES, I noticed a cool trick used to keep people from getting stuck on the terrain. It looks like this:
 There&amp;rsquo;s something weird going on here that is hard to put your finger on, but impossible to miss as you&amp;rsquo;re playing the game. There&amp;rsquo;s an effect, some nuance of the movement, that keeps you from getting stuck on the terrain and keeps your sword in line with the enemies.</description>
     </item>
     
@@ -110,7 +102,7 @@ There&amp;rsquo;s something weird going on here that is hard to put your finger 
       
       <guid>https://evocn.org/posts/theoryoffun/</guid>
       <description>My experience with game design has been a tenuous one. This is a summary of the development of my opinions on games over time:
-Age 9 – 16 | Love games. Sometimes flirt with armchair criticism. Age 17 – Today | General distaste for games. Belief that some games are gold. Games meant a lot to me once, in the sort of child-like way that only can be felt at one time, then remembered fondly.</description>
+Age 9 – 16 | Love games. Sometimes get bored. Age 17 – Today | General distaste for games. Belief that some games are gold. Games meant a lot to me once, in the sort of child-like way that only can be felt once, then remembered fondly.</description>
     </item>
     
     <item>
@@ -119,9 +111,9 @@ Age 9 – 16 | Love games. Sometimes flirt with armchair criticism. Age 17 – T
       <pubDate>Wed, 02 Nov 2022 11:17:54 -0700</pubDate>
       
       <guid>https://evocn.org/posts/warofart/</guid>
-      <description>I recently read Steven Pressfield&amp;rsquo;s The War of Art. It was a great book, packed with great insight, hard-earned wisdom, and some spiritual thoughts that I resonated strongly with.
+      <description>I recently read Steven Pressfield&amp;rsquo;s The War of Art. It was a great book, packed with great insight, hard-earned wisdom, and some interesting metaphysical thoughts.
 Ideas that really struck me:
-Creativity is holy | Pressfield&amp;rsquo;s insistence on treating the magic of creation with the religious reverance it has so often been deprived of today. Turning pro | Amateur artists are simply submitting to resistance. If you really cared, you would do it full-time, no matter the consequences.</description>
+Creativity is holy | Pressfield insists on treating the magic of creation with the religious reverance it has seemingly lost to many. Turning pro | Amateur artists submit to resistance. If you really cared, you would do it full-time, no matter the consequences.</description>
     </item>
     
     <item>
@@ -131,7 +123,7 @@ Creativity is holy | Pressfield&amp;rsquo;s insistence on treating the magic of 
       
       <guid>https://evocn.org/posts/ray_one/</guid>
       <description>Over the last few weeks, I&amp;rsquo;ve been poking around with a basic ray-tracer. You can find my code here. It&amp;rsquo;s been fun to tweak values, but it&amp;rsquo;s my intention to fully understand everything that&amp;rsquo;s going on under the hood.
-I tend to find that teaching a subject leads to deeper understanding. In pursuit of understanding, I&amp;rsquo;m going to explain the concepts involved at a basic level for the sake of grokking this stuff myself.</description>
+I tend to find that teaching a subject leads to deeper understanding. In pursuit of understanding, I&amp;rsquo;m going to explain the concepts involved at a basic level. Consider this to be a 30,000 foot overview of ray-tracing.</description>
     </item>
     
     <item>
@@ -142,7 +134,7 @@ I tend to find that teaching a subject leads to deeper understanding. In pursuit
       <guid>https://evocn.org/posts/intro/</guid>
       <description>Hi there, I&amp;rsquo;m Alex. This is my first post.
 The web has been so wonderful to me in my life (though I spend little time here now).
-I love old internet homepages particularly. Here are a couple of examples. There&amp;rsquo;s something so sublime about how raw these pages are, and the way that stupid things are shared so effortlessly, without fear. I sometimes wonder if these pages were even built knowing that this would be a person&amp;rsquo;s public-facing self, or if maybe that idea hadn&amp;rsquo;t fully dawned on anyone back in the day.</description>
+I love old internet homepages. here are a couple of examples. There&amp;rsquo;s something so cute about how raw these pages are, and the way that personal things are shared so effortlessly, without fear. They seem to have had some confidence that we all forgot.</description>
     </item>
     
     <item>
@@ -153,9 +145,9 @@ I love old internet homepages particularly. Here are a couple of examples. There
       <guid>https://evocn.org/about/</guid>
       <description>I&amp;rsquo;m a student of programming, film, and game design, mostly self-taught, though I am studying Computer Science at Cal Poly SLO.
 Mostly focused on three areas:
-Computer Graphics Game Design Short ( &amp;lt;5 minute ) films with character This blog is to chronicle my development and express some ideas I have. I hope you like some of my work.
-Let me know at alexanderhartford@gmail.com. Feel free to reach out.
-My code is all on Github.</description>
+Computer Graphics Game Design Short ( &amp;lt;5 minute ) films with character This blog is to chronicle my development and express some ideas I have.
+Even if we never speak, I hope my work finds you well.
+me! </description>
     </item>
     
     <item>

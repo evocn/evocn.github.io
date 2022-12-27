@@ -2,7 +2,7 @@
 <html><head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Modeling light with computers - evocations</title><link rel="icon" type="image/png" href=favicon.png /><meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Understanding a toy ray tracer." />
+	<meta name="description" content="Basic overview of ray tracing" />
 	<meta property="og:image" content=""/>
 	<head>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.3/dist/katex.min.css" 
@@ -29,7 +29,7 @@
 			});
 		});
 	</script><meta property="og:title" content="Modeling light with computers" />
-<meta property="og:description" content="Understanding a toy ray tracer." />
+<meta property="og:description" content="Basic overview of ray tracing" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://evocn.org/posts/ray_one/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2022-10-31T22:26:25-07:00" />
@@ -37,16 +37,16 @@
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Modeling light with computers"/>
-<meta name="twitter:description" content="Understanding a toy ray tracer."/>
+<meta name="twitter:description" content="Basic overview of ray tracing"/>
 <script src="https://evocn.org/js/feather.min.js"></script>
 	
 	
-        <link href="https://evocn.org/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
+        <link href="https://evocn.org/css/fonts.3ed0f07021287a6d09d4c348c8d3df1075dc1ff0046826eaee23e5592a55a88a.css" rel="stylesheet">
 	
 
 	
-	<link rel="stylesheet" type="text/css" media="screen" href="https://evocn.org/css/main.2950d5c1425b083bb6462a345087ba540a83663bf0afa6022403711f8175af14.css" />
-		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="https://evocn.org/css/dark.e4011a957f390580ba32e07a022c2e5d81c553eb128e9755a5c9bbef39c7c88b.css"  disabled />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://evocn.org/css/main.83b69b318997fcede3e042e5ab7ca1f9de79a632ec4e8907509260af83222d27.css" />
+		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="https://evocn.org/css/dark.48bc6ab92733799ef06d7d545286fa8b3e57d8d5d24bd86fed1c4e1573bb52d1.css"  disabled />
 	
 	
 	
@@ -58,13 +58,15 @@
 	</div>
 	<nav>
 		
+		<a href="/about">about</a>
+		
+		<a href="/games">games</a>
+		
+		<a href="/films">films</a>
+		
 		<a href="/posts">archive</a>
 		
 		<a href="/tags">tags</a>
-		
-		<a href="/about">about</a>
-		
-		<a href="/films">films</a>
 		
 		| <a id="dark-mode-toggle" onclick="toggleTheme()" href=""></a>
 		<script src="https://evocn.org/js/themetoggle.js"></script>
@@ -77,8 +79,6 @@
 		<div class="title">
 			<h1 class="title">Modeling light with computers</h1>
 		</div>
-		
-
 		<section class="body">
 			<p>Over the last few weeks, I&rsquo;ve been poking around with a basic ray-tracer.
 You can find my code <a href="https://github.com/dathash/ray">here</a>.
@@ -87,55 +87,66 @@ It&rsquo;s been fun to tweak values, but it&rsquo;s my intention to fully unders
 everything that&rsquo;s going on under the hood.</p>
 <p>I tend to find that teaching a subject leads to deeper understanding.
 In pursuit of understanding, I&rsquo;m going to explain the concepts involved at a
-basic level for the sake of grokking this stuff myself.
+basic level.
 Consider this to be a 30,000 foot overview of ray-tracing.</p>
 <h2 id="a-basic-model-of-light">A Basic Model of Light</h2>
 <p>When we experience the sensation of sight with our eyes, rays of light reflect
 off of objects in our environment, eventually arriving at our eyes.</p>
-<p><img src="/ray_f1.jpg" alt="Figure 1"></p>
-<p>All insights build from this, so understanding this deeply is vital.
-The following is a listing of some specific details that this model implies.</p>
+<figure><img src="/ray_f1.jpg"/><figcaption>
+            <h4>figure 1: overview</h4>
+        </figcaption>
+</figure>
+
+<p>All insights build from this, so understanding this deeply is vital.</p>
 <h3 id="details">Details</h3>
-<p>Objects always appear to have a <strong>color</strong>. This color is a property inherent to
-the object.
-Objects appear to be a certain color because they <strong>reflect</strong> that color of
-light, and <strong>absorb</strong> all other colors of light.</p>
 <blockquote>
-<p>An example of this phenomena in action is plant photosynthesis. Plants appear green
-to us, which means that they absorb other types of light (red, blue).
-it is well documented that plants are completely unable to absorb green light.
-Therefore, a plant washed in green light and nothing else receives just as
-much nutrition as one in pitch darkness.</p>
+<p>Objects always appear to have a <strong>color</strong>.</p>
 </blockquote>
-<p>Objects also have a <strong>surface</strong> type.
-These surfaces are defined by the particular way in which light reflects off
+<p>This occurs because an object <strong>reflects</strong> that color of
+light, and <strong>absorbs</strong> all other colors of light.</p>
+<ul>
+<li>Imagine in the model above, the ray bouncing from an object into your eye is
+colored based on what bounces off of the object.</li>
+</ul>
+<blockquote>
+<p>Objects have a <strong>surface</strong> type.</p>
+</blockquote>
+<p>These surfaces are defined by the particular way in which light reflects off
 of an object.</p>
+<blockquote>
 <p><strong>Specular</strong> surfaces reflect light perfectly.</p>
-<blockquote>
-<p>A good example of this is a mirror. Given a ray in, you can trace the bounce
-off the surface perfectly. Therefore, you see a clear reflection.</p>
 </blockquote>
+<ul>
+<li>A good example of this is a mirror. Given a ray in, you can trace the bounce
+off the surface perfectly. Therefore, you see a clear reflection.</li>
+</ul>
+<blockquote>
 <p><strong>Diffuse</strong> surfaces are rough, and therefore reflect light imperfectly.</p>
-<blockquote>
-<p>An example of diffuse surface is&hellip; Pretty much everything around you. Stone,
-wood, plastic, etc.</p>
 </blockquote>
-<p><img src="/ray_f2.jpg" alt="Figure 2"></p>
+<ul>
+<li>Diffuse surfaces make up most everyday objects: stone, wood, plastic, and much
+more.</li>
+</ul>
+<figure><img src="/ray_f2.jpg"/><figcaption>
+            <h4>figure 2: materials</h4>
+        </figcaption>
+</figure>
+
 <p>As a final note, light often only finds your eye after one or two or ten
 <strong>bounces</strong>. A bounce is what happens when a ray reflects off your subject and then hits
 another object before hitting your eye. This bouncing property is generally
 responsible for the principle of <strong>ambient</strong> light.</p>
-<blockquote>
-<p>Look under your desk right now. There might not be a direct path from your light
+<ul>
+<li>Look under your desk right now. There might not be a direct path from your light
 source to that point under your desk, but it&rsquo;s still illuminated due to light
-bouncing off of the rest of your environment and then bouncing from that
-otherwise dark point.</p>
-</blockquote>
+bouncing off of the rest of your environment and then bouncing into your eye
+from that otherwise dark point.</li>
+</ul>
 <p>There are a variety of other crazy situations with light, but armed with this
 basic axiomatic model of light, one can start to understand them. How does glass
 work? What about water? These answers are just a few short minutes of reflection
-(or a google search on the word <em>refraction</em>) away. It&rsquo;s a very consistent and
-basic system.</p>
+(or a google search on the word <strong>refraction</strong>) away.</p>
+<p>It&rsquo;s a very consistent and basic system.</p>
 <h2 id="rays">Rays</h2>
 <p>Our model of computing light begins with the following:</p>
 <blockquote>
@@ -143,6 +154,32 @@ basic system.</p>
 We call that point our origin.
 Emanating from this point are rays.</p>
 </blockquote>
+<p>Those rays intersect with objects, &ldquo;seeing&rdquo; a color when they do.</p>
+<blockquote>
+<p><strong>Ray (Slope-Intercept Form)</strong></p>
+<p>A ray can be defined by the following relation:</p>
+<p>$P(t) = A + tb$</p>
+<p>Where:</p>
+<ul>
+<li>$P$ is a point on our ray.</li>
+<li>$A$ is the origin point.</li>
+<li>$b$ is the direction vector.</li>
+<li>$t$ is how far along the ray you are.</li>
+<li>$t = 0$ is the origin.</li>
+</ul>
+</blockquote>
+<p>Positive $t$ values result in a point in the path of the direction vector
+starting at the origin point.
+For our purposes, a ray generally only refers to positive $t$ values, as you
+can <em>usually</em> only see out of the front part of your eye ;).</p>
+<p><figure><img src="/ray_f3.jpg"
+         alt="The heart of our model. With this, you can find where a ray is at any point on its path."/><figcaption>
+            <h4>figure 3: ray equation</h4><p>The heart of our model. With this, you can find where a ray is at any point on its path.</p>
+        </figcaption>
+</figure>
+
+Now we know what a ray looks like. How do we use it to get color on our screen?</p>
+<h3 id="aside-performance">Aside: Performance</h3>
 <p>You may be asking: Why are the rays <strong>coming from</strong> our eyes, when light
 actually comes <strong>into</strong> our eyes from light sources in real life?
 A perfectly reasonable question. In fact, this is the first of many completely
@@ -154,45 +191,31 @@ environment right now). Add to this the difficulty of calculating bouncing
 rays, which can theoretically be calculated to any depth. Therefore, we simplify
 by sending rays out into the world from our origin, therefore only calculating
 rays which will directly affect our picture.</p>
-<blockquote>
-<p>Those rays intersect with objects, &ldquo;seeing&rdquo; a color when they do.</p>
-<p>A ray can be defined by the following relation:</p>
-<p>$P(t) = A + tb$</p>
-<p>Where:</p>
-<ul>
-<li>P is a point on our ray.</li>
-<li>A is the origin point.</li>
-<li>b is the direction vector.</li>
-<li>t is how far along the ray you are.</li>
-</ul>
-<p>t = 0 is the origin. Positive t values
-result in a point in the path of the direction vector starting at the origin
-point.
-For our purposes, a ray generally only refers to positive t values.</p>
-</blockquote>
-<p><img src="/ray_f3.jpg" alt="Figure 3"></p>
-<p>Now we know what a ray looks like. How do we use it to get color on our screen?</p>
 <h2 id="collisions">Collisions</h2>
-<p>These rays are going to tell us information about a 3D space.
-Much in the same way that light bounces off objects into our eyes, which allows
-us to tell what objects are where in space, our rays are going to collide with
-objects and do the same.</p>
+<p>These rays are going to tell us information about 3D space.
+Much in the same way that light bounces off objects into our eyes, which
+delivers information to us about where objects are located in space, our rays
+are going to collide with objects and do the same.</p>
 <p>The way we do this is through <strong>collisions</strong>. Collisions are useful in all sorts
-of programming, from graphics to gameplay to everything inbetween. This is the
-science of determining if some object is in the same place as
-another object, and what it means when it is.</p>
+of programming, from graphics to gameplay to everything inbetween.</p>
 <blockquote>
-<p>An example can be found in all manner of computer games. Fighting games are
+<p>Collisions involves determining if some object is in the same place as
+another object, and resolving what ought to happen thereafter.</p>
+</blockquote>
+<ul>
+<li>An example can be found in all manner of computer games. Fighting games are
 especially collision-focused. A character&rsquo;s attacks generate a bunch of boxes,
 which check against an opponent&rsquo;s boxes, and each of these must determine if
-they collide. If so, damage is done.</p>
-</blockquote>
+they collide. If so, damage is done.</li>
+</ul>
 <p>In the interest of simplicity, most basic ray-tracers use spheres. You&rsquo;ll see
 them all over the place online.
 The reason for this is that sphere collisions are the easiest collisions to
-detect. Let&rsquo;s go over this collision.</p>
+detect.</p>
 <h3 id="ray-sphere-intersection">Ray-Sphere Intersection</h3>
+<p>For completeness, let&rsquo;s go over this collision.</p>
 <blockquote>
+<p><strong>Basic Ray-Sphere Intersection</strong></p>
 <p>A sphere at the origin can be defined by the following equation:</p>
 <p>$x^2 + y^2 + z^2 = R^2$</p>
 <p>Where:</p>
@@ -205,17 +228,15 @@ detect. Let&rsquo;s go over this collision.</p>
 sphere&rsquo;s surface. If the left side of the equation is larger, it means that
 the point is outside of the circle. If the right side is larger, the point is
 inside the circle.</p>
-<p>We can generalize this equation to a sphere at an arbitrary point (a,b,c):</p>
+<p>We can generalize this equation to a sphere at an arbitrary point $(a,b,c)$:</p>
 <p>$(x-a)^2 + (y-b)^2 + (z-c)^2 = r^2$</p>
 <p>This can also be written in the following way:</p>
-<blockquote>
 <p>$(P-C)^2 = r^2$</p>
 <p>Where:</p>
 <ul>
-<li>P is our given point</li>
-<li>C is the circle&rsquo;s center.</li>
+<li>$P$ is our given point.</li>
+<li>$C$ is the circle&rsquo;s center.</li>
 </ul>
-</blockquote>
 <p>This equation is the one we will use to represent a sphere in space.
 In order to calculate whether a ray collides with the sphere, we need to
 determine if a point is in the sphere or not. Thankfully, we have a
@@ -224,58 +245,104 @@ relationship which defines a ray at a point already:</p>
 <p>We can therefore substitute this in for the point value in the circle
 equation:</p>
 <p>$(A+tb - C)^2 = r^2$</p>
-<p>And to move all of this to the left side and simplify, we get:</p>
+<p>We move all of this to the left side and simplify, we get:</p>
 <blockquote>
+<p><strong>Generalized Ray-Sphere Intersection</strong></p>
 <p>$t^2 * b + 2tb * (A-C)+ (A-C)^2 - r^2 = 0$</p>
 </blockquote>
-<p>Now we only have one unknown value: $t$, and we have a quadratic equation.</p>
-<p>We can solve this equation and find our roots. There are three possibilities:</p>
+<p>Now we have a quadratic equation with only one unknown: $t$.
+We can solve this equation and determine whether a ray collides with a sphere or
+not!</p>
+<p>Recall that quadratic equations can have 1 solution, two solutions, or no
+solutions.</p>
 <ul>
-<li><strong>0 Roots</strong> means that we don&rsquo;t have a collision.</li>
-<li><strong>1 Root</strong> means we collide with the edge of the sphere.</li>
-<li><strong>2 Roots</strong> means we collide with the sphere and punch through the other side.</li>
+<li><strong>0 solutions</strong> means that we don&rsquo;t have a collision.</li>
+<li><strong>1 solution</strong> means we collide with the edge of the sphere.</li>
+<li><strong>2 solutions</strong> means we collide with the sphere and punch through the other side.</li>
 </ul>
-<p><img src="/ray_f6.jpg" alt="Figure 6"></p>
+<figure><img src="/ray_f4.jpg"/><figcaption>
+            <h4>figure 4: collision solutions</h4>
+        </figcaption>
+</figure>
+
 <p>So we have our collision detection in place.
-In this case, we want to determine whether our ray collides with an object in
-space. If it does, we know there&rsquo;s an object there. Once we have determined
-there is a collision, then we engage in <strong>collision handling</strong>. This process
-varies greatly from program to program.</p>
-<blockquote>
-<p>Mario colliding with the ground and colliding with a goomba use the same
-collision detection algorithm, but result in different collision handling.</p>
-</blockquote>
+Once we have determined there is a collision, then we engage in <strong>collision
+handling</strong>. This process varies greatly from program to program.</p>
+<ul>
+<li>Mario colliding with the ground and colliding with a goomba use the same
+collision detection algorithm (axis-aligned bounding boxes), but result in
+different collision <em>handling</em> whether you&rsquo;ve stomped a goomba or the floor.
+<ul>
+<li>As a note, this even involves some nuance further than that. If you collide
+with a Goomba from the side, you die, but from above, Mario jumps into the
+air! This could be implemented with two separate boxes, or, as is often
+implemented, a vector can be kept from the object to the collider, allowing
+you to reason about where and how the collision occured.</li>
+</ul>
+</li>
+</ul>
 <p>In our case, when a ray collides with an object, we will tell it to illuminate a
-pixel based on what that object&rsquo;s color should be. This is a huge step, so let&rsquo;s
-break it down.</p>
+pixel based on what that object&rsquo;s color should be.</p>
 <h2 id="filling-a-canvas">Filling a canvas</h2>
-<p>Firstly, our screen is a large canvas of pixels. A big, blank grid.
-We assume that we can color those pixels whatever we want them to be,
-with something like blitToScreen(120, 335, RED), which makes a pixel at x=120, y=335
-change to red. We can set these pixels to be whatever we like, but we know we
-only have so many of them, determined by our <strong>resolution</strong>. Resolution is based
-on your monitor&rsquo;s pixel density and size. Let&rsquo;s say our monitor&rsquo;s resolution is 1920 pixels by 1080 pixels.</p>
-<p>The ratio between these
-numbers is also important to think about. It&rsquo;s basically the type of rectangle
-we want to render to. When you hear people talk about an <strong>aspect ratio</strong>, or
-mention that a movie is in <em>widescreen</em> or <em>4:3</em> or <em>16:9</em>, they&rsquo;re talking
-about aspect ratios. We can choose our aspect ratio as programmers, meaning that
-we can make square shots or super wide shots. Pretty cool to play around
-with.</p>
-<p>Secondly, those pixels are our end result, so we need to capture data for each
-of them. Imagine casting rays at a sheet with a pinhole with just one pixel
-open. If we shoot a ray through that pinhole, that ray will either never hit
+<p>A screen is a large canvas of pixels. A big, blank grid.  We assume that we can
+color those pixels whatever we want them to be.</p>
+<p>Imagine a function blit_to_screen(120, 335, red), which turns the pixel at x=120,
+y=335 to red.</p>
+<p>With this function, we can set these pixels to be whatever we like,
+but how many pixels do we have to work with? How big is our screen?</p>
+<blockquote>
+<p><strong>Resolution</strong> is the number of individual pixels (or otherwise atomic
+elements) your screen can render.</p>
+</blockquote>
+<p>Resolution is typically based on your monitor&rsquo;s pixel density and size.</p>
+<blockquote>
+<p>The ratio between the width and height of a screen is called its <strong>Aspect
+Ratio</strong></p>
+</blockquote>
+<ul>
+<li>Examples of aspect ratios commonly used are <em>widescreen</em>, <em>4:3</em> and <em>16:9</em>.</li>
+</ul>
+<p>We can choose our aspect ratio as programmers (within reason), meaning that we
+can make square shots, super wide shots – anything we want to! Pretty cool to
+play around with, if you ever get the chance.</p>
+<ul>
+<li>Completely unrelated, but changing aspect ratios midway through a piece of
+art, whether it be a film or game, is sometimes used to shock the audience in
+some intended way, whether it be to make something serious, like in Hideaki
+Anno&rsquo;s <em>Gunbuster</em>.</li>
+</ul>
+<p><figure><img src="/gunbusta.webp"/><figcaption>
+            <h4>4:3</h4>
+        </figcaption>
+</figure>
+
+<figure><img src="/widescreen.jpg" height="300"/><figcaption>
+            <h4>widescreen</h4>
+        </figcaption>
+</figure>
+</p>
+<p>A screen of pixels is our end result, so we need to capture data for each
+of them.</p>
+<p>Imagine casting rays at a sheet with a pinhole with just one pixel in the
+middle. If we shoot a ray through that pinhole, that ray will either never hit
 anything, or it will hit a sphere. A very simple algorithm would be to simply
 color the pixel if it hits the sphere, otherwise don&rsquo;t.</p>
 <p>In order to populate our screen, it&rsquo;s a simple matter of casting a ray through
 all of the pixels on that sheet. We call this a <strong>viewport</strong>.</p>
-<p><img src="/ray_f4.jpg" alt="Figure 4"></p>
+<figure><img src="/ray_f5.jpg"/><figcaption>
+            <h4>figure 5: viewport</h4>
+        </figcaption>
+</figure>
+
 <p>If we send a ray through each of these points on our viewport, from the origin,
 we get a good sample of where objects are in the world, and we end up with a
 result like this!</p>
-<p><img src="/ray_f5.png" alt="Figure 5"></p>
+<p><img src="/ray_res1.png" alt="Result"></p>
 <p>Beyond this simple ray-tracer, there isn&rsquo;t that much more to go until we have a
 real 3D-looking image.</p>
+<p>I hope you enjoyed this super basic overview of ray-tracing. I will most likely
+post a follow-up where we take this concept to a full-fledged 3D ray-tracer with
+surface-normals, lighting, and more.</p>
 
 		</section>
 
@@ -298,9 +365,10 @@ real 3D-looking image.</p>
 	</article>
 </main>
 <footer>
-  <div style="display:flex"><a class="soc" href="https://youtube.com/@alexanderhartford" title="Youtube"><i data-feather="youtube"></i></a>
-    <a class="border"></a><a class="soc" href="https://github.com/evocn" title="GitHub"><i data-feather="github"></i></a>
-    <a class="border"></a><a class="soc" href="mailto:%20alexanderhartford@gmail.com" title="Email"><i data-feather="mail"></i></a>
+  <div style="display:flex"><a class="soc" href="https://youtube.com/@alexanderhartford" title="My Youtube Channel"><i data-feather="youtube"></i></a>
+    <a class="border"></a><a class="soc" href="https://github.com/evocn" title="My GitHub"><i data-feather="github"></i></a>
+    <a class="border"></a><a class="soc" href="mailto:%20alexanderhartford@gmail.com" title="Email me!"><i data-feather="mail"></i></a>
+    <a class="border"></a><a class="soc" href="https://evocn.org/posts/index.xml" title="RSS"><i data-feather="rss"></i></a>
     <a class="border"></a></div>
   <div class="footer-info">
      evocations 

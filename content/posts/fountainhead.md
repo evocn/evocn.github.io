@@ -1,39 +1,42 @@
 ---
-title: "The Fountainhead"
+title: "Two destinies"
 date: 2022-12-01T09:39:14-08:00
 draft: false
-description: "A contradiction."
+description: "And how to choose just one"
 tags: [personal]
 ---
 
 ![achilles](/achilles.jpg)
 
-## My Heel
 I've always known what my Achilles heel is.
 
 Over the last few years I've grown distant from people. I've avoided making
-introductions, reaching out, etc.
+introductions, reaching out to strangers, etc.
 
 I've had my justifications: "I'm working on something," "I don't want to
 compromise myself to try to make an impression on them," and similar thoughts
 come to mind.
 
-The true reason was always twofold. First, elitism. I believed that no one could
-offer me anything new, and they were just wasting my time. Second, fear. Fear
-that they'll see through me, they'll see that I'm a fraud.
+The true reason was always twofold.
+1. **Elitism** | I believed that no one could offer me anything new, and they were
+   just wasting my time.
+2. **Fear** | that they'll see through me, they'll see that I'm a fraud.
 
 It comes to me in my weakest moments, this fear. It's simple, slipstream.
 
 ## Knowledge
 There's an old adage, well-known:
 
-> "It's not what you know, but who you know!"
-> –Everyone
+> It's not what you know, but who you know.
 
 I always hated it, fought against it violently.
-A new idea happened upon me recently that recontextualized my fight:
+A new idea happened upon me recently that recontextualized the fight:
 
-> Who you know is what you know.
+> Who you know *is* what you know.
+
+
+Goethe once said: "Show me who you spend time with and I will show you who you
+are."
 
 You are the amalgamation of the people you're closest to. That much is clear.
 For me, however, I don't spend that much time with people. Like I said, I
@@ -61,17 +64,13 @@ weight of social pressure.
 I am Peter Keating.
 
 In moments of fleeting vision, I transcend to become Howard Roark. Like some
-Steppenwolf of two faces, I try to justify myself as Roark most of the time, but
-it's a rare form of expression. Usually it occurs during the process of
-creation. When making a movie, game, or blog post. As for Roark's complete
+Steppenwolf of both wolf and man, I try to justify myself as Roark most of the
+time, but it's a rare form of expression. Usually it occurs during the process
+of creation. When making a movie, game, or blog post. As for Roark's complete
 relaxation, his momentary bliss, almost never.
 
 ## Reconciliation
-Obviously, it's a contradiction.
-
-The question being: which is true? Which is right?
-
-For you, I have nothing. It's up to you.
+The question: which is true? Which is right?
 
 For myself, I have an answer.
 
@@ -80,9 +79,19 @@ that, in the vision of Jon Blow, expresses the subjective reality of my
 experience.
 
 So I'm doubling down on my intentions. I seek pure creation. I will not seek
-people to get ahead. I will seek people in earnest, looking for ideas and
-companions seeking the same goal I seek.
+people to get ahead. I damn any bad-faith socially-constructed angling.
 
-In order to enforce this, I will despise that which is weak and pitiful
-in myself. I will not seek out help from others without first practicing the act
-of thinking and overcoming.
+I will seek people only in earnest, looking for ideas and companions seeking the same
+goal I seek.
+
+In order to enforce this, I will root out that which is weak and pitiful in
+myself. I will not seek out help from others without first practicing the act of
+thinking and overcoming.
+
+<hr>
+
+This article acts mostly as prayer, a deeply personal reminder of what I need to
+change.
+
+I hope you can find some solace in it, or perhaps the revolution you've always
+needed.

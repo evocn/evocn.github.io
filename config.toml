@@ -12,41 +12,52 @@ publishDir = "docs"
 [params]
     mode="toggle"
     useCDN=false
-	subtitle = "The blog of **Alex Hartford** | Learning about computers. Making games and movies. Honing my craft."
-	description = "Evocations is a blog about computers and ideas."
+	subtitle = "Making games and movies!!!"
+	description = "Making games and movies!!!"
 	favicon="favicon.png"
 
 [[params.social]]
-name = "Youtube"
+name = "My Youtube Channel"
 icon = "youtube"
 url = "https://youtube.com/@alexanderhartford"
 
 [[params.social]]
-name = "GitHub"
+name = "My GitHub"
 icon = "github"
 url = "https://github.com/evocn"
 
 [[params.social]]
-name = "Email"
+name = "Email me!"
 icon = "mail"
 url = "mailto: alexanderhartford@gmail.com"
 
-[[menu.main]]
-name = "archive"
-url = "/posts"
-weight = 1
-
-[[menu.main]]
-name = "tags"
-url = "/tags"
-weight = 2
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "https://evocn.org/posts/index.xml"
 
 [[menu.main]]
 name = "about"
 url = "/about"
-weight = 3
+weight = 1
+
+[[menu.main]]
+name = "games"
+url = "/games"
+weight = 2
 
 [[menu.main]]
 name = "films"
 url = "/films"
+weight = 3
+
+[[menu.main]]
+name = "archive"
+url = "/posts"
 weight = 4
+
+[[menu.main]]
+name = "tags"
+url = "/tags"
+weight = 5
+

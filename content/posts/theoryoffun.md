@@ -8,12 +8,12 @@ tags: [review, games]
 
 My experience with game design has been a tenuous one. This is a summary of the
 development of my opinions on games over time:
-1. **Age 9 – 16** | Love games. Sometimes flirt with armchair criticism.
-2. **Age 17 – Today** | General distaste for games. Belief that some games are gold.
+* **Age 9 – 16** | Love games. Sometimes get bored.
+* **Age 17 – Today** | General distaste for games. Belief that some games are gold.
 
 Games meant a lot to me once, in the sort of child-like way that only can be
-felt at one time, then remembered fondly. 
-Ever since, I've been merely curious about games. 
+felt once, then remembered fondly. 
+Ever since, I've been merely curious about games.
 I've played a few that did something weird or new, but I don't play them every
 weekend like I used to.
 
@@ -21,45 +21,50 @@ I've tried to chalk this change up to all sorts of factors:
 * Pride in my not having played games, "wasting" time.
 * Exhaustion at the sheer mass of games being developed, most of which suck.
 * Growing disinterest in tasks most games comprise of: optimization, spreadsheeting, etc.
-* Girlfriend?
+* I got a girlfriend.
 
 But none of them fully explains the shift I've experienced.
 
-Long story short, my experience playing games wanes, year after year. I'm not
-interested in most games, and I have a hard time really getting enchanted the
-way I used to get.
+My experience playing games wanes, year after year. I'm not interested in most
+games, and I have a hard time really getting enchanted the way I used to get.
 This confused me until recently, when I read
 [*A Theory of Fun For Game Design*](https://www.theoryoffun.com/)
 by Raph Koster.
 
 It's a brilliant book, concise in the way that informational books should be.
-the book is Raph's personal thesis on what is compelling about games.
+The book is Raph's personal thesis on what is compelling about games.
 
-What was most refreshing to me when I first picked it up was how Raph was in the
-same predicament; how he finds as he gets older he can't really get into a game
-like he used to; how he wonders at why.
-It was nice to see another person asking my question.
-Even better is when they answer it.
+What was most refreshing to me when I first picked it up was how Raph seemed to
+be in the same predicament as me; how he finds as he gets older he can't really
+get into a game like he used to; how he wonders at why.
 
-Raph's theory, put simply, is that games are about learning. Most games
-present a closed system with a number of variables, and the process of playing
-is to discover interactions between those variables and learn to master that
-system. It's a process of continual understanding.[^1]
+It was nice to see another person asking my question. It was even better when he
+answered it.
+
+> **Raph's theory**
+> 
+> Games are about learning.
+
+Most games present a closed system with a number of variables, and the process
+of playing is to discover interactions between those variables and learn to
+master that system. It's a process of continual understanding.[^1]
 
 His reasoning, then, for why games become boring, is that there's nothing more
 to learn.
 You're a master – you've seen it all.
-I couldn't agree more. 
-In fact, I've seen this happen explicitly at my kitchen table over the years
-running TTRPGs.
+
+I couldn't agree more.  In fact, I've seen this happen explicitly at my kitchen
+table over the years running TTRPGs.
 
 ## My development as a Dungeon Master
 I've run a tabletop role-playing game most weeks of my life for the last five
-years. It's my bread-and-butter. My [Territory](/posts/output).
+years. It's my bread-and-butter. My [Territory](/posts/output). I could run a
+game of D&D for twelve people with a box of wet matches and all of five minutes
+of prep (with my eyes tied behind my back!).
 
-In high school, I ran combats, thought the most fun part of the game was the
-system, and I hit my players with lots of fun, often borderline silly, stuff – kept things light. It was a
-blast.
+In high school, I ran mostly combats, thought the most fun part of the game was
+the system, and I hit my players with lots of fun, often borderline silly, stuff
+– kept things light. It was a blast.
 
 That game is useless to me today.
 
@@ -74,9 +79,9 @@ I've learned some things. Chief among the lessons is the following:
 > In the absence of a fun game, human beings will invent it.
 
 Without a system, we were forced to find what was fun without it. We did. In
-fact, we found a game far deeper than the optimization-centric, wacky-
-story-packed game we used to run. We found a game deeper even than the
-"collaborative storytelling medium" game that D&D is moving towards today.
+fact, we found a game far deeper than the optimization-centric, wacky- -packed
+game we used to run. We found a game deeper even than the "collaborative
+storytelling medium" game that D&D is moving towards today.
 
 The game we play now is a riff on an age-old game. One that human beings
 literally evolved to pursue and win. The focus of my game today is on empathy.
@@ -96,17 +101,13 @@ uncomfortable, and it often takes weeks for people to get comfortable being able
 to understand another person's thought process. We have hard conversations after
 the sessions. Often players come away disappointed in themselves. But boy do
 they have fun. They're on the edge of their seat, racking their brain to win the
-game. It's incredible. It gets better every week.
+game – to understand how their character would truly act in a situation. It's
+incredible. It gets better every week.
 
-So that's the game I run now, and it's the game I'll run forever. It's what
-makes Table Top RPGs what they are. No game will ever beat them at their own
-game, it's impossible. I believe in TTRPGs because nothing can ever do what they
-do.
-
-p.s. To answer my question from above, the reason I don't play so many games
-these days is probably due to the fact that I'm always preparing to run D&D.
-I'm not complaining. I'm having fun.
-
+So that's the game I run now, and it's probably the game I'll run forever. It's
+what makes Table Top RPGs what they are. No game will ever beat them at their
+own game, it's impossible. I believe in TTRPGs because nothing can ever do what
+they do.
 
 [^1]: [This talk](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjAmZiEs6D7AhV7I0QIHdAeAzMQwqsBegQICBAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqWFScmtiC44&usg=AOvVaw3l9wpbVXUqVAXAA69EyElM)
 by Jonathan Blow explaining his theory of why games have the potential to
@@ -118,13 +119,10 @@ education or games.
 [^2]: This isn't to say that the system aspect of D&D is useless to me now
 (Though it is a shallow system. Five years to mastery is very short
 compared to the deepest games like *Starcraft*, or even some similar
-tactics-based games with strategic elements like *Fire Emblem*)
+grid tactics-based games with strategic elements like *Fire Emblem*).
 There's still a certain element of systems that I can't quite shake. It's the
 system that elevates the game we play from playground games of "pretend" to
 something that people really want to impact. I often feel as though my game is
 going through something of a protestant reformation, losing the ritual and
 focusing on the core experience, but keeping a few little vestiges because
-damnit, it just feels wrong to finish mass without communion!
-
-
-
+*dammit*, it just feels wrong to finish mass without communion.

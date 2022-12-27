@@ -6,8 +6,8 @@ description: "A cool trick from 1986."
 tags: [games]
 ---
 
-In *Zelda* for the NES, I noticed a cool trick used to keep people from getting
-stuck on the terrain. It looks like this:
+In *The Legend of Zelda* for the NES, I noticed a cool trick used to keep people
+from getting stuck on the terrain. It looks like this:
 
 ![movement](/z_mov.gif)
 
@@ -63,15 +63,15 @@ Look no further than *Link to the Past*, released five years later.
 
 This game opts to fudge things a little, with rounded hitboxes you roll off of.
 
-It's hard to say which method is preferable. Zelda 1 creates a system that I've
-never seen repeated in a game – it makes combat which is compelling with only a
-four-frame sword whose hitbox is the size of a pencil. LTTP, on the other hand,
-is a lot bigger, a lot flashier, and, it can't be argued, a lot smoother.
+It's hard to say which method is preferable. *Zelda 1* creates a system that
+I've never seen repeated in a game – it makes combat which is compelling with
+only a four-frame sword whose hitbox is the size of a pencil. LTTP, on the other
+hand, is a lot bigger, a lot flashier, and, it can't be argued, a lot smoother.
 
 There's something in the design of that original Zelda that really speaks to me.
 A system without perfect control. It strikes a balance without feeling "smooth",
 and that's what keeps Zelda in the realm of hard games. Every screen is a
-life-or-death struggle. I find the combat and the movement in Zelda 1 to be more
+life-or-death struggle. I find the combat and the movement in *Zelda 1* to be more
 compelling than that of its successor. While the developers worked to remove
 obviously annoying things from the game, it's still true to itself and its
 system.

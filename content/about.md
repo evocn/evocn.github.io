@@ -13,11 +13,8 @@ Mostly focused on three areas:
 * Short ( <5 minute ) films with character
 
 This blog is to chronicle my development and express some ideas I have.
-I hope you like some of my work.
 
-Let me know at
-alexanderhartford@gmail.com.
-Feel free to reach out.
+Even if we never speak,
+I hope my work finds you well.
 
-My code is all on [Github](https://github.com/dathash).
-My movies are on [Youtube](https://www.youtube.com/@alexanderhartford).
+{{< figure src="/portrait.jpg" title="me!" >}}

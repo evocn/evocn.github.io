@@ -1,9 +1,9 @@
 ---
 title: "Finish your game"
 date: 2022-11-21T17:41:40-08:00
-draft: false
-description: "A personal trial of overcoming Resistance."
-tags: [games]
+draft: true
+description: "Overcome Resistance"
+tags: [games, personal]
 ---
 
 There is are two types of people in this world: those who finish games, and

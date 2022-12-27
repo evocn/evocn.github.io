@@ -15,7 +15,7 @@
       
       <guid>https://evocn.org/posts/ray_one/</guid>
       <description>Over the last few weeks, I&amp;rsquo;ve been poking around with a basic ray-tracer. You can find my code here. It&amp;rsquo;s been fun to tweak values, but it&amp;rsquo;s my intention to fully understand everything that&amp;rsquo;s going on under the hood.
-I tend to find that teaching a subject leads to deeper understanding. In pursuit of understanding, I&amp;rsquo;m going to explain the concepts involved at a basic level for the sake of grokking this stuff myself.</description>
+I tend to find that teaching a subject leads to deeper understanding. In pursuit of understanding, I&amp;rsquo;m going to explain the concepts involved at a basic level. Consider this to be a 30,000 foot overview of ray-tracing.</description>
     </item>
     
   </channel>

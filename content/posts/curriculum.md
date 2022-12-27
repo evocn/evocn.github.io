@@ -124,4 +124,6 @@ Let Ovid tell you what's up.
 
 ![ovid](/ovid.gif)
 
+---
+
 Good luck with your learnings. I'll be right in there with you.

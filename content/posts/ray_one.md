@@ -265,6 +265,9 @@ result like this!
 Beyond this simple ray-tracer, there isn't that much more to go until we have a
 real 3D-looking image.
 
+---
+
 I hope you enjoyed this super basic overview of ray-tracing. I will most likely
 post a follow-up where we take this concept to a full-fledged 3D ray-tracer with
 surface-normals, lighting, and more.
+

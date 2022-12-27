@@ -84,3 +84,5 @@ There you have it. Stick around. I'll be posting a mix of what I've been
 programming, filming, thinking, writing – and believe is worth sharing.
 
 Next week: Probably working on a ray-tracer.
+
+---

@@ -68,6 +68,7 @@ Bryce and I came up with a good rule of thumb for it, though:
 
 > Always start within. When you're absolutely stumped, find a resource.
 
+---
+
 I'll be following this compass for the next while, and will be redoubling my efforts against resistance.
 It's the good fight, and I'm planning on fighting it to the last.
-

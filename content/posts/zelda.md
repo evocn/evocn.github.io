@@ -75,3 +75,5 @@ life-or-death struggle. I find the combat and the movement in *Zelda 1* to be mo
 compelling than that of its successor. While the developers worked to remove
 obviously annoying things from the game, it's still true to itself and its
 system.
+
+---

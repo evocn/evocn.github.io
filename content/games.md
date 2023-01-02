@@ -9,7 +9,7 @@ tags: [creations]
 These are my recently developed games.
 
 ### emblem
-{{< figure caption="a scene from an early prototype." src="/emblemshot.png"
+{{< figure caption="a scene from an early prototype." src="/emblem.png"
 title="prototype">}}
 
 A work-in-progress.

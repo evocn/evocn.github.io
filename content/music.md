@@ -14,3 +14,5 @@ No music yet!
 ## 2022
 ### Mohican
 {{< audio src="/music/mohican.m4a" >}}
+### Sunrise
+{{< audio src="/music/sunrise.mp3" >}}

@@ -3,7 +3,7 @@ title: "Curriculum"
 date: 2022-11-27T20:31:44-08:00
 draft: false
 description: "How to learn things yourself"
-tags: [education]
+tags: [self-help]
 ---
 Computer education is DIY.
 

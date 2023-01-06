@@ -2,16 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://evocn.org/tags/creations/</loc>
-    <lastmod>2022-12-27T13:22:11-08:00</lastmod>
-  </url><url>
-    <loc>https://evocn.org/</loc>
-    <lastmod>2022-12-27T13:22:11-08:00</lastmod>
-  </url><url>
     <loc>https://evocn.org/music/</loc>
-    <lastmod>2022-12-27T13:22:11-08:00</lastmod>
-  </url><url>
-    <loc>https://evocn.org/tags/</loc>
     <lastmod>2022-12-27T13:22:11-08:00</lastmod>
   </url><url>
     <loc>https://evocn.org/art/</loc>
@@ -20,7 +11,7 @@
     <loc>https://evocn.org/posts/f2022/</loc>
     <lastmod>2022-12-27T11:46:08-08:00</lastmod>
   </url><url>
-    <loc>https://evocn.org/tags/personal/</loc>
+    <loc>https://evocn.org/</loc>
     <lastmod>2022-12-27T11:46:08-08:00</lastmod>
   </url><url>
     <loc>https://evocn.org/posts/</loc>
@@ -29,17 +20,23 @@
     <loc>https://evocn.org/tags/reflection/</loc>
     <lastmod>2022-12-27T11:46:08-08:00</lastmod>
   </url><url>
+    <loc>https://evocn.org/tags/</loc>
+    <lastmod>2022-12-27T11:46:08-08:00</lastmod>
+  </url><url>
     <loc>https://evocn.org/games/</loc>
     <lastmod>2022-12-26T23:11:03-08:00</lastmod>
   </url><url>
     <loc>https://evocn.org/posts/multipliers/</loc>
     <lastmod>2022-12-06T08:37:17-08:00</lastmod>
   </url><url>
-    <loc>https://evocn.org/tags/optimization/</loc>
+    <loc>https://evocn.org/tags/self-help/</loc>
     <lastmod>2022-12-06T08:37:17-08:00</lastmod>
   </url><url>
     <loc>https://evocn.org/films/</loc>
     <lastmod>2022-12-01T22:35:55-08:00</lastmod>
+  </url><url>
+    <loc>https://evocn.org/tags/personal/</loc>
+    <lastmod>2022-12-01T09:39:14-08:00</lastmod>
   </url><url>
     <loc>https://evocn.org/tags/review/</loc>
     <lastmod>2022-12-01T09:39:14-08:00</lastmod>
@@ -48,9 +45,6 @@
     <lastmod>2022-12-01T09:39:14-08:00</lastmod>
   </url><url>
     <loc>https://evocn.org/posts/curriculum/</loc>
-    <lastmod>2022-11-27T20:31:44-08:00</lastmod>
-  </url><url>
-    <loc>https://evocn.org/tags/education/</loc>
     <lastmod>2022-11-27T20:31:44-08:00</lastmod>
   </url><url>
     <loc>https://evocn.org/tags/games/</loc>
@@ -65,13 +59,13 @@
     <loc>https://evocn.org/posts/warofart/</loc>
     <lastmod>2022-11-02T11:17:54-07:00</lastmod>
   </url><url>
-    <loc>https://evocn.org/tags/code/</loc>
-    <lastmod>2022-10-31T22:26:25-07:00</lastmod>
-  </url><url>
     <loc>https://evocn.org/tags/graphics/</loc>
     <lastmod>2022-10-31T22:26:25-07:00</lastmod>
   </url><url>
     <loc>https://evocn.org/posts/ray_one/</loc>
+    <lastmod>2022-10-31T22:26:25-07:00</lastmod>
+  </url><url>
+    <loc>https://evocn.org/tags/programming/</loc>
     <lastmod>2022-10-31T22:26:25-07:00</lastmod>
   </url><url>
     <loc>https://evocn.org/posts/intro/</loc>

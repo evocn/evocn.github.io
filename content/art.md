@@ -2,8 +2,6 @@
 title: "Art"
 date: 2022-12-27T12:54:07-08:00
 draft: false
-description: "My Art"
-tags: [creations]
 ---
 
 This is a collection of cool little art pieces I make in my spare time.

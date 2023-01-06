@@ -2,8 +2,6 @@
 title: "Music"
 date: 2022-12-27T13:22:11-08:00
 draft: false
-description: "My Music"
-tags: [creations]
 ---
 
 These are my songs.

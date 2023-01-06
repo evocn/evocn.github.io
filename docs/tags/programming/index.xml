@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming on evocations</title>
+    <link>https://evocn.org/tags/programming/</link>
+    <description>Recent content in programming on evocations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>evocations</copyright>
+    <lastBuildDate>Mon, 31 Oct 2022 22:26:25 -0700</lastBuildDate><atom:link href="https://evocn.org/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modeling light with computers</title>
+      <link>https://evocn.org/posts/ray_one/</link>
+      <pubDate>Mon, 31 Oct 2022 22:26:25 -0700</pubDate>
+      
+      <guid>https://evocn.org/posts/ray_one/</guid>
+      <description>Over the last few weeks, I&amp;rsquo;ve been poking around with a basic ray-tracer. You can find my code here. It&amp;rsquo;s been fun to tweak values, but it&amp;rsquo;s my intention to fully understand everything that&amp;rsquo;s going on under the hood.
+I tend to find that teaching a subject leads to deeper understanding. In pursuit of understanding, I&amp;rsquo;m going to explain the concepts involved at a basic level. Consider this to be a 30,000 foot overview of ray-tracing.</description>
+    </item>
+    
+  </channel>
+</rss>

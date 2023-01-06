@@ -2,8 +2,6 @@
 title: "Games"
 date: 2022-12-26T23:11:03-08:00
 draft: false
-description: "My Games"
-tags: [creations]
 ---
 
 These are the games I've worked on.

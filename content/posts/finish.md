@@ -3,7 +3,7 @@ title: "Finish your game"
 date: 2022-11-21T17:41:40-08:00
 draft: true
 description: "Overcome Resistance"
-tags: [games, personal]
+tags: [games, self-help]
 ---
 
 There is are two types of people in this world: those who finish games, and
@@ -30,7 +30,7 @@ The only forgivable aspect of this withering of will
 is that it is of the most common variety. 
 Give me a handful of human beings and
 I'll show you their unspoken startings – dreams forgotten after some short
-period of excitement, usually only five seconds, often as long as ten years.
+period of excitement.
 I'll show you the businessperson's once-dream of architecture.
 I'll show you the artist's bin of crumpled scratchpapers.
 And I'll show you my very own

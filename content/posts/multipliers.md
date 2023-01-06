@@ -3,7 +3,7 @@ title: "Multipliers"
 date: 2022-12-06T08:37:17-08:00
 draft: false
 description: "For efficiency"
-tags: [optimization]
+tags: [self-help]
 ---
 
 Life is finite. How do you do the most you possibly can while you're alive?

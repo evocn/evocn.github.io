@@ -3,7 +3,7 @@ title: "Modeling light with computers"
 date: 2022-10-31T22:26:25-07:00
 draft: false
 description: "Basic overview of ray tracing"
-tags: [code, graphics]
+tags: [programming, graphics]
 math: true
 ---
 Over the last few weeks, I've been poking around with a basic ray-tracer.

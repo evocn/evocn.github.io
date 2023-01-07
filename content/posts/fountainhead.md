@@ -29,14 +29,13 @@ There's an old adage, well-known:
 
 > It's not what you know, but who you know.
 
-I always hated it, fought against it violently.
+I always hated this saying; I fought against it violently.
 A new idea happened upon me recently that recontextualized the fight:
 
 > Who you know *is* what you know.
 
-
-Goethe once said: "Show me who you spend time with and I will show you who you
-are."
+Goethe said it like this: "Show me who you spend time with and I will show you
+who you are."
 
 You are the amalgamation of the people you're closest to. That much is clear.
 For me, however, I don't spend that much time with people. Like I said, I
@@ -45,7 +44,7 @@ generally stick to myself, focusing on my craft.
 What does that mean for what I know?
 
 ## The Fountainhead
-is a book by Ayn Rand which I read recently. It crushed me.
+is a book by Ayn Rand which I read recently.
 
 Its portrayal of two characters trapped in the drama of all creation cut
 straight to the heart of my fears.
@@ -70,28 +69,13 @@ of creation. When making a movie, game, or blog post. As for Roark's complete
 relaxation, his momentary bliss, almost never.
 
 ## Reconciliation
-The question: which is true? Which is right?
+I will always follow that which is the more eternal, the more personal. 
+The one which expresses the subjective reality of my experience.
 
-For myself, I have an answer.
+But the subjective reality I can express is smaller, it's weaker without others.
+It's flawed, it forgets crucial information, and can't test theories against
+other fresh ideas.
 
-I will always follow that which is the more eternal, the more personal. The one
-that, in the vision of Jon Blow, expresses the subjective reality of my
-experience.
-
-So I'm doubling down on my intentions. I seek pure creation. I will not seek
-people to get ahead. I damn any bad-faith socially-constructed angling.
-
-I will seek people only in earnest, looking for ideas and companions seeking the same
-goal I seek.
-
-In order to enforce this, I will root out that which is weak and pitiful in
-myself. I will not seek out help from others without first practicing the act of
-thinking and overcoming.
-
----
-
-This article acts mostly as prayer, a deeply personal reminder of what I need to
-change.
-
-I hope you can find some solace in it, or perhaps the revolution you've always
-needed.
+I've long used the "Do it all yourself" mentality to cover up my secret fears.
+I will seek people in earnest, looking for ideas and companions seeking the same
+goal I do.

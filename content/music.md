@@ -14,3 +14,11 @@ No music yet!
 {{< audio src="/music/mohican.m4a" >}}
 ### Sunrise
 {{< audio src="/music/sunrise.mp3" >}}
+### Overworld
+{{< audio src="/music/overworld.m4a" >}}
+### Gold
+{{< audio src="/music/gold.m4a" >}}
+### Dungeon
+{{< audio src="/music/dungeon.m4a" >}}
+### Doom
+{{< audio src="/music/doom.m4a" >}}

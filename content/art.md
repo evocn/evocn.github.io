@@ -8,6 +8,11 @@ This is a collection of cool little art pieces I make in my spare time.
 
 I'm an amateur, most certainly, but it's fun to do something new.
 
+### Soccer
+{{< figure src="/art/soccer.gif"
+           width=300px
+           title="gorill">}}
+
 ### The Monkey Collection
 {{< figure src="/art/gorill.gif"
            width=300px

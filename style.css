@@ -1,8 +1,14 @@
 
 html {
+    /*
     --color-background: #1b1c22;
     --color-foreground: #bacbbf;
     --color-accent:     #4f6781;
+    */
+
+    --color-background: #D6FFB7;
+    --color-foreground: #494331;
+    --color-accent:     #826AED;
 }
 
 * {

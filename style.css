@@ -1,14 +1,7 @@
-
 html {
-    /*
-    --color-background: #1b1c22;
-    --color-foreground: #bacbbf;
-    --color-accent:     #4f6781;
-    */
-
-    --color-background: #D6FFB7;
-    --color-foreground: #494331;
-    --color-accent:     #826AED;
+    --color-background: #862B0D;
+    --color-foreground: #FFF9C9;
+    --color-accent:     #FFC95F;
 }
 
 * {
@@ -22,117 +15,38 @@ html {
 body {
   margin: 0 auto;
   max-width: 700px;
-  line-height: 1.62;
   font-size: 1em;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   background-color: var(--color-background);
-  color: var(--color-foreground);
   padding-left: 30px;
   padding-right: 30px;
 }
 
 header {
   margin: 30px 0 30px 0;
-  min-height: 40px;
+}
+footer {
+  margin-bottom: 40px;
 }
 
-main h1,
-main h2,
-main h3 {
-  margin-top: 20px;
+h1, h2, h3 {
+  margin: 20px 0 0 -20px;
   max-width: 350px;
-}
-
-main h1 {
-  font-size: 1.5em;
-}
-
-main h2 {
   font-size: 1.25em;
 }
 
-pre h2 {
-    margin-left: -20px;
-}
-
-main pre {
+pre {
   width: 100%;
-  line-height: 1.1;
   margin-left: 20px;
 }
 
-/* Figures */
-figure > img {
-  margin: 0 auto;
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
-
-figure > audio {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-}
-
-main figure > *,
-main figure > div > *,
-main p {
-  margin-bottom: 20px;
-}
-
-figure > img {
-  max-width: 100%;
-}
-
-figure > figcaption {
-  font-style: italic;
-  margin: 0 0 30px 30px;
-}
-
-ul > li {
-  list-style: inside;
-  margin-left: 30px;
-}
-
-footer {
-  margin: 30px 0 0 0;
-  padding: 10px 0 0 0;
-  line-height: 30px;
-  clear: both;
-}
-footer > * {
-  display: inline-block;
-  margin-right:5px;
-}
-
-
-/* Links */
+a:after,
 a:before {
-  content:"[";
+  content:"|";
 }
-a:after {
-  content:"]";
-}
-
 a {
   color: var(--color-accent);
 }
-a:hover > * {
-  background-color: var(--color-foreground);
-  color: var(--color-background);
-  text-decoration: none;
-}
-/* Broken Links */
-a[target="_blank"]:before,
-a.broken:before {
-  content:"[";
-}
-a[target="_blank"]:after,
-a.broken:after {
-  content:"]"
-}
-a.broken {
-  font-style: italic;
+a:hover {
+  color: var(--color_accent);
 }

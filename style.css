@@ -1,13 +1,18 @@
 html {
-    --color-background: #862B0D;
-    --color-foreground: #FFF9C9;
-    --color-accent:     #FFC95F;
-    overflow-x: hidden;
+  --color-background: #862B0D;
+  --color-foreground: #FFF9C9;
+  --color-accent:     #FFC95F;
+  overflow-x: hidden;
 }
+
+/*
+    --color-background: #928AD1;
+*/
 * {
   text-decoration: none;
   color: var(--color-foreground);
   background-color: var(--color-background);
+  background: var(--color-background);
 }
 body {
   margin: 0 auto;

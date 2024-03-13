@@ -1,9 +1,22 @@
 html {
+    --color-background: #001524;
+    --color-foreground: #FFECD1;
+    --color-accent:     #FF7D00;
+    overflow-x: hidden;
+}
+
+/* Other nice color schemes! */
+
+/*
     --color-background: #862B0D;
     --color-foreground: #FFF9C9;
     --color-accent:     #FFC95F;
-    overflow-x: hidden;
-}
+
+    --color-background: #160C28;
+    --color-foreground: #E1EFE6;
+    --color-accent:     #EFCB68;
+*/
+
 * {
     text-decoration: none;
     color: var(--color-foreground);
@@ -26,14 +39,3 @@ h1, h2, h3 { margin-bottom: -10px; }
 pre { width: 100%; white-space: pre-wrap; }
 a { color: var(--color-accent); }
 a:hover { color: var(--color_accent); }
-
-/*
-    Other nice color schemes!
-    --color-background: #001524;
-    --color-foreground: #FFECD1;
-    --color-accent:     #FF7D00;
-
-    --color-background: #160C28;
-    --color-foreground: #E1EFE6;
-    --color-accent:     #EFCB68;
-    */

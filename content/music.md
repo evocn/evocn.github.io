@@ -3,47 +3,35 @@
 title: "Music"
 ---
 
-## Here's where I put the music I write.
+# My Music
 
-![ojii](music/ojii.m4a)
+I put the best songs I write here!
+They're ordered from newest to oldest.
 
-![gate](music/gate.m4a)
+I made most of these songs using Logic Pro on a Mac Mini and an Akai MPK 249.
 
-![sloppy nachos](music/sloppy_nachos.m4a)
+{{<audio src="music/ojii.m4a" caption="ojii">}}
+{{<audio src="music/gate.m4a" caption="gate">}}
+{{<audio src="music/sloppy_nachos.m4a" caption="sloppy nachos">}}
+{{<audio src="music/jumbo.m4a" caption="jumbo">}}
+{{<audio src="music/theshortworm.m4a" caption="the short worm">}}
+{{<audio src="music/lonelyguy.m4a" caption="lonely guy">}}
+{{<audio src="music/sunken_ship.mp3" caption="sunken ship (with June Ricks)">}}
+{{<audio src="music/testing.mp3" caption="testing (with Emelia Hartford)">}}
+{{<audio src="music/minute.mp3" caption="minute">}}
+{{<audio src="music/chapter.mp3" caption="chapter">}}
+{{<audio src="music/apartment.mp3" caption="apartment">}}
+{{<audio src="music/tired.mp3" caption="tired">}}
+{{<audio src="music/lofi.mp3" caption="lofi">}}
+{{<audio src="music/mohican.mp3" caption="mohican">}}
+{{<audio src="music/overworld.mp3" caption="overworld">}}
 
-![mumbo jumbo](music/jumbo.m4a)
+# Marginalia
 
-![the short worm](music/theshortworm.m4a)
+These are some improvisational ideas, inspired by Masakatsu Takagi's *Marginalia*.
 
-![lonely guy](music/lonelyguy.m4a)
-
-![sunken ship (with June Ricks)](music/sunken_ship.mp3)
-
-![testing (with Emelia Hartford](music/testing.mp3)
-
-![minute](music/minute.mp3)
-
-![chapter](music/chapter.mp3)
-
-![apartment](music/apartment.mp3)
-
-![tired](music/tired.mp3)
-
-![lofi](music/lofi.mp3)
-
-![mohican](music/mohican.mp3)
-
-![overworld](music/overworld.mp3)
-
-
-### Some fragments of ideas
-
-![1 (with June Ricks)](music/marginalia_1.mp3)
-
-![2](music/marginalia_2.mp3)
-
-![3 (with June Ricks)](music/marginalia_3.mp3)
-
-![4](music/marginalia_4.mp3)
-
-![5](music/marginalia_5.m4a)
+{{<audio src="music/marginalia_1.mp3" caption="1 (with June Ricks)">}}
+{{<audio src="music/marginalia_2.mp3" caption="2">}}
+{{<audio src="music/marginalia_3.mp3" caption="3 (with June Ricks)">}}
+{{<audio src="music/marginalia_4.mp3" caption="4">}}
+{{<audio src="music/marginalia_5.m4a" caption="5">}}

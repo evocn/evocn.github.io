@@ -3,22 +3,28 @@
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="style.css">
-    <center>
+
+    {{- $css := resources.Get "style.css" | minify | fingerprint -}}
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}" type="text/css" media="screen" integrity="{{ $css.Data.Integrity }}">
+
+    <link rel="icon" type="image/x-icon" href="favicon.png">
+
     <h3>
-    <a href="/">about</a>
+    Alex Hartford's homepage
+    |
+    <a href="/">who?</a>
     |
     <a href="/now">now</a>
     |
     <a href="/ideas">ideas</a>
     |
-    <a href="/music">music</a>
-    |
     <a href="https://alex-hartford.itch.io/">games</a>
     |
+    <a href="/music">music</a>
+    |
     <a href="https://www.youtube.com/channel/UCbo7KQDwOTksLuSy36frknw">films</a>
+    <hr>
     </h3>
-    </center>
 </head>
 <body>
 	{{ block "main" . }}

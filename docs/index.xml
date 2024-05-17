@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://alexhartford.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Ideas</title>
+      <link>http://alexhartford.org/ideas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexhartford.org/ideas/</guid>
+      <description>Ideas Keeping some ideas around here.
+Here&amp;rsquo;s a list of my favorite ideas and works of art.</description>
+    </item>
+    
+    <item>
       <title>Index</title>
       <link>http://alexhartford.org/thoughts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -18,20 +28,13 @@ Header Test Test Test</description>
     
     <item>
       <title>Music</title>
-      <link>http://alexhartford.org/ideas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://alexhartford.org/ideas/</guid>
-      <description>Ideas here</description>
-    </item>
-    
-    <item>
-      <title>Music</title>
       <link>http://alexhartford.org/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://alexhartford.org/music/</guid>
-      <description>Here&amp;rsquo;s where I put the music I write. Some fragments of ideas </description>
+      <description>My Music I put the best songs I write here! They&amp;rsquo;re ordered from newest to oldest.
+I made most of these songs using Logic Pro on a Mac Mini and an Akai MPK 249.
+ojiigatesloppy nachosjumbothe short wormlonely guysunken ship (with June Ricks)testing (with Emelia Hartford)minutechapterapartmenttiredlofimohicanoverworldMarginalia These are some improvisational ideas, inspired by Masakatsu Takagi&amp;rsquo;s Marginalia.</description>
     </item>
     
     <item>
@@ -40,9 +43,22 @@ Header Test Test Test</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://alexhartford.org/now/</guid>
-      <description>Here&amp;rsquo;s what I&amp;rsquo;m doing now. Still working at Nintendo, on graphics and tools. This job has been great fun, and I have learned so much about the graphics ecosystem!
-Implementing cool 3D Graphics effects in my own engine, written in Jai. Recently&amp;hellip;
-Fog Water Skeletal Animation, Inverse Kinematics, etc. Designing a game which feels like Mamoru Oshii&amp;rsquo;s Angel&amp;rsquo;s Egg. This is a small project, and it might start out as a short film.</description>
+      <description>What I&amp;rsquo;m doing now (my now page)
+Working at Nintendo, on graphics and tools. Helping to test the platform layer, graphics tools, and various other things.
+Designing a game which feels like Mamoru Oshii&amp;rsquo;s Angel&amp;rsquo;s Egg. This is a small project, and it might start out as a short film. My sister Mia&amp;rsquo;s doing the art, and we&amp;rsquo;ll probably work together on the music.
+Implementing 3D Graphics effects in my own engine, written in Jai.</description>
+    </item>
+    
+    <item>
+      <title>Recommendations</title>
+      <link>http://alexhartford.org/rec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexhartford.org/rec/</guid>
+      <description>Alex Recommends: Ideas
+Jonathan Blow on games and feeling Jonathan Blow on deep work Innovation in Games panel, GDC 2007 Chris Crawford&amp;rsquo;s Dragon talk Games
+Everyday Shooter Into The Breach Spelunky Downwell Fire Emblem IV - Genealogy of the Holy War Zelda - A Link Between Worlds Morrowind The Witness Stephen&amp;rsquo;s Sausage Roll The Beginner&amp;rsquo;s Guide Films
+Wolf Children Mind Game Sonatine The Wind Rises Bottle Rocket Angel&amp;rsquo;s Egg Albums</description>
     </item>
     
   </channel>

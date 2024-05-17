@@ -1,6 +1,10 @@
 
 ---
-title: "Music"
+title: "Ideas"
 ---
 
-Ideas here
+# Ideas
+
+Keeping some ideas around here.
+
+Here's a [list](/rec) of my favorite ideas and works of art.

@@ -1,21 +1,22 @@
 html {
+    --color-background: #F5F5F5;
+    --color-foreground: #000000;
+    --color-accent:     #fF7D00;
+
+/*
     --color-background: #001524;
     --color-foreground: #FFECD1;
     --color-accent:     #FF7D00;
-    overflow-x: hidden;
-}
-
-/* Other nice color schemes! */
+*/
 
 /*
     --color-background: #862B0D;
     --color-foreground: #FFF9C9;
     --color-accent:     #FFC95F;
-
-    --color-background: #160C28;
-    --color-foreground: #E1EFE6;
-    --color-accent:     #EFCB68;
 */
+
+    overflow-x: hidden;
+}
 
 * {
     text-decoration: none;
@@ -37,7 +38,7 @@ body {
                  "Fira Mono", 
                  "Droid Sans Mono", 
                  "Courier New", monospace;
-    font-size: 80%;
+    font-size: 90%;
     padding: 10px 10px 50px 10px;
 }
 ::selection {
@@ -48,8 +49,13 @@ img {
     max-width: 100%;
     height: auto;
 }
+audio {
+    filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+    width: 200px;
+    height: 25px;
+}
 
 header { margin: 10px 0% 10px 0%; }
-h1, h2, h3 { margin-bottom: -10px; }
+h2, h3 { margin-bottom: -10px; }
 a { color: var(--color-accent); }
 a:hover { color: var(--color_accent); }

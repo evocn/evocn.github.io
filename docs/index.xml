@@ -7,13 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://alexhartford.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>I Like This Thing</title>
+      <link>http://alexhartford.org/favs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexhartford.org/favs/</guid>
+      <description>I Like This Thing Short little reviews of things I like!
+Everyday Shooter | By Jonathan Mak This is a game with a feeling, an essence, a philosophy, and a clear passion.
+Reviewed 5/18/2024
+Hosono House | By Haruomi Hosono Low-key-est album ever.
+I want to learn how Hosono produces music. It&amp;rsquo;s always the most low-volume stuff ever, but it still feels full. His instruments are so simple, and he makes such good stuff out of em.</description>
+    </item>
+    
+    <item>
       <title>Ideas</title>
       <link>http://alexhartford.org/ideas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://alexhartford.org/ideas/</guid>
-      <description>Ideas Keeping some ideas around here.
-Here&amp;rsquo;s a list of my favorite ideas and works of art.</description>
+      <description>Ideas I Like This Thing | Reviews of things that I like. Mostly games, music, films, and a few talks / essays.</description>
     </item>
     
     <item>
@@ -34,7 +46,7 @@ Header Test Test Test</description>
       <guid>http://alexhartford.org/music/</guid>
       <description>My Music I put the best songs I write here! They&amp;rsquo;re ordered from newest to oldest.
 I made most of these songs using Logic Pro on a Mac Mini and an Akai MPK 249.
-ojiigatesloppy nachosjumbothe short wormlonely guysunken ship (with June Ricks)testing (with Emelia Hartford)minutechapterapartmenttiredlofimohicanoverworldMarginalia These are some improvisational ideas, inspired by Masakatsu Takagi&amp;rsquo;s Marginalia.</description>
+ojii (December 2023)gate (December 2023)sloppy nachos (October 2023)jumbo (October 2023)the short worm (October 2023)lonely guy (July 2023)sunken ship (with June Ricks) (July 2023)testing (with Emelia Hartford) (July 2023)minute (2023)chapter (2023)apartment (2023)tired (2023)lofi (2022)mohican (2022)overworld (2022)Marginalia These are some improvisational ideas, inspired by Masakatsu Takagi&amp;rsquo;s Marginalia.</description>
     </item>
     
     <item>
@@ -47,18 +59,6 @@ ojiigatesloppy nachosjumbothe short wormlonely guysunken ship (with June R
 Working at Nintendo, on graphics and tools. Helping to test the platform layer, graphics tools, and various other things.
 Designing a game which feels like Mamoru Oshii&amp;rsquo;s Angel&amp;rsquo;s Egg. This is a small project, and it might start out as a short film. My sister Mia&amp;rsquo;s doing the art, and we&amp;rsquo;ll probably work together on the music.
 Implementing 3D Graphics effects in my own engine, written in Jai.</description>
-    </item>
-    
-    <item>
-      <title>Recommendations</title>
-      <link>http://alexhartford.org/rec/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://alexhartford.org/rec/</guid>
-      <description>Alex Recommends: Ideas
-Jonathan Blow on games and feeling Jonathan Blow on deep work Innovation in Games panel, GDC 2007 Chris Crawford&amp;rsquo;s Dragon talk Games
-Everyday Shooter Into The Breach Spelunky Downwell Fire Emblem IV - Genealogy of the Holy War Zelda - A Link Between Worlds Morrowind The Witness Stephen&amp;rsquo;s Sausage Roll The Beginner&amp;rsquo;s Guide Films
-Wolf Children Mind Game Sonatine The Wind Rises Bottle Rocket Angel&amp;rsquo;s Egg Albums</description>
     </item>
     
   </channel>

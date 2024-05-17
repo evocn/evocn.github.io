@@ -50,9 +50,8 @@ img {
     height: auto;
 }
 audio {
-    filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
-    width: 200px;
-    height: 25px;
+    width: 70%;
+    height: 30px;
 }
 
 header { margin: 10px 0% 10px 0%; }

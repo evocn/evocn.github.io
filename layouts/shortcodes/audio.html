@@ -32,10 +32,13 @@
 {{ end -}}
 
 <figure class="audio{{ with $class }} {{ . }}{{ end }}">
+<center>
 <audio controls preload="{{ $preload }}">
 <source src="{{ $src }}" {{ with $type }}type="{{ . }}"{{ end }}>
 </audio>
 {{ with $caption -}}
 <figcaption>{{ . | markdownify }}</figcaption>
 {{ end -}}
+<hr>
+</center>
 </figure>

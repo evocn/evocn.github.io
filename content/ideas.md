@@ -5,6 +5,4 @@ title: "Ideas"
 
 # Ideas
 
-Keeping some ideas around here.
-
-Here's a [list](/rec) of my favorite ideas and works of art.
+*[I Like This Thing](/favs)* | Reviews of things that I like. Mostly games, music, films, and a few talks / essays.

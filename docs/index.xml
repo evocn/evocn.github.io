@@ -7,11 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://alexhartford.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>I Like This Thing</title>
-      <link>http://alexhartford.org/favs/</link>
+      <title>Aphorisms</title>
+      <link>http://alexhartford.org/aphorisms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://alexhartford.org/favs/</guid>
+      <guid>http://alexhartford.org/aphorisms/</guid>
+      <description>Aphorisms Little ideas and thoughts
+Writer&amp;rsquo;s Block Writer&amp;rsquo;s block seems to be mostly caused by intimidation, either self-imposed or resistance-wise. But what is really at the root? What stops a person from doing anything which they ostensibly want to do?
+Pride seems likely, or fear of failure. Perhaps it&amp;rsquo;s self-criticism, or some other mechanism. But these aren&amp;rsquo;t the real culprit. Those are the manufactured justifications.
+At bottom, it stems from a lack of real desire.</description>
+    </item>
+    
+    <item>
+      <title>I Like This Thing</title>
+      <link>http://alexhartford.org/reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexhartford.org/reviews/</guid>
       <description>I Like This Thing Short little reviews of things I like!
 Everyday Shooter | By Jonathan Mak This is a game with a feeling, an essence, a philosophy, and a clear passion.
 Reviewed 5/18/2024
@@ -25,17 +37,8 @@ I want to learn how Hosono produces music. It&amp;rsquo;s always the most low-vo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://alexhartford.org/ideas/</guid>
-      <description>Ideas I Like This Thing | Reviews of things that I like. Mostly games, music, films, and a few talks / essays.</description>
-    </item>
-    
-    <item>
-      <title>Index</title>
-      <link>http://alexhartford.org/thoughts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://alexhartford.org/thoughts/</guid>
-      <description>Test
-Header Test Test Test</description>
+      <description>Ideas I Like This Thing | Reviews of things that I like. Mostly games, music, films, and a few talks / essays.
+Aphorisms | Short ideas.</description>
     </item>
     
     <item>
@@ -44,7 +47,7 @@ Header Test Test Test</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://alexhartford.org/music/</guid>
-      <description>My Music I put the best songs I write here! They&amp;rsquo;re ordered from newest to oldest.
+      <description>My Music I put the best songs I write here! The newest stuff is up top.
 I made most of these songs using Logic Pro on a Mac Mini and an Akai MPK 249.
 ojii (December 2023)gate (December 2023)sloppy nachos (October 2023)jumbo (October 2023)the short worm (October 2023)lonely guy (July 2023)sunken ship (with June Ricks) (July 2023)testing (with Emelia Hartford) (July 2023)minute (2023)chapter (2023)apartment (2023)tired (2023)lofi (2022)mohican (2022)overworld (2022)Marginalia These are some improvisational ideas, inspired by Masakatsu Takagi&amp;rsquo;s Marginalia.</description>
     </item>

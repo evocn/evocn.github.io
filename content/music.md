@@ -6,7 +6,7 @@ title: "Music"
 # My Music
 
 I put the best songs I write here!
-They're ordered from newest to oldest.
+The newest stuff is up top.
 
 I made most of these songs using Logic Pro on a Mac Mini and an Akai MPK 249.
 

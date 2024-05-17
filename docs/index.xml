@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Index on Alex Hartford&#39;s homepage</title>
+    <link>http://alexhartford.org/</link>
+    <description>Recent content in Index on Alex Hartford&#39;s homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://alexhartford.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Index</title>
+      <link>http://alexhartford.org/thoughts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexhartford.org/thoughts/</guid>
+      <description>Test
+Header Test Test Test</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://alexhartford.org/ideas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexhartford.org/ideas/</guid>
+      <description>Ideas here</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://alexhartford.org/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexhartford.org/music/</guid>
+      <description>Here&amp;rsquo;s where I put the music I write. Some fragments of ideas </description>
+    </item>
+    
+    <item>
+      <title>Now</title>
+      <link>http://alexhartford.org/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexhartford.org/now/</guid>
+      <description>Here&amp;rsquo;s what I&amp;rsquo;m doing now. Still working at Nintendo, on graphics and tools. This job has been great fun, and I have learned so much about the graphics ecosystem!
+Implementing cool 3D Graphics effects in my own engine, written in Jai. Recently&amp;hellip;
+Fog Water Skeletal Animation, Inverse Kinematics, etc. Designing a game which feels like Mamoru Oshii&amp;rsquo;s Angel&amp;rsquo;s Egg. This is a small project, and it might start out as a short film.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,6 @@
+
+---
+title: "Music"
+---
+
+Ideas here

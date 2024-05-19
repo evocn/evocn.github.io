@@ -8,6 +8,14 @@ title: "Aphorisms"
 
 ---
 
+Courage and cowardice are contagious.
+
+It goes both ways - spread what you want to see.
+
+**5/19/2024**
+
+---
+
 You ever try sitting like this?
 
 ![oda nobunaga](/images/oda.jpg)

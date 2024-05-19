@@ -5,11 +5,13 @@ title: "Ideas"
 
 # Ideas
 
-*[Aphorisms](/ideas/aphorisms)*         | Short ideas.
+*[Aphorisms](/ideas/aphorisms)*             | Short ideas.
 
-*[Essays](/ideas/essays)* &nbsp;&nbsp;  | Long ideas.
+*[Essays](/ideas/essays)*&nbsp;&nbsp;&nbsp; | Long ideas.
 
-*[Reviews](/ideas/reviews)* &nbsp;      | Thoughts on art that I like.
+*[Reviews](/ideas/reviews)*&nbsp;&nbsp;     | Thoughts on art that I like.
+
+*[Thoughts](/ideas/thoughts)*&nbsp;         | Loose ideas.
 
 ---
 

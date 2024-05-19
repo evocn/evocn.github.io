@@ -3,7 +3,7 @@
 title: "Music"
 ---
 
-# My Music
+# Music
 
 I put the best songs I write here!
 The newest stuff is up top.

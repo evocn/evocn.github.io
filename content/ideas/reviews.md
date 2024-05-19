@@ -1,11 +1,10 @@
 
 ---
-title: "I Like This Thing"
+title: "Reviews"
 ---
 
-# I Like This Thing
-
-*Short little reviews of things I like!*
+# Reviews
+*I only write reviews of things that I like.*
 
 ---
 

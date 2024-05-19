@@ -5,8 +5,6 @@ title: "Now"
 
 # What I'm doing now
 
-(my [now page](https://nownownow.com/about))
-
 ### Working at Nintendo, on graphics and tools.
 Helping to test the platform layer, graphics tools, and various other things.
 

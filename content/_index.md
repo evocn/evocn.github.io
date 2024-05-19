@@ -12,6 +12,9 @@ I like art that is simple and honest.
 
 I love having control over my work. My games mostly use custom, from-scratch engines.
 
+![me](images/me.png)
+
 Thanks for stopping by. Go ahead and take a look around!
 
-![me](images/me.png)
+If you have questions or want to get in touch, send me an email.
+alexanderhartford@gmail.com

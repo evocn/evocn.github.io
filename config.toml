@@ -1,7 +1,0 @@
-baseURL = 'http://alexhartford.org'
-languageCode = 'en-us'
-title = "Alex Hartford's homepage"
-disableKinds = ['taxonomy', 'term']
-publishDir = 'docs'
-assetDir = 'assets'
-staticDir = 'assets'

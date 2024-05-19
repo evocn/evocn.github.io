@@ -1,0 +1,10 @@
+
+title       = "Alex Hartford's homepage"
+baseURL     = 'http://alexhartford.org'
+
+publishDir  = 'docs'
+assetDir    = 'assets'
+staticDir   = 'assets'
+
+languageCode = 'en-us'
+disableKinds = ['taxonomy', 'term', 'section', 'category', 'RSS']

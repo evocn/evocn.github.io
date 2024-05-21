@@ -2,10 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://alexhartford.org/ideas/aphorisms/</loc>
-  </url><url>
-    <loc>http://alexhartford.org/ideas/essays/</loc>
-  </url><url>
     <loc>http://alexhartford.org/ideas/</loc>
   </url><url>
     <loc>http://alexhartford.org/</loc>
@@ -13,9 +9,5 @@
     <loc>http://alexhartford.org/music/</loc>
   </url><url>
     <loc>http://alexhartford.org/now/</loc>
-  </url><url>
-    <loc>http://alexhartford.org/ideas/reviews/</loc>
-  </url><url>
-    <loc>http://alexhartford.org/ideas/thoughts/</loc>
   </url>
 </urlset>

@@ -8,6 +8,22 @@ title: "Thoughts"
 
 ---
 
+New idea for a romance film:
+
+Girl dreams of "the one". After a decade, he hasn't come.
+So then she has to figure out what love means to her. She changes course.
+
+She realizes she was waiting in order to keep anyone from getting close to her.
+Realizes that she has to come to terms with herself.
+
+She decides to love a person, without her earlier considerations.
+
+They have a magically mundane life together.
+
+**5/19/2024**
+
+---
+
 *Animal Well* is the latest Super Metroid ripoff.
 It's a good game.
 

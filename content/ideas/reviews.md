@@ -8,6 +8,31 @@ title: "Reviews"
 
 ---
 
+### *The Beginner's Guide* | By Davey Wreden
+This game single-handedly restored my faith in the narrative game.
+It's very constrained, and it isn't really interested in the sorts of ludo-truth that art games tend to exploit.
+
+Rather, it's more like *Everyday Shooter*. A game which is more about a subtle feeling than any obvious truth in its mechanics.
+
+Every time I hear about games like *The Marriage* or *Passage* - games I'm most certainly in favor of, by the way - I think:
+"Yeah, it's meaningful, but isn't it obvious?"
+
+The games have a "moral of the story", which is communicated in the language of games, but it's still just a moral of the story. Like a children's fable.
+It's not subtle, or deep, or continually interesting.
+It's cool, and it's on the right track, but we haven't communicated subtle things like feeling through mechanics yet.
+
+This game, *The Beginner's Guide*, doesn't try to use the language of games on their own. It's whole-heartedly a hybrid project between literature and games.
+And I'd say it works wonders in that niche.
+
+While we still have a ways to go in developing the language of games in themselves,
+keep in mind, my friends, that most every film worth watching is also a script and a dance and an engineering effort.
+
+Good art is a mix. Let's not forget that in our pursuit of art in games.
+
+**Reviewed 5/21/2024**
+
+---
+
 ### *Everyday Shooter* | By Jonathan Mak
 This is a game with a feeling, an essence, a philosophy, and a clear passion.
 

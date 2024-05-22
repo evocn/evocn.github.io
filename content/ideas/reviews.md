@@ -8,13 +8,6 @@ title: "Reviews"
 
 ---
 
-### *Everyday Shooter* | By Jonathan Mak
-This is a game with a feeling, an essence, a philosophy, and a clear passion.
-
-**Reviewed 5/18/2024**
-
----
-
 ### *The Beginner's Guide* | By Davey Wreden
 This game single-handedly restored my faith in the narrative game.
 It's very constrained, and it isn't really interested in the sorts of ludo-truth that art games tend to exploit.
@@ -40,6 +33,13 @@ Good art is a mix. Let's not forget that in our pursuit of art in games.
 
 ---
 
+### *Everyday Shooter* | By Jonathan Mak
+This is a game with a feeling, an essence, a philosophy, and a clear passion.
+
+**Reviewed 5/18/2024**
+
+---
+
 ### *Hosono House* | By Haruomi Hosono
 Low-key-est album ever.
 
@@ -47,9 +47,6 @@ I want to learn how Hosono produces music. It's always the most low-volume stuff
 His instruments are so simple, and he makes such good stuff out of em.
 
 **Reviewed 5/18/2024**
-
----
-
 
 ---
 

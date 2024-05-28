@@ -8,19 +8,18 @@ title: "Thoughts"
 
 ---
 
-New idea for a romance film:
+I wonder what the difference between fantasy nonsense and surrealism is.
 
-Girl dreams of "the one". After a decade, he hasn't come.
-So then she has to figure out what love means to her. She changes course.
+Is it how seriously the film takes it?
+Maybe it has to do with whether it's corny or not?
 
-She realizes she was waiting in order to keep anyone from getting close to her.
-Realizes that she has to come to terms with herself.
+What does the Lady In The Radiator have to do with the cat creature in Suzume?
 
-She decides to love a person, without her earlier considerations.
+I don't even know where to begin...
 
-They have a magically mundane life together.
+Maybe it's just whether or not you, as the viewer, take it seriously.
 
-**5/19/2024**
+**5/27/2024**
 
 ---
 
@@ -34,5 +33,3 @@ But what is there really to learn from these games?
 What's the point? Where's the soul? What's the feeling?
 
 **5/19/2024**
-
----

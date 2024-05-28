@@ -4,7 +4,7 @@ title: "Reviews"
 ---
 
 # Reviews
-*I only write reviews of things that I like.*
+*Straightforward reviews of art*
 
 ---
 

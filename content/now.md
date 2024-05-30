@@ -8,18 +8,18 @@ title: "Now"
 ### Working at Nintendo, on graphics and tools.
 Helping to test the platform layer, graphics tools, and various other things.
 
-### Designing a game which feels like Mamoru Oshii's *Angel's Egg*.
-This is a small project, and it might start out as a short film.
-My sister Mia's doing the art, and we'll probably work together on the music.
+Developing tools for test automation.
 
-### Implementing 3D Graphics effects in my own engine, written in Jai.
-Recently been working on fog, water, and skeletal animation systems.
+### Getting back into music
+I am trying out Ableton Live, and having some fun with instruments!
 
-### Playing lots of ice hockey and frisbee!
+### Watching the Stanley Cup Playoffs!
 
-### Listening to...
-- Dan Jones' *The Plantagenets*
-- 90s indie rock
+### Cooking lots of good food
 
-*[Updated May 17, 2024 from Bellevue, Washington]*
+### Checking out
+* Lots of baroque + classical music
+* Digital Signals Processing textbook
+
+*[Updated May 29, 2024 from Bellevue, Washington]*
 

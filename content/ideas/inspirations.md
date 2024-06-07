@@ -4,7 +4,7 @@ title: "Recommendations"
 ---
 
 # Recommendations
-Here's my favorite stuff.
+Here's my favorite stuff. These things inspire me.
 
 If you're looking for a good time, check these out.
 
@@ -54,3 +54,12 @@ If you're looking for a good time, check these out.
 *Siddhartha* | Herman Hesse
 
 *The Art Spirit* | Robert Henri
+
+# Talks
+["There's not enough innovation in games!"](http://number-none.com/blow/slides/rant_2006.html) | Jonathan Blow
+
+[Innovation in Games panel, GDC 2007](https://www.youtube.com/watch?v=PR-ZtrOGHiY) | Jonathan Blow, Jenova Chen, Kyle Gabler, Steve Swink, Jonathan Mak
+
+[The Dragon Speech](https://www.youtube.com/watch?v=CBrj4S24074) | Chris Crawford
+
+[Deep Work - GDC 2014](https://www.youtube.com/watch?v=7uUl_aTbOzQ) | Jonathan Blow

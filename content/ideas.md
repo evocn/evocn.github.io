@@ -15,19 +15,14 @@ In pursuit of these aims, I write my ideas here.
 
 ---
 
-## [Aphorisms](/ideas/aphorisms)
+## [Thoughts](/ideas/thoughts)
 *Short ideas.*
 
 ## [Essays](/ideas/essays)
 *Long ideas.*
 
-## [Thoughts](/ideas/thoughts)
-*Loose ideas.*
-
----
-
-## [Recommendations](/ideas/recommendations)
-*Art I like.*
+## [Inspirations](/ideas/inspirations)
+*Art which inspires me.*
 
 ## [Reviews](/ideas/reviews)
 *Straightforward reviews of art.*

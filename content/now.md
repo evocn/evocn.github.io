@@ -8,18 +8,22 @@ title: "Now"
 ### Working at Nintendo, on graphics and tools.
 Helping to test the platform layer, graphics tools, and various other things.
 
-Developing tools for test automation.
+Developing tools for test automation and UI testing.
+
+### Running the end of a killer game of D&D!
+I'm rusty at this, for sure, but we're making it happen!
 
 ### Getting back into music
 I am trying out Ableton Live, and having some fun with instruments!
 
-### Watching the Stanley Cup Playoffs!
+### Watching the Stanley Cup Finals!
 
-### Cooking lots of good food
 
 ### Checking out
+* Punk Music
+* Film Noir
 * Lots of baroque + classical music
-* Digital Signals Processing textbook
+* Sianne Ngai's *Ugly Feelings*
 
-*[Updated May 29, 2024 from Bellevue, Washington]*
+*[Updated June 6, 2024 from Bellevue, Washington]*
 

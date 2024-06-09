@@ -1,10 +1,10 @@
 # Next
 *This is the list of art I'm planning on checking out soon.*
 
-# Books
+## Books
 
-# Films
+## Films
 
-# Games
+## Games
 
-# Talks
+## Talks

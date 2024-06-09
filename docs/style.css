@@ -1,7 +1,13 @@
 html {
+    /*
     --color-page:   #F5F5F5;
     --color-text:   #000000;
     --color-accent: #fF7D00;
+    */
+
+    --color-page:   #faf0ca;
+    --color-text:   #0d3b66;
+    --color-accent: #e94f37;
 
     overflow-x: hidden;
     color:            var(--color-text);
@@ -13,13 +19,12 @@ html {
 }
 body {
     margin: 0 auto;
-    padding: 10px 10px 50px 10px;
+    padding: 0px 10px 50px 10px;
     max-width: 700px;
 
     font-family: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro", "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
-    font-size: 100%;
 }
-h2, h3 { margin-bottom: -10px; }
+h1 { text-align: center; }
 
 a       { color: var(--color-accent); }
 a:hover { color: var(--color-text);   }

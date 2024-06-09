@@ -2,20 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://alexhartford.org/ideas/essays/</loc>
-  </url><url>
-    <loc>http://alexhartford.org/ideas/</loc>
-  </url><url>
     <loc>http://alexhartford.org/</loc>
+  </url><url>
+    <loc>http://alexhartford.org/archives/2023/</loc>
+  </url><url>
+    <loc>http://alexhartford.org/archives/contacts/</loc>
+  </url><url>
+    <loc>http://alexhartford.org/archives/films-2023/</loc>
+  </url><url>
+    <loc>http://alexhartford.org/archives/games-6-2023-to-6-2024/</loc>
+  </url><url>
+    <loc>http://alexhartford.org/archives/journal-1-2024-to-6-2024/</loc>
   </url><url>
     <loc>http://alexhartford.org/music/</loc>
   </url><url>
     <loc>http://alexhartford.org/now/</loc>
   </url><url>
-    <loc>http://alexhartford.org/ideas/inspirations/</loc>
+    <loc>http://alexhartford.org/todo/</loc>
   </url><url>
-    <loc>http://alexhartford.org/ideas/reviews/</loc>
+    <loc>http://alexhartford.org/words/</loc>
   </url><url>
-    <loc>http://alexhartford.org/ideas/thoughts/</loc>
+    <loc>http://alexhartford.org/words/journal/</loc>
+  </url><url>
+    <loc>http://alexhartford.org/words/next/</loc>
+  </url><url>
+    <loc>http://alexhartford.org/words/recommendations/</loc>
+  </url><url>
+    <loc>http://alexhartford.org/words/reviews/</loc>
   </url>
 </urlset>

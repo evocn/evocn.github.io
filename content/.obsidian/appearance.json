@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Wasp",
+  "interfaceFontFamily": "Fira Mono",
+  "textFontFamily": "Fira Mono",
+  "monospaceFontFamily": "Fira Mono",
+  "baseFontSizeAction": true,
+  "showViewHeader": false
+}

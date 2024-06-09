@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "3d7075b682a2771b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b07592bf9787d47d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b251c4f2745d11c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "words/recommendations.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbb4d2486cb84e15",
+    "type": "split",
+    "children": [
+      {
+        "id": "b42515b5140578b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93a62528a44d3ab8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d90d3c67e574ce2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b39fdb7606c820f",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {}
+  },
+  "active": "b251c4f2745d11c5",
+  "lastOpenFiles": [
+    "words/journal.md",
+    "words.md",
+    "words/next.md",
+    "now.md",
+    "_index.md",
+    "words/reviews.md",
+    "music.md",
+    "todo.md",
+    "words/recommendations.md",
+    "Journal.md",
+    "List.md",
+    "Reviews.md",
+    "words/Journal.md"
+  ]
+}

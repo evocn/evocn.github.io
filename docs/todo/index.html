@@ -2,10 +2,7 @@
 <html lang="en" charset="utf-8">
 
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    {{- $css := resources.Get "style.css" | minify | fingerprint -}}
-    <link rel="stylesheet" href="{{ $css.RelPermalink }}" type="text/css" media="screen" integrity="{{ $css.Data.Integrity }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="/style.min.62b38aee059d44eb7e30a181938f235ebf1c259bd4982d0f92226c7683e3ba56.css" type="text/css" media="screen" integrity="sha256-YrOK7gWdROt&#43;MKGBk48jXr8cJZvUmC0PkiJsdoPjulY=">
 
     <link rel="icon" type="image/x-icon" href="favicon.png">
 
@@ -27,7 +24,8 @@
     </h3>
 </head>
 <body>
-	{{ block "main" . }}
-	{{ end }}
+	
+	
+
 </body>
 </html>

@@ -1,16 +1,16 @@
----
-title: "Index"
----
-
 # Hi, I'm Alex.
+
 Nice to meet you! I'm a game designer and programmer living in Bellevue, Washington.
+
+---
 
 I think a lot about games, and their potential for expression and feeling.
 I work on prototypes that explore these ideas.
-
-I like art that is simple and honest.
-
 I love having control over my work. My games mostly use custom, from-scratch engines.
+
+I like to write music and shoot films sometimes too.
+
+No matter the medium, I like art that is simple and honest.
 
 ![me](images/me.png)
 

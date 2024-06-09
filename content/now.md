@@ -1,29 +1,19 @@
+# Now
+Here's what I'm up to these days:
 
 ---
-title: "Now"
----
 
-# What I'm doing now
+**Working at Nintendo, on graphics and tools.**
+> Helping to test the platform layer, graphics tools, and various other things.
+> Developing tools for test automation and UI testing.
 
-### Working at Nintendo, on graphics and tools.
-Helping to test the platform layer, graphics tools, and various other things.
+**Running D&D for a group of old friends.**
 
-Developing tools for test automation and UI testing.
+**Getting back into music.**
+> Trying out Ableton Live these days.
 
-### Running the end of a killer game of D&D!
-I'm rusty at this, for sure, but we're making it happen!
+**Watching the Stanley Cup Finals.** 
+> (And playing some hockey myself!)
 
-### Getting back into music
-I am trying out Ableton Live, and having some fun with instruments!
-
-### Watching the Stanley Cup Finals!
-
-
-### Checking out
-* Punk Music
-* Film Noir
-* Lots of baroque + classical music
-* Sianne Ngai's *Ugly Feelings*
-
-*[Updated June 6, 2024 from Bellevue, Washington]*
+*[Updated June 9, 2024 from Bellevue, Washington]*
 

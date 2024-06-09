@@ -1,16 +1,9 @@
-
----
-title: "Recommendations"
----
-
 # Recommendations
-Here's my favorite stuff. These things inspire me.
-
-If you're looking for a good time, check these out.
+*My favorite things*
 
 ---
 
-# Films
+## Films
 *Mind Game* | Masaaki Yuasa
 
 *Wolf Children* | Mamoru Hosoda
@@ -25,7 +18,7 @@ If you're looking for a good time, check these out.
 
 *The End of Evangelion* | Hideaki Anno
 
-# Games
+## Games
 *Spelunky* | Derek Yu
 
 *Everyday Shooter* | Jonathan Mak
@@ -40,7 +33,7 @@ If you're looking for a good time, check these out.
 
 *One Hour, One Life* | Jason Rohrer
 
-# Books
+## Books
 *Being Myself* | Rupert Spira
 
 *How to Live* | Derek Sivers
@@ -55,7 +48,7 @@ If you're looking for a good time, check these out.
 
 *The Art Spirit* | Robert Henri
 
-# Talks
+## Talks
 ["There's not enough innovation in games!"](http://number-none.com/blow/slides/rant_2006.html) | Jonathan Blow
 
 [Innovation in Games panel, GDC 2007](https://www.youtube.com/watch?v=PR-ZtrOGHiY) | Jonathan Blow, Jenova Chen, Kyle Gabler, Steve Swink, Jonathan Mak

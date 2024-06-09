@@ -1,14 +1,99 @@
-
----
-title: "Reviews"
----
-
 # Reviews
 *Straightforward reviews of art*
 
 ---
 
-### *The Beginner's Guide* | By Davey Wreden
+## Bartleby, the Scrivener
+People back in those days talk so funny, I just can't help but chuckle.
+Great work, Herman.
+
+7/10
+6/9/2024
+
+---
+
+## Olympia
+By Leni Riefenstahl
+
+By far the most beautiful film I've ever seen, visually.
+Also, some incredible cinematography, and the athletes are the best characters you could imagine.
+
+The film has a big impact on me, both in what I think is possible, and in what I think is valuable.
+
+8/10
+6/1/2024
+
+---
+
+## Five Centimeters Per Second
+By Makoto Shinkai
+
+This film is like a dream. I think this film is part of my heart forever now.
+
+8/10
+5/27/2024
+
+---
+
+## Suzume
+By Makoto Shinkai
+
+I'm sure that Makoto Shinkai's heart is still in this film somewhere, and i see where he's coming from with the whole Kafka on the Shore angle, but these films these days... how can they keep doing all this fantasy nonsense?
+
+I don't even really know what it's all for.
+
+The plot of this film reads like Final Fantasy.
+The Anime bullshit is off the charts.
+There's some sweet characters, but they're constantly just left baffled by the main character's inability to communicate her weird fantasy situation, so they can only get so close.
+
+Again, this film has some decent qualities, like the pace and the look, but i can't cut it these days with the fantasy/anime stuff man, just can't cut it anymore.
+
+4/10
+5/27/2024
+
+---
+
+## The Godfather
+By Francis Ford Coppola
+
+Second watch.
+
+Thing I noticed this time around: Michael is talking to his dad near the end, and Vito says that he wanted Michael to have the keys to power. He wanted his boy to be a senator, governor...It's like the reason for all this power brokering is made clear. Vito's whole dream is that the little guy can grow to pave his own way. It's nicely explored in the second film, when Vito's young, but it makes a little more sense why the Corleone do what they do in this film.
+
+On that note, I still do think these guys are weird. The Sicilians, no matter their declarations of focus on family and honor, are still doing nasty stuff.
+
+7/10
+5/26/2024
+
+---
+
+## Paper Mario TTYD
+By Intelligent Studios
+
+Game is alright. Only a few hours in.
+
+I think the trouble with this kind of game is that the whole thing is just stringing you along, trying to get you to be excited about stupid things.
+
+It's a subtle form of disrespect, and I don't like it!
+
+2/10
+5/26/2024
+
+---
+
+## Dark Souls 2
+By From Software
+
+A marvelous game. Maybe my favorite of the bunch.
+
+7/10
+5/25/2024
+
+---
+
+### The Beginner's Guide
+By Davey Wreden
+
 This game single-handedly restored my faith in the narrative game.
 It's very constrained, and it isn't really interested in the sorts of ludo-truth that art games tend to exploit.
 
@@ -29,28 +114,37 @@ keep in mind, my friends, that most every film worth watching is also a script a
 
 Good art is a mix. Let's not forget that in our pursuit of art in games.
 
-**Reviewed 5/21/2024**
+8/10
+5/21/2024
 
 ---
 
-### *Everyday Shooter* | By Jonathan Mak
+### Everyday Shooter
+By Jonathan Mak
+
 This is a game with a feeling, an essence, a philosophy, and a clear passion.
 
-**Reviewed 5/18/2024**
+9/10
+5/18/2024
 
 ---
 
-### *Hosono House* | By Haruomi Hosono
-Low-key-est album ever.
+### Hosono House
+By Haruomi Hosono
+
+Low-key-est album ever. I love this thing.
 
 I want to learn how Hosono produces music. It's always the most low-volume stuff ever, but it still feels full.
 His instruments are so simple, and he makes such good stuff out of em.
 
-**Reviewed 5/18/2024**
+9/10
+5/18/2024
 
 ---
 
-### *Mind Game* | By Masaaki Yuasa
+### Mind Game
+By Masaaki Yuasa
+
 This film is TO THE MAX!!!
 Probably my favorite movie these days.
 
@@ -58,7 +152,8 @@ Endlessly relatable, filled with real-life stuff, and just non-stop punches in t
 
 Also check out Yuasa's shows. *Ping Pong* and *Tatami Galaxy* are both great.
 
-**Reviewed 5/18/2024**
+9/10
+5/18/2024
 
 ---
 
@@ -72,25 +167,32 @@ Essentially:
 
 This talk is also pretty well expressed by John Cleese's book on *Creativity*, and David Lynch's *Catching the Big Fish*.
 
-**Reviewed 5/18/2024**
+8/10
+5/18/2024
 
 ---
 
 ### [Chris Crawford's Dragon talk](https://www.youtube.com/watch?v=CBrj4S24074)
 If you're into video games, this is required viewing. Classic talk.
 
-**Reviewed 5/18/2024**
+7/10
+5/18/2024
 
 ---
 
-### *How To Live* | By Derek Sivers
+### How To Live
+By Derek Sivers
+
 Derek's best book. You'll be thinking all sorts of stuff by the end.
 
-**Reviewed 5/18/2024**
+8/10
+5/18/2024
 
 ---
 
-### *Morrowind* | Bethesda Game Studios
+### Morrowind
+By Bethesda Game Studios
+
 Morrowind is a weird combination, but it turns out to be pretty much the best RPG ever made.
 
 Shitty tabletop-simulator combat, wikipedia hyperlink dialogue where everyone says the same thing, endless copy-paste content, and early 3D-accelerator era graphics.
@@ -107,11 +209,14 @@ These sorts of obtuse things are dying out in video games. The sharp edges are s
 
 That's why you should play Morrowind.
 
-**Reviewed 5/18/2024**
+9/10
+5/18/2024
 
 ---
 
-### *Wolf Children* | Mamoru Hosoda
+### Wolf Children
+By Mamoru Hosoda
+
 This was my favorite movie for a couple years. I think I watched it seven times in a week once.
 
 It's so earnest, full of heart, and simple! It's a story with no conceits, a simple outlook, and a real sense of people.
@@ -120,11 +225,14 @@ Pair that with Masakatsu Takagi's beautiful score, and some of the best montage 
 Anyways, I love this film. I also really like Hosoda's *The Boy and the Beast* and *Summer Wars*, but his new stuff pretty much universally sucks.
 I just don't know how a guy can make a film like *Wolf Children* and then also make a film like *Belle*...
 
-**Reviewed 5/18/2024**
+9/10
+5/18/2024
 
 ---
 
-### [Innovation in Games panel, GDC 2007](https://www.youtube.com/watch?v=PR-ZtrOGHiY) | With Steve Swink, Kyle Gabler, Jonathan Blow, Jonathan Mak, and Jenova Chen.
+### [Innovation in Games panel, GDC 2007](https://www.youtube.com/watch?v=PR-ZtrOGHiY)
+With Steve Swink, Kyle Gabler, Jonathan Blow, Jonathan Mak, and Jenova Chen.
+
 This panel shakes me up every time I watch it!
 Five legends of indie games, essentially agreeing that what matters in game design is not innovation, but rather the essential nature of the game you're designing.
 
@@ -133,11 +241,14 @@ Also really good is Chen's perspective on entertainment being like food for the 
 
 For more on this topic, check out [Jonathan Blow's page on games and feeling](http://number-none.com/blow/slides/rant_2006.html).
 
-**Reviewed 5/18/2024**
+8/10
+5/18/2024
 
 ---
 
-### *Ocean Waves* OST | By Shigeru Nagata
+### Ocean Waves OST
+By Shigeru Nagata
+
 This album is an absolute classic. It's been my companion for years now.
 So laid back, playful, exciting, refined, and simple.
 It's the pinnacle of 90s Yamaha synth music, and the sounds are unmatched.
@@ -146,11 +257,14 @@ Bonus points if you also check out the terrible Studio Ghibli movie that this so
 Super weird combination - the film and the OST both have a real sense of nostalgia, but go at it in different ways.
 OST succeeds, film fails. It's pretty funny to watch, though.
 
-**Reviewed 5/18/2024**
+9/10
+5/18/2024
 
 ---
 
-### *The Courage to be Disliked* | By Ichiro Kishime and Fumitake Koga
+### The Courage to be Disliked
+By Ichiro Kishime and Fumitake Koga
+
 This book made my life go from sad to glad!
 If you read this book and try to really think about it, I think you'll be glad too.
 
@@ -158,4 +272,5 @@ Basically: life is real simple, and human beings are free.
 
 If you read one book ever, it better be this one!
 
-**Reviewed 5/18/2024**
+10/10
+5/18/2024

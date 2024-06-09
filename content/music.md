@@ -1,14 +1,11 @@
-
----
-title: "Music"
----
-
 # Music
 
 I put the best songs I write here!
 The newest stuff is up top.
 
 I made most of these songs using Logic Pro on a Mac Mini and an Akai MPK 249.
+
+---
 
 {{<audio src="music/ojii.m4a" caption="ojii (December 2023)">}}
 {{<audio src="music/gate.m4a" caption="gate (December 2023)">}}

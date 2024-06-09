@@ -1,0 +1,12 @@
+{
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "readableLineLength": false,
+  "foldHeading": true,
+  "foldIndent": false,
+  "showIndentGuide": false,
+  "showRibbon": false,
+  "showInlineTitle": false,
+  "livePreview": false,
+  "alwaysUpdateLinks": true
+}

@@ -8,5 +8,6 @@
   "showRibbon": false,
   "showInlineTitle": false,
   "livePreview": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false
 }

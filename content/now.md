@@ -7,13 +7,7 @@ Here's what I'm up to these days:
 > Helping to test the platform layer, graphics tools, and various other things.
 > Developing tools for test automation and UI testing.
 
-**Running D&D for a group of old friends.**
+**Looking for a reason to change my own mind.**
 
-**Getting back into music.**
-> Trying out Ableton Live these days.
-
-**Watching the Stanley Cup Finals.** 
-> (And playing some hockey myself!)
-
-*[Updated June 9, 2024 from Bellevue, Washington]*
+*[Updated June 14, 2024 from Bellevue, Washington]*
 

@@ -7,6 +7,7 @@ I made most of these songs using Logic Pro on a Mac Mini and an Akai MPK 249.
 
 ---
 
+{{<audio src="music/sea.wav" caption="sea (December 2023)">}}
 {{<audio src="music/ojii.m4a" caption="ojii (December 2023)">}}
 {{<audio src="music/gate.m4a" caption="gate (December 2023)">}}
 {{<audio src="music/sloppy_nachos.m4a" caption="sloppy nachos (October 2023)">}}

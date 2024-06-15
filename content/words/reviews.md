@@ -3,6 +3,36 @@
 
 ---
 
+## The Imitation Game
+I have less than no interest in the stories of human dominance at the moment.
+I don't know what it is about films like this that just don't do anything for me.
+
+It's sort of like Television - plus documentary.
+I guess it's like those History Channel drama-docs, where every scene is as tense as it can be, and every character is trying so hard to impose their will on every other character.
+
+Just sick to death of this sort of thing. Could have had a glimpse into this guy's heart - into this guy's mind...
+
+2/10
+6/14/2024
+
+---
+
+## The Conversation
+By Francis Ford Coppola
+
+A man can only take so much of this gnarly noir stuff.
+But if it's this kinda film, I kind of like it.
+
+Performances in these movies are always pretty weird. Stilted, sexual, and inhuman.
+I think the actors are mostly trying to put you at unease, rather than portray a real guy or gal.
+
+Audio in this film is impeccable, though. I can't believe they were able to pull this off!
+
+7/10
+6/9/2024
+
+---
+
 ## Bartleby, the Scrivener
 People back in those days talk so funny, I just can't help but chuckle.
 Great work, Herman.

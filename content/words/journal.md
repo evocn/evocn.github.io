@@ -3,8 +3,23 @@
 
 ---
 
+## 6/14/2024
+I think kids really can only be seen as wonderful.
+They can't fulfill your dreams, and if they do, it won't be quite right...
+I suppose that it's possible, actually, but isn't it a little wrong?
+
+It's like that way of raising the kids is in opposition to wonder.
+It presupposes that they don't have anything to show you.
+In fact, that's all that kids have: things to show you!
+
+---
+
 ## 6/9/2024
-What is with this focus on objects in anime? 
+What is with this focus on abstract objects in anime?
+Examples: Utena, Bakemonogatari, etc...
+Just a weird visual language.
+It's like some extension of the normal cinema stuff, with comic book in it.
+I see why it would develop this way, but it's surprising how far abstracted they get.
 
 Au Clair De La Luna is really just like Ponta De Areia
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "words/journal.md",
+                "file": "words.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -77,15 +77,16 @@
   },
   "active": "b251c4f2745d11c5",
   "lastOpenFiles": [
-    "words/next.md",
+    "todo.md",
+    "now.md",
+    "next.md",
+    "music.md",
+    "words/journal.md",
     "words/recommendations.md",
     "words/reviews.md",
     "words.md",
-    "words/journal.md",
-    "now.md",
+    "words/next.md",
     "_index.md",
-    "music.md",
-    "todo.md",
     "Journal.md",
     "List.md",
     "Reviews.md",

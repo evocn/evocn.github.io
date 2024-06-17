@@ -9,5 +9,7 @@ Here's what I'm up to these days:
 
 **Looking for a reason to change my own mind.**
 
+**Reading Proust**
+
 *[Updated June 14, 2024 from Bellevue, Washington]*
 

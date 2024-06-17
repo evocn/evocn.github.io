@@ -1,5 +1,5 @@
 # Recommendations
-*My favorite things*
+*My favorites*
 
 ---
 

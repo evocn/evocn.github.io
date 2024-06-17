@@ -7,7 +7,7 @@
   "showIndentGuide": false,
   "showRibbon": false,
   "showInlineTitle": false,
-  "livePreview": false,
+  "livePreview": true,
   "alwaysUpdateLinks": true,
   "strictLineBreaks": false
 }

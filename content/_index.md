@@ -5,12 +5,20 @@ Nice to meet you! I'm a game designer and programmer living in Bellevue, Washing
 ---
 
 I think a lot about games, and their potential for expression and feeling.
+
 I work on prototypes that explore these ideas.
-I love having control over my work. My games mostly use custom, from-scratch engines.
 
-I like to write music and shoot films sometimes too.
+I like to write music and shoot films sometimes too!
 
-No matter the medium, I like art that is simple and honest.
+Recently, I've been publishing my journal on this website.
+
+---
+
+I appreciate art which shows us the world in a fresh light.
+
+Above all, I think art is best when it is simple and honest.
+
+If you think so too, I think we'd be good friends!
 
 ![me](images/me.png)
 

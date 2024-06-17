@@ -1,8 +1,9 @@
 {
-  "cssTheme": "Wasp",
+  "cssTheme": "Sanctum",
   "interfaceFontFamily": "Fira Mono",
   "textFontFamily": "Fira Mono",
   "monospaceFontFamily": "Fira Mono",
   "baseFontSizeAction": true,
-  "showViewHeader": false
+  "showViewHeader": false,
+  "baseFontSize": 24
 }

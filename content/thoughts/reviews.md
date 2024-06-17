@@ -13,6 +13,7 @@ I guess it's like those History Channel drama-docs, where every scene is as tens
 Just sick to death of this sort of thing. Could have had a glimpse into this guy's heart - into this guy's mind...
 
 2/10
+
 6/14/2024
 
 ---
@@ -21,7 +22,7 @@ Just sick to death of this sort of thing. Could have had a glimpse into this guy
 By Francis Ford Coppola
 
 A man can only take so much of this gnarly noir stuff.
-But if it's this kinda film, I kind of like it.
+But if it's this kinda film, I like it.
 
 Performances in these movies are always pretty weird. Stilted, sexual, and inhuman.
 I think the actors are mostly trying to put you at unease, rather than portray a real guy or gal.
@@ -29,6 +30,7 @@ I think the actors are mostly trying to put you at unease, rather than portray a
 Audio in this film is impeccable, though. I can't believe they were able to pull this off!
 
 7/10
+
 6/9/2024
 
 ---
@@ -38,6 +40,7 @@ People back in those days talk so funny, I just can't help but chuckle.
 Great work, Herman.
 
 7/10
+
 6/9/2024
 
 ---
@@ -51,6 +54,7 @@ Also, some incredible cinematography, and the athletes are the best characters y
 The film has a big impact on me, both in what I think is possible, and in what I think is valuable.
 
 8/10
+
 6/1/2024
 
 ---
@@ -60,7 +64,8 @@ By Makoto Shinkai
 
 This film is like a dream. I think this film is part of my heart forever now.
 
-8/10
+9/10
+
 5/27/2024
 
 ---
@@ -79,6 +84,7 @@ There's some sweet characters, but they're constantly just left baffled by the m
 Again, this film has some decent qualities, like the pace and the look, but i can't cut it these days with the fantasy/anime stuff man, just can't cut it anymore.
 
 4/10
+
 5/27/2024
 
 ---
@@ -93,6 +99,7 @@ Thing I noticed this time around: Michael is talking to his dad near the end, an
 On that note, I still do think these guys are weird. The Sicilians, no matter their declarations of focus on family and honor, are still doing nasty stuff.
 
 7/10
+
 5/26/2024
 
 ---
@@ -100,13 +107,14 @@ On that note, I still do think these guys are weird. The Sicilians, no matter th
 ## Paper Mario TTYD
 By Intelligent Studios
 
-Game is alright. Only a few hours in.
+Game is alright. Only a few hours played.
 
 I think the trouble with this kind of game is that the whole thing is just stringing you along, trying to get you to be excited about stupid things.
 
 It's a subtle form of disrespect, and I don't like it!
 
 2/10
+
 5/26/2024
 
 ---
@@ -117,6 +125,7 @@ By From Software
 A marvelous game. Maybe my favorite of the bunch.
 
 7/10
+
 5/25/2024
 
 ---
@@ -145,6 +154,7 @@ keep in mind, my friends, that most every film worth watching is also a script a
 Good art is a mix. Let's not forget that in our pursuit of art in games.
 
 8/10
+
 5/21/2024
 
 ---
@@ -155,6 +165,7 @@ By Jonathan Mak
 This is a game with a feeling, an essence, a philosophy, and a clear passion.
 
 9/10
+
 5/18/2024
 
 ---
@@ -168,6 +179,7 @@ I want to learn how Hosono produces music. It's always the most low-volume stuff
 His instruments are so simple, and he makes such good stuff out of em.
 
 9/10
+
 5/18/2024
 
 ---
@@ -183,6 +195,7 @@ Endlessly relatable, filled with real-life stuff, and just non-stop punches in t
 Also check out Yuasa's shows. *Ping Pong* and *Tatami Galaxy* are both great.
 
 9/10
+
 5/18/2024
 
 ---
@@ -198,6 +211,7 @@ Essentially:
 This talk is also pretty well expressed by John Cleese's book on *Creativity*, and David Lynch's *Catching the Big Fish*.
 
 8/10
+
 5/18/2024
 
 ---
@@ -206,6 +220,7 @@ This talk is also pretty well expressed by John Cleese's book on *Creativity*, a
 If you're into video games, this is required viewing. Classic talk.
 
 7/10
+
 5/18/2024
 
 ---
@@ -216,6 +231,7 @@ By Derek Sivers
 Derek's best book. You'll be thinking all sorts of stuff by the end.
 
 8/10
+
 5/18/2024
 
 ---
@@ -240,6 +256,7 @@ These sorts of obtuse things are dying out in video games. The sharp edges are s
 That's why you should play Morrowind.
 
 9/10
+
 5/18/2024
 
 ---
@@ -256,6 +273,7 @@ Anyways, I love this film. I also really like Hosoda's *The Boy and the Beast* a
 I just don't know how a guy can make a film like *Wolf Children* and then also make a film like *Belle*...
 
 9/10
+
 5/18/2024
 
 ---
@@ -272,6 +290,7 @@ Also really good is Chen's perspective on entertainment being like food for the 
 For more on this topic, check out [Jonathan Blow's page on games and feeling](http://number-none.com/blow/slides/rant_2006.html).
 
 8/10
+
 5/18/2024
 
 ---
@@ -288,6 +307,7 @@ Super weird combination - the film and the OST both have a real sense of nostalg
 OST succeeds, film fails. It's pretty funny to watch, though.
 
 9/10
+
 5/18/2024
 
 ---
@@ -303,4 +323,5 @@ Basically: life is real simple, and human beings are free.
 If you read one book ever, it better be this one!
 
 10/10
+
 5/18/2024

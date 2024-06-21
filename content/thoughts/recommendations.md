@@ -2,7 +2,6 @@
 *My favorites*
 
 ---
-
 ## Films
 *Mind Game* | Masaaki Yuasa
 
@@ -18,6 +17,7 @@
 
 *The End of Evangelion* | Hideaki Anno
 
+---
 ## Games
 *Spelunky* | Derek Yu
 
@@ -33,6 +33,7 @@
 
 *One Hour, One Life* | Jason Rohrer
 
+---
 ## Books
 *Being Myself* | Rupert Spira
 
@@ -48,6 +49,30 @@
 
 *The Art Spirit* | Robert Henri
 
+---
+## Albums
+
+*Wide Awake!* | Parquet Courts
+
+*Hejira* | Joni Mitchell
+
+*Modern Lovers '88* | Jonathan Richman
+
+*Crying, Laughing, Loving, Lying* | Labi Siffre
+
+*Beyond the Fleeting Gales* | Crying
+
+*Dion* | Dion
+
+*Teens of Denial* | Car Seat Headrest
+
+*Hosono House* | Haruomi Hosono
+
+*Still Crazy After All These Years* | Paul Simon
+
+*Grand Ledge* | Paul Baribeau
+
+---
 ## Talks
 ["There's not enough innovation in games!"](http://number-none.com/blow/slides/rant_2006.html) | Jonathan Blow
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "now.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,16 +78,19 @@
   "active": "760ec6d8ad932a5d",
   "lastOpenFiles": [
     "todo.md",
-    "thoughts/next.md",
     "now.md",
-    "thoughts.md",
-    "thoughts/journal.md",
+    "_index.md",
+    "Private/Ideas.md",
     "thoughts/recommendations.md",
+    "Private/Game Design Experiments.md",
     "thoughts/reviews.md",
+    "thoughts/journal.md",
+    "thoughts/next.md",
     "music.md",
+    "Private",
+    "thoughts.md",
     "().md",
     "words/next.md",
-    "_index.md",
     "Journal.md",
     "List.md",
     "Reviews.md",

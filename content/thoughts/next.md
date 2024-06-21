@@ -4,11 +4,12 @@
 ---
 ## Books
 * In Search of Lost Time
+* Dhalgren
 
 ## Films
 * My Fair Lady
-* Rain Man
-
+* Juno
+* Electroma
 ## Games
 * Dragon Age: Inquisition
 

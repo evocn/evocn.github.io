@@ -2,7 +2,44 @@
 *Straightforward reviews of art*
 
 ---
+## Good Will Hunting
 
+Film's real good. I was expecting it to have no edge at all, but yeah, Matt and Ben do a great job bringing this thing down to earth. I can tell these guys really felt that way about that time and place.
+
+I think the Elliot Smith soundtrack is great too.
+
+7/10
+
+6/20/2024
+
+---
+## Pocahontas
+By Disney Animation Studios
+
+Alan Menken, the songwriter for this movie, must be a genius. The songs are so simple, and yet they force me to consider such intricate and emotional subjects of my own soul, that I almost can't believe he can do it.
+
+The plot is contrived, of course, and the characters are silly, but who could ask for more?
+
+The songs in this film, and their accompanying animations, are as close to Wolf Children's segments that I think anyone's made. I love these sections more than anything, particularly in this film, the Colors of the Wind.
+
+7/10
+
+6/19/2024
+
+---
+## Wide Awake!
+By Parquet Courts
+
+Punk is great, man. I think this album is actually bringing me around on making art again. It's this line, man: "Open your mouth. Pollinate your peers."
+
+
+Favorite songs: Almost Had to Start a Fight, Total Football, Tenderness
+
+9/10
+
+6/16/2024
+
+---
 ## The Imitation Game
 I have less than no interest in the stories of human dominance at the moment.
 I don't know what it is about films like this that just don't do anything for me.
@@ -29,7 +66,7 @@ I think the actors are mostly trying to put you at unease, rather than portray a
 
 Audio in this film is impeccable, though. I can't believe they were able to pull this off!
 
-7/10
+6/10
 
 6/9/2024
 

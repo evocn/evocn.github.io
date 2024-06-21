@@ -2,6 +2,71 @@
 *My thoughts*
 
 ---
+## "Publish your work"
+Another neurotic but ultimately sort of essential question I've been asking myself...
+
+Should I publish my work?
+
+The underlying question is this: What is it for?
+
+If the work exists to express the inexpressible, to connect with another person and show them how you feel...
+then you must publish your work! Without it, there is no point.
+
+If the work is just within - as a way for you to explore some idea, or practice some technical skill...
+I don't know.
+
+I could write plenty on the nuances of this decision, but I won't. Because I realize now that the premise is wrong.
+
+If my art has just been within, and that's all I desire from it, then why would I have any reason to publish it?
+
+The question now becomes this... Is the act of keeping something within, in art or otherwise, sort of... unhygienic?
+
+How should I put this... It's like - you know when there's an outcast from a group, someone who doesn't fit in, and keeps to themselves? Most of the time, that person's afraid. They don't have a good reason not to hang out with the rest, they just aren't willing to be vulnerable, to share their feelings with others, that sort of thing.
+
+Every once in a while, there's someone who's actually an outcast with good reason. That's the "person who's outgrown their little town" or something likewise. That's cool, I like that. But for the most part, the outcast is missing something.
+
+I wonder if my art is like that. I can make all the claims I want about what I think it's for, but in the Adlerian sense, maybe all those reasons are invented.
+
+I'm free. Art can be for whatever I want it to be.
+
+I can use art. I can use it to connect with others, to explore an idea, to conquer a fear, to show someone something interesting, to unite all the people in the world - or to divide them. And my reasoning for that can be whatever I want it to be as well.
+
+In sum, I should make a decision about what art means to me, and be earnest about it, and stick with it. 
+
+Once again, I am reminded that it's far too easy to forget that I'm a Free Man in Paris.
+
+6/19/2024
+
+---
+## Once a day
+Often, when I feel like making something, I start making one song a day.
+It's like a restless habit, something to just do when I have a spare hour and a quick idea.
+
+Music is easy like that. Just pick an instrument that sounds good, jot some stuff down, throw down three tracks, and you're done. Off you go!
+I rarely finish the song, but I get the best part of the creation. It's free and rich and quick (I write most of 'em in 20 minutes).
+
+The question is... Why can't I pull that off for games too?
+[Kenta Cho did it](https://www.asahi-net.or.jp/~cs8k-cyu/).
+
+It's pride! It's fear!
+To finish a game, to release it, it's too much for my feeble heart.
+I feel like it has to be everything at once - the textbook feeling you get when you know you're hiding from something.
+
+So I'm going to follow the curiosity, just like in music.
+
+6/19/2024
+
+---
+## Stunted
+Sometimes, the feeling is small. It's the same feeling, but just a little weaker than before.
+
+I wonder if the real changes, the ones which define how a life goes, are in the little stunts and stops of day to day life, like a chokehold which you slowly tighten, until it's realized to be unbearable a while after the whole endeavor began.
+
+Nice thing is that you can always crash through a wall. Don't get me wrong, I'm plenty pleased with my options. Just keeping tabs on things in my own way.
+
+6/17/2024
+
+---
 ## Thoughts on Summary
 The nature of art is very clearly in communication. From artist to audience, an idea or feeling is sent and received.
 

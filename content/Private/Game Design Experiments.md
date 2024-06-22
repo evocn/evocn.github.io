@@ -1,13 +1,4 @@
 # Game Design Experiments
 
 ---
-## Feel
-
-
----
-## Competition
-
----
-## Exploration
-
----
+A Game a Week

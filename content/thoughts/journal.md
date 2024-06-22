@@ -2,9 +2,28 @@
 *My thoughts*
 
 ---
-## More Quotes
-"Desire is a contract you make with yourself to stay unhappy until you get something."
--Naval Ravikant
+## Intensity
+Recently, I've been reading on Bruce Lee, and watching his films.
+
+I'm not too interested in the specific ideas he espouses, but he exerts a specific force which I am interested in. Bruce Lee is particularly focused on *Intensity*.
+
+When he writes or speaks about intensity, it has a nebulous meaning. At once, it refers to focus, but also to dedication, obsession, and clarity of purpose.
+
+Intensity seems to be a mode of being, a way of being singularly focused on the task at hand, to perform it to its fullest extent, and to not become distracted from it. It's like a sort of professional seriousness you feel towards life, along with a personal desire to succeed.
+
+It's a nice way to package that idea up in a word. Bruce obviously embodied it in his acting and martial arts. I'd like to infuse intensity into my own life as much as possible.
+
+The one point of contention still remaining is this part: singular focus. 
+
+I can take what is good about this, sure. Always focus completely on a conversation, never talk while doing something else. Always Focus completely when creating, practicing, or thinking. These are good practices which deepen the most important experiences of your life.
+
+But what about broader timeframes? I like to do a few things in my weeks. I play a little piano, cook a few nice meals. I go to work as a programmer, but I spend my evenings playing frisbee, watching films, writing my thoughts down.
+
+That could hardly be intensity in the way Bruce Lee thought of it. I suppose it's sort of the "Hell Yeah or No" idea from Derek Sivers. Intensity in the things you care about, but cancel everything else.
+
+The main consideration for me is to cancel a few things I do with very little intention. My life of variety might eventually be objectionable, but for now, I want to simply focus on the obvious time-wasters, and improve by degrees.
+
+6/22/2024
 
 ---
 ## Doubt your reasons.
@@ -90,7 +109,6 @@ I wonder if there's some better method, but the truth is this: my time is valuab
 6/16/2024
 
 ---
-
 ## Why do the wise speak in riddles?
 In Fantasy, it is often remarked that wise-ards speak in incalculable riddles. Often the layman will try and seek answers from the Oracle at Delphi, but the bizarre puzzle-like form that their response takes tends to bewilder, rather than inform.
 
@@ -111,7 +129,6 @@ It is the nature of deep work to heighten one's understanding. But to heighten o
 6/15/2024
 
 ---
-
 ## Proust on Habit
 So much of my life has been focused on parsing down - trying to cut things into the smallest pieces.
 
@@ -132,7 +149,6 @@ Life is free, and we mustn't forget that it is beautiful, and fresh, and always 
 6/14/2024
 
 ---
-
 ## What kids are for
 I think kids really can only be seen as wonderful.
 They can't fulfill your dreams, and if they do, it won't be quite right...
@@ -145,7 +161,6 @@ In fact, that's all that kids have: things to show you!
 6/14/2024
 
 ---
-
 ## Shards
 What is with this focus on abstract objects in anime?
 Examples: Utena, Bakemonogatari, etc...
@@ -162,23 +177,6 @@ The Last Spring ... what a potent idea! Listen to Grieg's song.
 6/9/2024
 
 ---
-
-## Some great quotes I found
-"Insist then, on the beauty of form and color to be obtained from the composition of the largest masses, the four or five large masses which cover your canvas. Let these above all things have fine shapes, have fine colors. Let them be as meaningful of your subject as they possibly can be. It is wonderful how much real finish can be obtained through them, how much of gesture and modeling can be obtained through their contours, what satisfactions can be obtained from their fine measures in area, color and value. Most students and most painters in fact rush over this; they are in a hurry to get on to other matters, minor matters."
-Robert Henri, The Art Spirit
-
-"Take therefore no thought for the morrow; for the morrow shall take thought
-for the things of itself. Sufficient unto the day is the evil thereof."
-Jesus, Sermon on the Mount
-
-"Our main business is not to see what lies dimly at a distance, but to do
-what lies clearly at hand."
-Thomas Carlyle
-
-6/9/2024
-
----
-
 ## A Friday
 Too much movement, transition, and routine.
 For us to find what is new, we must be able to focus on what is curious, free to follow paths, unbound by routine, and unbothered. Solitude.
@@ -193,7 +191,6 @@ I'd like to put forth as much as i can to help humankind to avert the crisis so 
 6/1/2024
 
 ---
-
 ## Alt. Calendar
 You ever heard of the French Republican Calendar? Look it up.
 
@@ -208,7 +205,7 @@ Anyways, seems like an interesting, but ultimately doomed measure.
 5/30/2024
 
 ---
-
+## Surrealism and Fantasy
 
 I wonder what the difference between fantasy nonsense and surrealism is.
 
@@ -221,6 +218,7 @@ I don't even know where to begin...
 
 Maybe it's just whether or not you, as the viewer, take it seriously.
 
+...
 
 Actually, I have some more thoughts on this now... Not a verdict, just had some more examples.
 
@@ -234,7 +232,6 @@ Suzume is like a fantasy nonsense version of that book. It suffers for it, in my
 5/28/2024
 
 ---
-
 ## Memorial Day
 Today was Memorial Day.
 I spent most of the day with my Grandma Sylvia. She's the last grandparent I have left.
@@ -249,13 +246,12 @@ Phlebas, the Phoenecian, a fortnight dead, and so on...
 5/27/2024
 
 ---
-
+## New Site
 Focusing more these days on clarity, organization, calm. Less work, more belief.
 
 5/25/2024
 
 ---
-
 ## On Metroid-vania
 *Animal Well* is the latest Super Metroid ripoff.
 It's a good game.
@@ -272,15 +268,15 @@ Animal Well is great fun, and it's a masterpiece, but I just don't know if it's 
 5/19/2024
 
 ---
-
-Courage and cowardice are contagious.
+## Courage and cowardice
+are both contagious.
 
 It goes both ways - spread what you want to see.
 
 5/19/2024
 
 ---
-
+## Sitting
 You ever try sitting like this?
 
 ![oda nobunaga](/images/oda.jpg)
@@ -290,7 +286,6 @@ Incredible position of power.
 5/19/2024
 
 ---
-
 ## A Rolling Stone
 Ideas come, but sometimes they take some time to implement.
 It seems right to try to fulfill each idea completely. 
@@ -317,7 +312,6 @@ In short, don't be afraid to let ideas go, to make space for the new ones!
 5/19/2024
 
 ---
-
 ## Writer's Block
 Writer's block seems to be mostly caused by intimidation, either self-imposed or resistance-wise.
 But what is really at the root? What stops a person from doing anything which they ostensibly want to do?
@@ -337,7 +331,6 @@ In other words, if you're in writer's block, then stop writing!
 5/18/2024
 
 ---
-
 ## Dark Night of the Soul
 Notes from a prototype unfinished
 

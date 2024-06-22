@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts.md",
+                "file": "_index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,21 +75,22 @@
   "left-ribbon": {
     "hiddenItems": {}
   },
-  "active": "760ec6d8ad932a5d",
+  "active": "93a62528a44d3ab8",
   "lastOpenFiles": [
-    "todo.md",
+    "Private/Diary.md",
+    "Private/Game Design Experiments.md",
+    "Private/To do.md",
+    "Private/Ideas.md",
+    "music.md",
+    "_index.md",
     "now.md",
-    "thoughts/keep.md",
+    "thoughts.md",
     "thoughts/journal.md",
+    "thoughts/keep.md",
     "thoughts/next.md",
     "thoughts/reviews.md",
     "thoughts/recommendations.md",
-    "Private/Game Design Experiments.md",
-    "Private/Ideas.md",
     "Private/Ideas 1.md",
-    "music.md",
-    "thoughts.md",
-    "_index.md",
     "Ideas.md",
     "Private",
     "().md",

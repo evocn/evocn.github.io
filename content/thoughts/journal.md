@@ -2,6 +2,17 @@
 *My thoughts*
 
 ---
+## More Quotes
+"Desire is a contract you make with yourself to stay unhappy until you get something."
+-Naval Ravikant
+
+---
+## Doubt your reasons.
+Actions show you who you are, not words.
+
+6/20/2024
+
+---
 ## "Publish your work"
 Another neurotic but ultimately sort of essential question I've been asking myself...
 

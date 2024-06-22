@@ -3,15 +3,12 @@
 
 ---
 ## Books
-* In Search of Lost Time
-* Dhalgren
-
+* Jiddu Krishnamurti's Book of Life
 ## Films
-* My Fair Lady
-* Juno
 * Electroma
 ## Games
-* Dragon Age: Inquisition
-
-## Talks
-* More Physics talks. Feynman mostly.
+* Poinpy
+## Music
+* Joni's discography
+* More Yumi Arai
+* Offenbach

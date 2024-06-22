@@ -10,7 +10,5 @@ Here's what I'm up to these days:
 
 **Watching lots of movies!!!**
 
-**Reading Proust**
-
 *[Updated June 20, 2024 from Bellevue, Washington]*
 

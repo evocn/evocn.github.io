@@ -2,11 +2,46 @@
 *Straightforward reviews of art*
 
 ---
+## Fist of Fury
+This film is really sloppy, and it doesn't have much to teach.
+
+Choreo is great, though, and the intensity of the filmmaking style along with Bruce Lee's performance is pretty cool.
+
+On that note, I've also been reading that book *Striking Thoughts*, which is just Lee's journal, and it's pretty much what you'd expect. I guess Lee has a lot of ideas in a lot of areas, but I'm only really interested in his intensity. I have little to learn from his thoughts.
+
+I guess that's how I feel about a lot of things now. I don't care much about the actual ideas of the heroes - of Nietzsche, Emerson, Adler, more modern folks like Jon Blow, Derek Yu, Naval Ravikant, Derek Sivers... All that matters to me is their intensity. Their single-minded focus, or their absolute confidence in life's value, or their unwavering determination towards some specific end. It's focus, pure and simple.
+
+These films show that intensity, but are otherwise pretty hard to watch. I think I like Enter the Dragon a little bit more.
+
+4/10
+
+6/22/2024
+
+---
+## Downwell
+By Ojiro Fumoto
+
+This game is everything that I love about video games.
+
+Simple, honest, clear premise.
+A chance to push yourself. It's all up to you!
+
+I'd probably consider this to be my favorite game these days, and I haven't even gotten past the halfway point.
+
+It's clear that this game came out of a long run of game-a-week style projects. The thirteenth, I believe. That's great. A season of games! Then this. Very cool.
+
+Thanks, Fumoto-san.
+
+9/10
+
+6/22/2024
+
+---
 ## Good Will Hunting
 
 Film's real good. I was expecting it to have no edge at all, but yeah, Matt and Ben do a great job bringing this thing down to earth. I can tell these guys really felt that way about that time and place.
 
-I think the Elliot Smith soundtrack is great too.
+I think the Elliot Smith soundtrack is pretty good too. I like soft songs over films a lot.
 
 7/10
 

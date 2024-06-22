@@ -75,12 +75,25 @@
   "left-ribbon": {
     "hiddenItems": {}
   },
-  "active": "93a62528a44d3ab8",
+  "active": "760ec6d8ad932a5d",
   "lastOpenFiles": [
-    "Private/Diary.md",
-    "Private/Game Design Experiments.md",
-    "Private/To do.md",
+    "Private/Archives/journal (1-2024 to 6-2024).md",
+    "Private/Archives/games (6-2023 to 6-2024).md",
+    "Private/Archives/films (2023).md",
+    "Private/Archives/contacts.md",
+    "Private/Archives/2023.md",
+    "Private/Archives",
+    "Archives/journal (1-2024 to 6-2024).md",
+    "Archives/games (6-2023 to 6-2024).md",
+    "Archives/films (2023).md",
+    "Archives/contacts.md",
+    "Archives/2023.md",
+    "Archives",
     "Private/Ideas.md",
+    "Private/Game Design Experiments.md",
+    "Private",
+    "Private/Diary.md",
+    "Private/To do.md",
     "music.md",
     "_index.md",
     "now.md",
@@ -92,12 +105,6 @@
     "thoughts/recommendations.md",
     "Private/Ideas 1.md",
     "Ideas.md",
-    "Private",
-    "().md",
-    "words/next.md",
-    "Journal.md",
-    "List.md",
-    "Reviews.md",
-    "words/Journal.md"
+    "().md"
   ]
 }

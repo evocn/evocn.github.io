@@ -2,6 +2,52 @@
 *My thoughts*
 
 ---
+## Transform the World
+Krishnamurti says that to transform the world, you must transform yourself, because you are a part of the world.
+
+In Death Note and other silly shows, it's always about revolutionizing the world... taking it in your grasp, and reshaping it in your image.
+
+Have any of you ever felt like doing that? It's just so funny to me. I don't think I've ever felt the desire to reshape the world, even for a second in my life.
+
+I wonder what that means.
+
+6/23/2024
+
+---
+## Maturity
+Listening to Jonathan Haidt's *The Anxious Generation*.
+
+I've come to realize that a lot of the feelings I have are feelings of immaturity. I've often looked into the natural course of human development in terms of how children are raised, but I had never identified that course in my own life.
+
+I'm past the social development of childhood, worked through the role-model portion of adolescence... Where do I think I am now? I know they do not have good models in psychology for this, but I wonder sometimes if I could categorize it, where it would be.
+
+Listening - that's my guess as to what this phase is. Listening to the self and to the world. When I learn as the fundamental experience of life, then I will have grown up.
+
+6/23/2024
+
+---
+## Transportation in Morrowind
+Another kind of fun thing I liked in *The Anxious Generation* is Jonathan's anecdote about letting his 8 year-old kid learn the subway systems in NYC. The idea is that if the kid can gain confidence early, they're way better off in all other aspects of life.
+
+It reminded me of one of my favorite parts of a video game - the transit system in Morrowind.
+
+When you start, you move so slow that you want some way to zip around, so you go looking, and find the silt strider can take you around. But not everywhere on the map, only to the local spots.
+
+You start to learn that this silt strider network can get you here, that the mages guild can warp you there, the boats can make their way around the coast, and you can use these kinds of scrolls to warp here, here, and here... You become a regular in the neighborhood; a master of the world.
+
+There's a shift when you start trying to make your way to the north. It's not civilized up there, so your network doesn't reach. You have to hoof it. This wouldn't really be possible unless you already gained the confidence from starting the game and figuring things out yourself.
+
+Anyways, good book. Lots of platitudes, and sort of obvious facts about modern childhood at times, but I liked it. I understand why he has to explain stuff very clearly, since parents don't really understand a lot of stuff.
+
+I do wish he had a more complex view of video games. Like his predecessors before him, Jonathan is unable to really bring the discussion anywhere near the truth of the matter. He brings up some good points, about how popular video games are designed like slot machines and social media sites, monetary extraction, attention colonization, etc... 
+
+I guess the trouble is that I don't get the sense that Jonathan has had any real experience with the things, so his thoughts won't really gain traction among my peers.
+
+I want there to be a discussion about what video games are, but there can be no discussion between "Video Games are ruining our children" and "Video Games can help us understand the world", just as there could be no discussion between that latter take and "Video Games are causing school shootings". There will only ever be disagreement and willful misunderstanding.
+
+6/23/2024
+
+---
 ## Intensity
 Recently, I've been reading on Bruce Lee, and watching his films.
 

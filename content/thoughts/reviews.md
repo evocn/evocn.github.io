@@ -2,6 +2,49 @@
 *Straightforward reviews of art*
 
 ---
+## Saving Private Ryan
+By Steven Spielberg
+
+I wasn't really gripped by this film, but we had a really good time together.
+
+I guess it was sort of a mixed bag to me.
+The best violence I've seen in one of these war pictures. The worst camerawork.
+The sweetest characters. The weirdest conversations in the strangest places.
+
+Anyways, I liked it, but I didn't get choked up, so I'd say the film didn't really work for me.
+
+5/10
+
+6/23/2024
+
+---
+## High and Low
+By Akira Kurosawa
+
+Wow! Now that's a movie. I think this is my new favorite Kurosawa film.
+I think I generally like the modern-times films even more than the samurai films, since Kurosawa's characters are so relatable and sweet in the modern day.
+
+The first half of this film is unparalleled. The back half slows down just a hair, but I'd say it still works.
+
+I particularly love the silhouette work in the house. I guess I've been watching these one-room dramas recently, same basic premise as in Reservoir dogs. This one's tension is so much more relatable to me though, and truer and more pure, too.
+
+9/10
+
+6/23/2024
+
+---
+## Reservoir Dogs
+By Quentin Tarantino
+
+I liked the film, quite a lot! I thought the cast was so cool, and the setup is pretty crafty.
+
+I think the flash of this film is sort of worn off today, but I can see its influence now.
+
+6/10
+
+6/23/2024
+
+---
 ## Fist of Fury
 This film is really sloppy, and it doesn't have much to teach.
 
@@ -13,7 +56,7 @@ I guess that's how I feel about a lot of things now. I don't care much about the
 
 These films show that intensity, but are otherwise pretty hard to watch. I think I like Enter the Dragon a little bit more.
 
-4/10
+3/10
 
 6/22/2024
 

@@ -2,6 +2,22 @@
 *Straightforward reviews of art*
 
 ---
+## Sanjuro
+By Akira Kurosawa
+
+This movie is hilarious! The funniest one I've seen by this guy Kurosawa.
+
+The film feels like D&D should be. Crazy plans, going awry, and then improvisation.
+Character dynamics and growth.
+Nothing flashy, just plain and simple fun.
+
+Huge fan of this one, even over Yojimbo. Also playing a part in that is the 90 minute runtime. In a tossI'll always back the shorter film.
+
+8/10
+
+6/23/2024
+
+---
 ## Saving Private Ryan
 By Steven Spielberg
 

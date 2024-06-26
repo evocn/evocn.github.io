@@ -6,10 +6,6 @@ I publish a little writing here. It's mostly just ideas I find interesting, litt
 *My thoughts*
 
 ---
-## [Keep](/thoughts/keep)
-*Other people's ideas I like*
-
----
 ## [Reviews](/thoughts/reviews)
 *Straightforward reviews of art*
 

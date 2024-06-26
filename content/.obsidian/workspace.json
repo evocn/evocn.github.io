@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/reviews.md",
+                "file": "thoughts/next.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,11 +77,16 @@
   },
   "active": "760ec6d8ad932a5d",
   "lastOpenFiles": [
+    "thoughts/reviews.md",
+    "thoughts.md",
+    "now.md",
+    "thoughts/keep.md",
+    "thoughts/recommendations.md",
     "thoughts/journal.md",
     "thoughts/next.md",
-    "thoughts/reviews.md",
-    "todo.md",
+    "music.md",
     "_index.md",
+    "todo.md",
     "Private/Archives/journal (1-2024 to 6-2024).md",
     "Private/Archives/games (6-2023 to 6-2024).md",
     "Private/Archives/films (2023).md",
@@ -99,11 +104,6 @@
     "Private",
     "Private/Diary.md",
     "Private/To do.md",
-    "music.md",
-    "now.md",
-    "thoughts.md",
-    "thoughts/keep.md",
-    "thoughts/recommendations.md",
     "Private/Ideas 1.md",
     "Ideas.md"
   ]

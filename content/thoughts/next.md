@@ -3,7 +3,6 @@
 
 ---
 ## Books
-* Jiddu Krishnamurti's Book of Life
 * The Gardener and the Carpenter
 * The First and Last Freedom
 ## Films
@@ -18,6 +17,3 @@
 ## Games
 * Poinpy
 ## Music
-* Joni's discography
-* More Yumi Arai
-* Offenbach

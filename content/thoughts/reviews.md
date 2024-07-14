@@ -2,6 +2,48 @@
 *Straightforward reviews of art*
 
 ---
+## Summer Wars
+By Mamoru Hosoda
+
+Haha talk about a real thrill-ride. This film does everything you could possibly imagine, to the max.
+
+It's full of true stuff, lovable characters, and some pretty crafty cinematography. I guess I'm just thinking that this film has better shots throughout than any of Hosoda's work with Madhouse otherwise. I wonder what was in the air in 2009.
+
+7/10
+
+7/5/2024
+
+---
+## The Boy and the Beast
+By Mamoru Hosoda
+
+This one's alright. I think it's my least favorite of Hosoda's four good films.
+
+I get some legitimate feelings from the montages, and that's mostly due to Takagi-san's soundtrack. Masterful as always!
+
+But most of it is pretty childish. The pacing is wonky and the story is dumb.
+
+4/10
+
+7/3/2024
+
+---
+## The Book of Life
+By Jiddu Krishnamurti
+
+Austere, annihilating.
+
+A philosophy with no parallel. Unique, but utterly factual. Makes all other works into opinion by contrast.
+
+While Krishnamurti does not exactly construct values himself, I would consider his spirit to be as close to Nietzsche's Ubermensch as imaginable. In fact, he very nearly deconstructs that idea too.
+
+Read it, and disintegrate!
+
+10/10
+
+6/30/2024
+
+---
 ## Sanjuro
 By Akira Kurosawa
 
@@ -11,7 +53,7 @@ The film feels like D&D should be. Crazy plans, going awry, and then improvisati
 Character dynamics and growth.
 Nothing flashy, just plain and simple fun.
 
-Huge fan of this one, even over Yojimbo. Also playing a part in that is the 90 minute runtime. In a tossI'll always back the shorter film.
+Huge fan of this one, even over Yojimbo. Also playing a part in that is the 90 minute runtime. In a toss-up, I'll always back the shorter film.
 
 8/10
 
@@ -124,7 +166,7 @@ The songs in this film, and their accompanying animations, are as close to Wolf 
 ## Wide Awake!
 By Parquet Courts
 
-Punk is great, man. I think this album is actually bringing me around on making art again. It's this line, man: "Open your mouth. Pollinate your peers."
+Punk is great, man. I think this album is actually bringing me around on making art again. It's this line, mostly: "Open your mouth. Pollinate your peers."
 
 
 Favorite songs: Almost Had to Start a Fight, Total Football, Tenderness

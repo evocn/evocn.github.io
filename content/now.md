@@ -2,16 +2,18 @@
 Here's what I'm up to these days:
 
 ---
-**Reworking my diet, sleep, and exercise routines.**
-> been feeling a little sleepy recently, so I'm gonna change some of these habits.
+## Reading and thinking about Jiddu Krishnamurti's teachings.
+Unlike anything else that I've ever seen.
 
-**Working at Nintendo, on graphics and tools.**
-> Helping to test the platform layer, graphics tools, and various other things.
-> Developing tools for test automation and UI testing.
+## Working at Nintendo, on graphics and tools.
+Helping to test the platform layer, graphics tools, and various other things.
+Developing tools for test automation and UI testing.
 
-**Getting back into developing small games.**
+## Running a really wonderful game of D&D
+With some of the most empathetic players I've ever met.
 
-**Watching lots of movies!!!**
+## Enjoying the rush of summertime!
+I'm busy just about every night of the week these days, just having a blast in life.
 
-*[Updated June 24, 2024 from Bellevue, Washington]*
+*[Updated July 9, 2024 from Bellevue, Washington]*
 

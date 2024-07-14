@@ -35,6 +35,8 @@
 
 ---
 ## Books
+*The Book of Life* | Jiddu Krishnamurti
+
 *Being Myself* | Rupert Spira
 
 *How to Live* | Derek Sivers

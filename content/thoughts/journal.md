@@ -2,6 +2,30 @@
 *My thoughts*
 
 ---
+## Preparation
+Perhaps the most essential portion of Krishnamurti's thought is that one must be ready before they begin, else the subject will find nothing.
+
+To meditate before one is ready is useless. To seek while still desiring something will never result in that which is sought.
+
+This much is certainly true: that to be really, truly, earnest is essential if one is to find awareness. One will not find it unless they have changed their view. If one seeks, they will only seek. If one desires, they will surely lose it.
+
+So be earnest, to the core. Do not hide, like you are doing! Then you may meditate.
+
+6/30/2024
+
+---
+## Digital Memory
+Krishnamurti speaks about how computers will supplant human memory in the days to come. This was in the 80s. Pretty interesting idea.
+
+Taken literally, he isn't completely wrong about that, but it hasn't happened yet. So far in history, we've had this: for most of time, memory is all in the mind. Once we developed language, memory can be shared, communicated. Once we developed writing, memory can be documented, and recalled upon a later viewing, relaxing the requirement of time. Finally, with the advent of film and photography, the computer, and audio recording, we have many methods of very closely documenting reality. In the near future, we have seen that products in Virtual Reality will allow you to retain moments as a 3-dimensional capture and view it through a headset.
+
+I'm typically very skeptical of technological idealism like this, and the claim Krishnamurti makes about memory "changing hands" from the mind to the computer is far-fetched, but...
+
+I wonder what our lives will be like once we develop technology which allows one to truly experience their memories? Where does that line get crossed? And what would it be like? Would it be like a Time Machine?
+
+6/25/2024
+
+---
 ## Transform the World
 Krishnamurti says that to transform the world, you must transform yourself, because you are a part of the world.
 

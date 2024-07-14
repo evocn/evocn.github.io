@@ -9,5 +9,9 @@
   "showInlineTitle": false,
   "livePreview": true,
   "alwaysUpdateLinks": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo"
+  ]
 }

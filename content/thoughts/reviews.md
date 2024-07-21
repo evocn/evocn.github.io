@@ -2,6 +2,65 @@
 *Straightforward reviews of art*
 
 ---
+## The Hunchback of Notre Dame
+
+This is my new favorite Disney animated film. So simple, so barebones, but the lightning pace makes everything fresh, the characters keep you involved, and the musical sequences are the best in any of these films. 
+
+I'm still a huge Alan Mencken fan. This time, not for his melodies (they're okay), but for the orchestration and the punch he brings to every moment.
+
+-1 for the gargoyles. I'm still of the opinion that all of these films would be strictly better if you removed the comic sidekicks. No Mushu in Mulan, no raccoon in Pocahontas, no Danny Devito in Hercules, etc.
+
+9/10
+
+7/20/2024
+
+---
+## Yojimbo
+By Akira Kurosawa
+
+7/10
+
+7/17/2024
+
+---
+## Sam Wilkes, Craig Weinrib, Dylan Day
+
+This album is all instrumental, just three guys, and heavily improvised.
+
+I think it might be the most sensitive album I've ever heard! The vulnerability of the players gives way to wonderful, simple sonic exploration, and the feeling which arises from it is that of sheer warmth, even in songs which are desperate, melancholic, and lost. There is indeed something warm in all three of those feelings, and these three guys reminded me of that today.
+
+Favorite track: *How Insensitive*
+
+8/10
+
+7/15/2024
+
+---
+## Being Aware of Being Aware
+By Rupert Spira
+
+This short book is an excellent distillation of Rupert Spira's ideas, and he cares so deeply about making the teachings simple, plain, accessible, and yet still retain their depth.
+
+This is my second read, and I still love this book!
+
+8/10
+
+7/14/2024
+
+---
+## The Girl Who Leapt Through Time
+By Mamoru Hosoda
+
+This film's animation details are incredible! Such great unexpected tone, pace, and character changes.
+I think the main character is one of the most dynamically animated characters in animation.
+
+It's a shame the details are animating this stupid story, but this film has some really special moments that are worth watching. I especially like the scenes of high school after hours, when the evening sun is coming down, and everything's sort of empty but so full of warmth at the same time. I'm a sucker for that stuff.
+
+5/10
+
+7/12/2024
+
+---
 ## Summer Wars
 By Mamoru Hosoda
 
@@ -35,7 +94,7 @@ Austere, annihilating.
 
 A philosophy with no parallel. Unique, but utterly factual. Makes all other works into opinion by contrast.
 
-While Krishnamurti does not exactly construct values himself, I would consider his spirit to be as close to Nietzsche's Ubermensch as imaginable. In fact, he very nearly deconstructs that idea too.
+While Krishnamurti does not exactly construct values himself, I would consider his spirit to be as close to Nietzsche's Ubermensch as imaginable. In fact, he very nearly deconstructs that idea too. Of course, that deconstruction is a prerequisite for the ubermensch, but I didn't expect a being this pure and simple to be the thing to reevaluate all values.
 
 Read it, and disintegrate!
 
@@ -190,7 +249,6 @@ Just sick to death of this sort of thing. Could have had a glimpse into this guy
 6/14/2024
 
 ---
-
 ## The Conversation
 By Francis Ford Coppola
 
@@ -207,7 +265,6 @@ Audio in this film is impeccable, though. I can't believe they were able to pull
 6/9/2024
 
 ---
-
 ## Bartleby, the Scrivener
 People back in those days talk so funny, I just can't help but chuckle.
 Great work, Herman.
@@ -217,7 +274,6 @@ Great work, Herman.
 6/9/2024
 
 ---
-
 ## Olympia
 By Leni Riefenstahl
 
@@ -231,7 +287,6 @@ The film has a big impact on me, both in what I think is possible, and in what I
 6/1/2024
 
 ---
-
 ## Five Centimeters Per Second
 By Makoto Shinkai
 
@@ -242,7 +297,6 @@ This film is like a dream. I think this film is part of my heart forever now.
 5/27/2024
 
 ---
-
 ## Suzume
 By Makoto Shinkai
 
@@ -261,7 +315,6 @@ Again, this film has some decent qualities, like the pace and the look, but i ca
 5/27/2024
 
 ---
-
 ## The Godfather
 By Francis Ford Coppola
 
@@ -276,7 +329,6 @@ On that note, I still do think these guys are weird. The Sicilians, no matter th
 5/26/2024
 
 ---
-
 ## Paper Mario TTYD
 By Intelligent Studios
 
@@ -291,7 +343,6 @@ It's a subtle form of disrespect, and I don't like it!
 5/26/2024
 
 ---
-
 ## Dark Souls 2
 By From Software
 
@@ -302,7 +353,6 @@ A marvelous game. Maybe my favorite of the bunch.
 5/25/2024
 
 ---
-
 ### The Beginner's Guide
 By Davey Wreden
 
@@ -331,8 +381,7 @@ Good art is a mix. Let's not forget that in our pursuit of art in games.
 5/21/2024
 
 ---
-
-### Everyday Shooter
+## Everyday Shooter
 By Jonathan Mak
 
 This is a game with a feeling, an essence, a philosophy, and a clear passion.
@@ -342,8 +391,7 @@ This is a game with a feeling, an essence, a philosophy, and a clear passion.
 5/18/2024
 
 ---
-
-### Hosono House
+## Hosono House
 By Haruomi Hosono
 
 Low-key-est album ever. I love this thing.
@@ -356,8 +404,7 @@ His instruments are so simple, and he makes such good stuff out of em.
 5/18/2024
 
 ---
-
-### Mind Game
+## Mind Game
 By Masaaki Yuasa
 
 This film is TO THE MAX!!!
@@ -372,8 +419,7 @@ Also check out Yuasa's shows. *Ping Pong* and *Tatami Galaxy* are both great.
 5/18/2024
 
 ---
-
-### [Jonathan Blow on deep work](https://www.youtube.com/watch?v=7uUl_aTbOzQ)
+## [Jonathan Blow on deep work](https://www.youtube.com/watch?v=7uUl_aTbOzQ)
 I think this talk is probably a must-watch for creators of all types.
 
 Essentially:
@@ -388,8 +434,7 @@ This talk is also pretty well expressed by John Cleese's book on *Creativity*, a
 5/18/2024
 
 ---
-
-### [Chris Crawford's Dragon talk](https://www.youtube.com/watch?v=CBrj4S24074)
+## [Chris Crawford's Dragon talk](https://www.youtube.com/watch?v=CBrj4S24074)
 If you're into video games, this is required viewing. Classic talk.
 
 7/10
@@ -397,8 +442,7 @@ If you're into video games, this is required viewing. Classic talk.
 5/18/2024
 
 ---
-
-### How To Live
+## How To Live
 By Derek Sivers
 
 Derek's best book. You'll be thinking all sorts of stuff by the end.
@@ -408,8 +452,7 @@ Derek's best book. You'll be thinking all sorts of stuff by the end.
 5/18/2024
 
 ---
-
-### Morrowind
+## Morrowind
 By Bethesda Game Studios
 
 Morrowind is a weird combination, but it turns out to be pretty much the best RPG ever made.
@@ -433,8 +476,7 @@ That's why you should play Morrowind.
 5/18/2024
 
 ---
-
-### Wolf Children
+## Wolf Children
 By Mamoru Hosoda
 
 This was my favorite movie for a couple years. I think I watched it seven times in a week once.
@@ -450,8 +492,7 @@ I just don't know how a guy can make a film like *Wolf Children* and then also m
 5/18/2024
 
 ---
-
-### [Innovation in Games panel, GDC 2007](https://www.youtube.com/watch?v=PR-ZtrOGHiY)
+## [Innovation in Games panel, GDC 2007](https://www.youtube.com/watch?v=PR-ZtrOGHiY)
 With Steve Swink, Kyle Gabler, Jonathan Blow, Jonathan Mak, and Jenova Chen.
 
 This panel shakes me up every time I watch it!
@@ -467,8 +508,7 @@ For more on this topic, check out [Jonathan Blow's page on games and feeling](ht
 5/18/2024
 
 ---
-
-### Ocean Waves OST
+## Ocean Waves OST
 By Shigeru Nagata
 
 This album is an absolute classic. It's been my companion for years now.
@@ -484,8 +524,7 @@ OST succeeds, film fails. It's pretty funny to watch, though.
 5/18/2024
 
 ---
-
-### The Courage to be Disliked
+## The Courage to be Disliked
 By Ichiro Kishime and Fumitake Koga
 
 This book made my life go from sad to glad!

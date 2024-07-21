@@ -2,8 +2,9 @@
 Here's what I'm up to these days:
 
 ---
-## Reading and thinking about Jiddu Krishnamurti's teachings.
-Unlike anything else that I've ever seen.
+## Finishing up Elden Ring
+
+## Having some creative ideas
 
 ## Working at Nintendo, on graphics and tools.
 Helping to test the platform layer, graphics tools, and various other things.

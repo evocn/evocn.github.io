@@ -2,19 +2,20 @@
 Here's what I'm up to these days:
 
 ---
-## Finishing up Elden Ring
+## Enjoying the unity of being
+Feeling the Love and Beauty!
 
-## Having some creative ideas
+Following my heart, mostly. Seeing where the muse hides.
 
-## Working at Nintendo, on graphics and tools.
+## Working at Nintendo, on graphics and tools
 Helping to test the platform layer, graphics tools, and various other things.
 Developing tools for test automation and UI testing.
 
-## Running a really wonderful game of D&D
+## Finishing up a wonderful game of D&D
 With some of the most empathetic players I've ever met.
 
 ## Enjoying the rush of summertime!
 I'm busy just about every night of the week these days, just having a blast in life.
 
-*[Updated July 9, 2024 from Bellevue, Washington]*
+*[Updated July 24, 2024 from Bellevue, Washington]*
 

@@ -1,5 +1,5 @@
 # Recommendations
-*My favorites*
+*My favorite things*
 
 ---
 ## Films
@@ -31,8 +31,6 @@
 
 *The Beginner's Guide* | Davey Wreden
 
-*One Hour, One Life* | Jason Rohrer
-
 ---
 ## Books
 *The Book of Life* | Jiddu Krishnamurti
@@ -41,21 +39,22 @@
 
 *How to Live* | Derek Sivers
 
-*Twilight of the Idols* | Friedrich Nietzsche
-
 *The War of Art* | Steven Pressfield
 
 *The Courage to be Disliked* | Ichiro Kishimi and Fumitake Koga
 
-*Siddhartha* | Herman Hesse
-
 *The Art Spirit* | Robert Henri
 
 ---
+## Fiction
+*Siddhartha* | Herman Hesse
+
+*Elric of Melnibone* | Michael Moorcock
+
+*Swords and Devilry* | Fritz Leiber
+
+---
 ## Albums
-
-*Wide Awake!* | Parquet Courts
-
 *Hejira* | Joni Mitchell
 
 *Modern Lovers '88* | Jonathan Richman
@@ -69,8 +68,6 @@
 *Teens of Denial* | Car Seat Headrest
 
 *Hosono House* | Haruomi Hosono
-
-*Still Crazy After All These Years* | Paul Simon
 
 *Grand Ledge* | Paul Baribeau
 

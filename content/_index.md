@@ -11,7 +11,7 @@ I think a lot about games, and their potential for expression and feeling.
 
 I work on prototypes that explore these ideas.
 
-I like to write music and shoot films sometimes too!
+I like to write music and shoot films sometimes too.
 
 Recently, I've been publishing my journal on this website.
 

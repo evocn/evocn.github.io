@@ -13,5 +13,9 @@
   "mobileToolbarCommands": [
     "editor:undo",
     "editor:redo"
-  ]
+  ],
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "smartIndentList": true,
+  "useTab": true
 }

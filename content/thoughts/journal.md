@@ -2,13 +2,90 @@
 *My thoughts*
 
 ---
+## Practical Folk
+We Hartfords are good, practical folk. With a plain outlook on life and straight, narrow feelings. A folk of lost thoughts, stony earth, and a penchant for mischief. 
+
+The art, the soul of the world... It's so far from this world, from the family.
+Petty, low, diminishing. The line soon sinks to nothing.
+
+Is this life so free? Can a man set off west, and see nothing twice? 
+
+I can feel it in my blood, that magnetic pull towards the repetitive destination of that destined sort. But what is the dream, and what is destiny?
+
+Who is a man to be? And who really decides? 
+
+And would that restore the former glory? Or is there nothing left to be saved?
+
+7/29/2024
+
+---
+## Are Role-playing games the right tool?
+Tabletop role-playing games are too complicated of an activity to analyze in any meaningful way, so for the sake of discussion, I'll provide a limited definition, and just speak to that:
+
+> A Role-playing game is an activity in which a person tries to understand another person or state of being.
+
+Question: do the role-playing games we play actually engage with that definition?
+
+In many obvious ways, I manage to succeed at this goal. My players play characters with intimacy, sensitivity, and empathy. We learn about things at the table. About eachother, and also about the spirit of others.
+
+But I have always felt the the role-playing game is flawed in a particular way: it is performative. In its nature, the player is always compelled towards bigger, theatrical performances, with a captive audience to listen.
+
+Life is most often learned in silence and solitude. I don't know if I've had a tenth as many beautiful thoughts with others around, or while I'm working. For insight, for empathy,a soul needs quiet.
+
+This is where the game can't go. So what fills in the gap? Maybe reading, or meditation? Perhaps the game is like the last train. It can get you to the end of the tracks, to the foot of the mountain, and you make the rest of the journey on foot.
+
+7/26/2024
+
+---
+## "A Game a Week"
+When I was in college, trying to become a game developer, I often would push myself to try and do game design work. I would develop challenges to force myself to do the work I believed I should have been doing. Challenges like game jams, or "A Game a Week" challenges.
+
+I look back now, and I wonder... to what end? All this struggle, turmoil, hope, and failure, for what?
+I worked hard, tried to complete each challenge, but why? Did I love it? Did I seek answers that this form could bring?
+
+So the question is... Is this always coming from a place of need? A place of want and desire?
+
+Is there a "Game a Week" project whose objective is not "have a bunch of games so i am not so insecure about who i am"?
+
+And additionally - is there any place in life for doing something first, then developing enjoyment of it later?
+
+Deep mysteries, every one.
+
+7/25/2024
+
+---
+## One Choice
+
+To my knowledge, for the liberated man, there is but one choice which truly matters:
+
+Shall I be a man of desire? Or shall I be a man of satisfaction?
+
+But this choice is an illusion. Another veil. Proof of the enclosure of the mind.
+
+There are, in truth, no choices for the liberated mind. One path. The nature of awareness. In that, we have both  satisfaction and desire, or as they are more commonly known, peace and happiness.
+
+7/25/2024
+
+---
+## Love and Beauty
+Rupert Spira's formulation of these things is like this:
+
+When one realizes that they are infinite consciousness, that they are what "I Am", and that we all share this one singular conscious awareness, there are two changes to the way we see the world. These are:
+* Love, which you feel because you know you are connected to other people.
+* Beauty, which you feel because you know you are connected to the world of things.
+
+A simple, beautiful formulation. If you're interested in more, find his podcast episode with Rupert Sheldrake. It's a very pleasant conversation!
+
+7/23/2024
+
+---
 ## Somatic Knowledge
 Which is more essential to experience: knowledge of mind, or knowledge of body?
 
 I think a lot of people tend to gravitate towards pursuing the mind, since their suffering or confusion seems to arise from the thoughts, moods, and feelings which seem to come from an unrestrained mind.
 However, I've slowly come to the understanding in life that a great many of the troubles of the mind are actually just troubles of the body, transposed by the mind in order to justify its own suffering.
 
-Somatic knowledge is also a worthy pursuit in and of itself. To know what it feels like to run, leap, do handstands, sit quietly, eat a meal which nourishes the body, and everything inbetween... it's wonderful to be alive!
+Somatic knowledge is also a worthy pursuit in and of itself. To know what it feels like to run, leap, do handstands, sit quietly, eat a meal which nourishes the body, and everything in between... it's wonderful to be alive!
 
 7/21/2024
 
@@ -206,6 +283,33 @@ The second possibility, which is also sort of explored in watchmen, is that the 
 Even in small capacities, this second hypothesis seems obviously true. Once you have spent months and years working at some problem, you are an expert on it. None will be able to truly understand your new understanding, even if you communicate very carefully.
 
 It is the nature of deep work to heighten one's understanding. But to heighten one's understanding is to isolate, and perhaps that should not be taken lightly.
+
+6/15/2024
+
+---
+Here are some quotes I enjoyed recently.
+
+"Desire is a contract you make with yourself to stay unhappy until you get something."
+
+Naval Ravikant
+
+
+"Insist then, on the beauty of form and color to be obtained from the composition of the largest masses, the four or five large masses which cover your canvas. Let these above all things have fine shapes, have fine colors. Let them be as meaningful of your subject as they possibly can be. It is wonderful how much real finish can be obtained through them, how much of gesture and modeling can be obtained through their contours, what satisfactions can be obtained from their fine measures in area, color and value. Most students and most painters in fact rush over this; they are in a hurry to get on to other matters, minor matters."
+
+Robert Henri, The Art Spirit
+
+
+"Take therefore no thought for the morrow; for the morrow shall take thought
+for the things of itself. Sufficient unto the day is the evil thereof."
+
+Jesus, Sermon on the Mount
+
+
+"Our main business is not to see what lies dimly at a distance, but to do
+what lies clearly at hand."
+
+Thomas Carlyle
+
 
 6/15/2024
 

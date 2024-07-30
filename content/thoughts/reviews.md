@@ -1,5 +1,45 @@
 # Reviews
-*Straightforward reviews of art*
+*of art, mostly*
+
+---
+## Swords and Deviltry
+By Fritz Lieber
+
+Immaculate Fantasy! Spectacular little tales of sword and sorcery. It's grit, reality (but not too much), and so authentic to a real experience.
+
+Fritz Lieber obviously has the feeling that prose is poetry, not a separate art, and it's well at work here.
+
+8/10
+
+7/26/2024
+
+---
+## Elden Ring
+By From Software
+
+I tried to get into this game 2 or 3 times before, but always felt like it was too bloated, too full of annoying systems and useless systems. I still think it's full to bursting with nonsense, but I eventually learned how to work around it, and the rest of the game is a good time.
+
+When I say "work around", I mean ignoring collecting, crafting, most if the repeated dungeons and bosses, and a large majority of the user messages.
+It's interesting to me how games today try to do everything all at once. It's a shame, since it does most things at a lower quality than it could, but Elden Ring (and other good recent games, like Zelda TOTK) solves the problem by making all the nonsense systems completely optional.
+But any discerning player will see that the problem is entirely self-imposed, and I wonder who these systems are even for, in the end.
+
+I can't complain about the core game itself, obviously the tightest souls combat thus far, but this game is sadly one more nail in the coffin for simple, elegant experiences.
+
+6/10
+
+7/24/2024
+
+---
+## Jesus Christ Superstar
+I know very little of the story this is based on. I've heard all sorts of hearsay. But this rendition is impeccable! It's personal, raw, sweet, and mystical. It really makes the story seem huge.
+
+The production is incredible too. The actors, especially Judas, are perfect, and their direction is excellent. And god, the editing! I can hardly believe some of the montages, the cuts, and the crazy ideas in this film.
+
+I'd like to hear more about this story. Not the morals or the messages. Not the interpretations, but the mysteries themselves. I wonder what it would mean to really consider a story like this. To listen.
+
+8/10
+
+7/22/2024
 
 ---
 ## The Hunchback of Notre Dame

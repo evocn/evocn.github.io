@@ -2,6 +2,16 @@
 *My thoughts*
 
 ---
+## The Fridge
+You can only cook what's in the fridge.
+
+But sometimes you have to throw away a couple avocados since they went bad. Sometimes you don't even realize you had some old leftovers taking up space!
+
+Short list, get the bare essentials for the dish you want. Keep it tidy!
+
+7/30/2024
+
+---
 ## Practical Folk
 We Hartfords are good, practical folk. With a plain outlook on life and straight, narrow feelings. A folk of lost thoughts, stony earth, and a penchant for mischief. 
 
@@ -17,24 +27,6 @@ Who is a man to be? And who really decides?
 And would that restore the former glory? Or is there nothing left to be saved?
 
 7/29/2024
-
----
-## Are Role-playing games the right tool?
-Tabletop role-playing games are too complicated of an activity to analyze in any meaningful way, so for the sake of discussion, I'll provide a limited definition, and just speak to that:
-
-> A Role-playing game is an activity in which a person tries to understand another person or state of being.
-
-Question: do the role-playing games we play actually engage with that definition?
-
-In many obvious ways, I manage to succeed at this goal. My players play characters with intimacy, sensitivity, and empathy. We learn about things at the table. About eachother, and also about the spirit of others.
-
-But I have always felt the the role-playing game is flawed in a particular way: it is performative. In its nature, the player is always compelled towards bigger, theatrical performances, with a captive audience to listen.
-
-Life is most often learned in silence and solitude. I don't know if I've had a tenth as many beautiful thoughts with others around, or while I'm working. For insight, for empathy,a soul needs quiet.
-
-This is where the game can't go. So what fills in the gap? Maybe reading, or meditation? Perhaps the game is like the last train. It can get you to the end of the tracks, to the foot of the mountain, and you make the rest of the journey on foot.
-
-7/26/2024
 
 ---
 ## "A Game a Week"
@@ -376,7 +368,7 @@ I'd like to put forth as much as i can to help humankind to avert the crisis so 
 6/1/2024
 
 ---
-## Alt. Calendar
+## Alternative Calendars
 You ever heard of the French Republican Calendar? Look it up.
 
 Now don't get me wrong, I'm a Gregorian at heart. But imagine the things this calendar could do for us.

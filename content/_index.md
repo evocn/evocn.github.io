@@ -7,13 +7,13 @@ Nice to meet you! I'm a game designer and programmer living in Bellevue, Washing
 
 ---
 
-I think a lot about games, and their potential for expression and feeling.
+I think a lot about games, and their potential for expression, connection, and feeling.
 
 I work on prototypes that explore these ideas.
 
 I like to write music and shoot films sometimes too.
 
-Recently, I've been publishing my journal on this website.
+Recently, I've been publishing my thoughts on this website.
 
 ---
 

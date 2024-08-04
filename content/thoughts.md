@@ -6,9 +6,13 @@ I publish a little writing here. It's mostly just ideas I find interesting, litt
 *My thoughts*
 
 ---
+## [Game](/thoughts/game)
+*Thoughts on games*
+
+---
 ## [Reviews](/thoughts/reviews)
-*of art*
+*Discussion of art*
 
 ---
 ## [Recommendations](/thoughts/recommendations)
-*My favorite things*
+*A list of art I enjoy*

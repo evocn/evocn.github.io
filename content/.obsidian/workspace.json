@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "Private/Diary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "908856a2a99cac77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Diary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,37 +89,43 @@
   "left-ribbon": {
     "hiddenItems": {}
   },
-  "active": "760ec6d8ad932a5d",
+  "active": "908856a2a99cac77",
   "lastOpenFiles": [
-    "music.md",
-    "thoughts.md",
-    "now.md",
-    "thoughts/game.md",
-    "thoughts/journal.md",
-    "thoughts/recommendations.md",
-    "thoughts/reviews.md",
     "Private/Temp.md",
-    "Private/Diary.md",
-    "Private/Next.md",
     "Private/Todo.md",
-    "Private/Ideas/Ideas.md",
-    "Private/dm.md",
-    "Private/Ideas/Fish Tank.md",
-    "Private/Archives/The Hall of Legends.md",
-    "Private/The Hall of Legends.md",
-    "Private/Ideas/Scene with a live music performer.md",
+    "Private/Next.md",
+    "Private/Diary.md",
+    "thoughts/reviews.md",
+    "thoughts/journal.md",
+    "thoughts/favorites.md",
+    "Private/Priorities.md",
+    "now.md",
+    "thoughts.md",
+    "thoughts/game.md",
+    "music.md",
     "_index.md",
-    "Private/Ideas/Game Design Experiments.md",
-    "Private/Ideas",
-    "Private/Game Design Experiments.md",
-    "thoughts/keep.md",
-    "Private/Clothes.md",
-    "Private/Archives/journal (1-2024 to 6-2024).md",
-    "Private/Archives/games (6-2023 to 6-2024).md",
-    "Private/Archives/films (2023).md",
-    "Private/Archives/contacts.md",
-    "Private/Archives",
-    "Archives",
-    "Private"
+    "Private/dm.md",
+    "Private/Archives/Early Blog/zelda.md",
+    "Private/Archives/Early Blog/rpg_thesis.md",
+    "Private/Archives/Early Blog/selflove.html",
+    "Private/Archives/Early Blog/ray_one.md",
+    "Private/Archives/Early Blog/process.html",
+    "Private/Archives/Early Blog/learning.html",
+    "Private/Archives/Early Blog/output_fear.md",
+    "Private/Archives/Early Blog/intro.md",
+    "Private/Archives/Early Blog/fun.html",
+    "Private/Archives/Early Blog/input_stimulus.md",
+    "Private/Archives/Early Blog/finishing.md",
+    "Private/Archives/Early Blog/dnd.md",
+    "Private/Archives/Early Blog",
+    "Private/Archives/journal - 2021/wisdom.md",
+    "Private/Archives/journal - 2021/thesis.md",
+    "Private/Archives/journal - 2021/social.md",
+    "Private/Archives/journal - 2021/resistance.md",
+    "Private/Archives/journal - 2021",
+    "Private/Archives/journal - 2022/youtube",
+    "Private/Archives/journal - 2022/social",
+    "Private/Archives/journal - 2022/shots",
+    "Private/Archives/journal - 2022/resolutions"
   ]
 }

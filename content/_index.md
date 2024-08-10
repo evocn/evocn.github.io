@@ -3,7 +3,7 @@
 ---
 # Hi, I'm Alex.
 
-Nice to meet you! I'm a game designer and programmer living in Bellevue, Washington.
+Nice to meet you! I'm a programmer, game designer, and musician living in Bellevue, Washington.
 
 ---
 

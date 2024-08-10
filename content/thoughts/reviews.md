@@ -1,5 +1,15 @@
 # Reviews
-*of art, mostly*
+*Discussion of art*
+
+---
+## The Prince of Egypt
+This films is definitely grand, and the music is so good too. It gives me chills all the way through!
+
+One of the best animated films by far, and for sure the best that Dreamworks ever put out.
+
+8/10
+
+8/9/2024
 
 ---
 ## Swords and Deviltry

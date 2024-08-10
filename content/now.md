@@ -1,16 +1,28 @@
 # Now
-Here's what I'm up to these days:
+Here's what I'm up to these days.
 
 ---
-## Closing things out in a lot of aspects of life.
-Finishing the summer up with my best effort.
+## Staying healthy
+Eating well and exercising regularly.
+Nothing too complicated, just trying to keep the body fresh for the mind's work!
 
-## Working at Nintendo, on graphics and tools
+In addition, I'm interested in the quality of my thoughts.
+Reducing poor-quality input!
+
+## Enjoying quality art
+I find so much joy in experiencing good quality art these days.
+Films, Music, Books, and Games. So many great things to enjoy in the history of man!
+
+## Pursuing Creation
+I've been carefully investigating the nature of desire and the natural state of the mind, and I am increasingly curious about love and beauty.
+
+The creativity I experience now is pure, strong, and fun. It is light as air!
+
+My main goal today is to pursue whatever my heart is interested in, and be as earnest as possible in the pursuit.
+
+## Working at Nintendo
 Helping to test the platform layer, graphics tools, and various other things.
 Developing tools for test automation and UI testing.
 
-## Enjoying the rush of summertime!
-I'm busy just about every night of the week these days, just having a blast in life.
-
-*[Updated August 4, 2024 from Bellevue, Washington]*
+*[Updated August 9, 2024]*
 

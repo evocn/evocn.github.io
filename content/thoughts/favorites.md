@@ -1,5 +1,5 @@
-# Recommendations
-*My favorite things*
+# Favorites
+*A list of things I enjoy*
 
 ---
 ## Films
@@ -57,11 +57,11 @@
 ## Albums
 *Hejira* | Joni Mitchell
 
-*Modern Lovers '88* | Jonathan Richman
-
 *Crying, Laughing, Loving, Lying* | Labi Siffre
 
 *Beyond the Fleeting Gales* | Crying
+
+*Grand Ledge* | Paul Baribeau
 
 *Dion* | Dion
 
@@ -69,7 +69,7 @@
 
 *Hosono House* | Haruomi Hosono
 
-*Grand Ledge* | Paul Baribeau
+*Modern Lovers '88* | Jonathan Richman
 
 ---
 ## Talks
@@ -80,3 +80,5 @@
 [The Dragon Speech](https://www.youtube.com/watch?v=CBrj4S24074) | Chris Crawford
 
 [Deep Work - GDC 2014](https://www.youtube.com/watch?v=7uUl_aTbOzQ) | Jonathan Blow
+
+[My Product is my Garden](https://herman.bearblog.dev/my-product-is-my-garden/) | Herman Martinus

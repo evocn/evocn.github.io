@@ -31,6 +31,8 @@
 
 *The Beginner's Guide* | Davey Wreden
 
+*Dark Souls* | From Software
+
 ---
 ## Books
 *The Book of Life* | Jiddu Krishnamurti

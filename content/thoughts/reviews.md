@@ -2,6 +2,18 @@
 *Discussion of art*
 
 ---
+## Invisible, Inc
+By Klei
+
+This game is a blast. It's really good at what it's trying to acheive. Perhaps too good. It turns me into a neurotic wreck, checking things and flying hopelessly into desperate situations.
+
+I had to delete the game. It's good, but I can't do it right now! I can tell there's something really special here if you are more patient, careful, and calm.
+
+6/10
+
+8/13/2024
+
+---
 ## The Prince of Egypt
 This films is definitely grand, and the music is so good too. It gives me chills all the way through!
 

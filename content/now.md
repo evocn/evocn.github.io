@@ -2,6 +2,8 @@
 Here's what I'm up to these days.
 
 ---
+
+---
 ## Staying healthy
 Eating well and exercising regularly.
 Nothing too complicated, just trying to keep the body fresh for the mind's work!

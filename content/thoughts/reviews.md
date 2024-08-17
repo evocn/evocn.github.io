@@ -2,12 +2,37 @@
 *Discussion of art*
 
 ---
+
+---
+## The Incredibles
+By Pixar (Brad Bird)
+
+Nearly perfect. Still holds up. One of the best of 'em.
+
+Also, as a graphics programmer, I've got to hand it to Pixar.
+They did an incredible job in 2004.
+The water, the hair, the motion... Everything looks great, even today.
+The one thing they obviously didn't have figured out back then was the lighting models.
+You just don't get any depth out of a picture with Blinn-Phong on diffuse surfaces, and so every character looks a little dead.
+Also, the modeling is a little funny sometimes.
+
+But the heart and soul of the actors and the writing makes every single moment jump out of the screen. Very good movie!
+
+9/10
+
+8/16/2024
+
+---
 ## Invisible, Inc
 By Klei
 
-This game is a blast. It's really good at what it's trying to acheive. Perhaps too good. It turns me into a neurotic wreck, checking things and flying hopelessly into desperate situations.
+This game is a blast. It's really good at what it's trying to achieve.
+Perhaps too good.
+It turns me into a neurotic wreck, checking things and flying hopelessly into desperate situations.
 
-I had to delete the game. It's good, but I can't do it right now! I can tell there's something really special here if you are more patient, careful, and calm.
+I had to delete the game.
+It's good, but I can't do it right now!
+I can tell there's something really special here if you are more patient, careful, and calm.
 
 6/10
 
@@ -15,8 +40,8 @@ I had to delete the game. It's good, but I can't do it right now! I can tell the
 
 ---
 ## The Prince of Egypt
-This films is definitely grand, and the music is so good too. It gives me chills all the way through!
-
+This films is definitely grand, and the music is so good too.
+It gives me chills all the way through!
 One of the best animated films by far, and for sure the best that Dreamworks ever put out.
 
 8/10
@@ -27,7 +52,9 @@ One of the best animated films by far, and for sure the best that Dreamworks eve
 ## Swords and Deviltry
 By Fritz Lieber
 
-Immaculate Fantasy! Spectacular little tales of sword and sorcery. It's grit, reality (but not too much), and so authentic to a real experience.
+Immaculate Fantasy!
+Spectacular little tales of sword and sorcery.
+It's grit, reality (but not too much), and so authentic to a real experience.
 
 Fritz Lieber obviously has the feeling that prose is poetry, not a separate art, and it's well at work here.
 
@@ -53,11 +80,22 @@ I can't complain about the core game itself, obviously the tightest souls combat
 
 ---
 ## Jesus Christ Superstar
-I know very little of the story this is based on. I've heard all sorts of hearsay. But this rendition is impeccable! It's personal, raw, sweet, and mystical. It really makes the story seem huge.
+I know very little of the story this is based on.
+I've heard all sorts of hearsay.
+But this rendition is impeccable!
+It's personal, raw, sweet, and mystical.
+It really makes the story seem huge.
 
-The production is incredible too. The actors, especially Judas, are perfect, and their direction is excellent. And god, the editing! I can hardly believe some of the montages, the cuts, and the crazy ideas in this film.
+The production is incredible too.
+The actors, especially Judas, are perfect, and their direction is excellent.
+And god, the editing!
+I can hardly believe some of the montages, the cuts, and the crazy ideas in this film.
 
-I'd like to hear more about this story. Not the morals or the messages. Not the interpretations, but the mysteries themselves. I wonder what it would mean to really consider a story like this. To listen.
+I'd like to hear more about this story.
+Not the morals or the messages.
+Not the interpretations, but the mysteries themselves.
+I wonder what it would mean to really consider a story like this.
+To listen.
 
 8/10
 
@@ -66,11 +104,15 @@ I'd like to hear more about this story. Not the morals or the messages. Not the 
 ---
 ## The Hunchback of Notre Dame
 
-This is my new favorite Disney animated film. So simple, so barebones, but the lightning pace makes everything fresh, the characters keep you involved, and the musical sequences are the best in any of these films. 
+This is my new favorite Disney animated film.
+So simple, so barebones, but the lightning pace makes everything fresh, the characters keep you involved, and the musical sequences are the best in any of these films. 
 
-I'm still a huge Alan Mencken fan. This time, not for his melodies (they're okay), but for the orchestration and the punch he brings to every moment.
+I'm still a huge Alan Menken fan.
+This time, not for his melodies (they're okay), but for the orchestration and the punch he brings to every moment.
 
--1 for the gargoyles. I'm still of the opinion that all of these films would be strictly better if you removed the comic sidekicks. No Mushu in Mulan, no raccoon in Pocahontas, no Danny Devito in Hercules, etc.
+-1 for the gargoyles.
+I'm still of the opinion that all of these films would be strictly better if you removed the comic sidekicks.
+No Mushu in Mulan, no raccoon in Pocahontas, no Danny Devito in Hercules, etc.
 
 9/10
 
@@ -86,10 +128,11 @@ By Akira Kurosawa
 
 ---
 ## Sam Wilkes, Craig Weinrib, Dylan Day
-
 This album is all instrumental, just three guys, and heavily improvised.
 
-I think it might be the most sensitive album I've ever heard! The vulnerability of the players gives way to wonderful, simple sonic exploration, and the feeling which arises from it is that of sheer warmth, even in songs which are desperate, melancholic, and lost. There is indeed something warm in all three of those feelings, and these three guys reminded me of that today.
+I think it might be the most sensitive album I've ever heard!
+The vulnerability of the players gives way to wonderful, simple sonic exploration, and the feeling which arises from it is that of sheer warmth, even in songs which are desperate, melancholic, and lost.
+There is indeed something warm in all three of those feelings, and these three guys reminded me of that today.
 
 Favorite track: *How Insensitive*
 
@@ -113,10 +156,13 @@ This is my second read, and I still love this book!
 ## The Girl Who Leapt Through Time
 By Mamoru Hosoda
 
-This film's animation details are incredible! Such great unexpected tone, pace, and character changes.
+This film's animation details are incredible!
+Such great unexpected tone, pace, and character changes.
 I think the main character is one of the most dynamically animated characters in animation.
 
-It's a shame the details are animating this stupid story, but this film has some really special moments that are worth watching. I especially like the scenes of high school after hours, when the evening sun is coming down, and everything's sort of empty but so full of warmth at the same time. I'm a sucker for that stuff.
+It's a shame the details are animating this stupid story, but this film has some really special moments that are worth watching.
+I especially like the scenes of high school after hours, when the evening sun is coming down, and everything's sort of empty but so full of warmth at the same time.
+I'm a sucker for that stuff.
 
 5/10
 
@@ -126,9 +172,12 @@ It's a shame the details are animating this stupid story, but this film has some
 ## Summer Wars
 By Mamoru Hosoda
 
-Haha talk about a real thrill-ride. This film does everything you could possibly imagine, to the max.
+Haha talk about a real thrill-ride.
+This film does everything you could possibly imagine, to the max.
 
-It's full of true stuff, lovable characters, and some pretty crafty cinematography. I guess I'm just thinking that this film has better shots throughout than any of Hosoda's work with Madhouse otherwise. I wonder what was in the air in 2009.
+It's full of true stuff, lovable characters, and some pretty crafty cinematography.
+I guess I'm just thinking that this film has better shots throughout than any of Hosoda's work with Madhouse otherwise.
+I wonder what was in the air in 2009. And I wonder how this guy could make so many good films, and now everything he makes is terrible.
 
 7/10
 
@@ -139,9 +188,7 @@ It's full of true stuff, lovable characters, and some pretty crafty cinematograp
 By Mamoru Hosoda
 
 This one's alright. I think it's my least favorite of Hosoda's four good films.
-
 I get some legitimate feelings from the montages, and that's mostly due to Takagi-san's soundtrack. Masterful as always!
-
 But most of it is pretty childish. The pacing is wonky and the story is dumb.
 
 4/10
@@ -154,9 +201,12 @@ By Jiddu Krishnamurti
 
 Austere, annihilating.
 
-A philosophy with no parallel. Unique, but utterly factual. Makes all other works into opinion by contrast.
+A philosophy with no parallel. Unique, but utterly factual.
+Makes all other works into opinion by contrast.
 
-While Krishnamurti does not exactly construct values himself, I would consider his spirit to be as close to Nietzsche's Ubermensch as imaginable. In fact, he very nearly deconstructs that idea too. Of course, that deconstruction is a prerequisite for the ubermensch, but I didn't expect a being this pure and simple to be the thing to reevaluate all values.
+While Krishnamurti does not exactly construct values himself, I would consider his spirit to be as close to Nietzsche's Ubermensch as imaginable.
+In fact, he very nearly deconstructs that idea too.
+Of course, that deconstruction is a prerequisite for the ubermensch, but I didn't expect a being this pure and simple to be the thing to reevaluate all values.
 
 Read it, and disintegrate!
 
@@ -168,13 +218,17 @@ Read it, and disintegrate!
 ## Sanjuro
 By Akira Kurosawa
 
-This movie is hilarious! The funniest one I've seen by this guy Kurosawa.
+This movie is hilarious!
+The funniest one I've seen by this guy Kurosawa.
 
-The film feels like D&D should be. Crazy plans, going awry, and then improvisation.
+The film feels like D&D should be.
+Crazy plans, going awry, and then improvisation.
 Character dynamics and growth.
 Nothing flashy, just plain and simple fun.
 
-Huge fan of this one, even over Yojimbo. Also playing a part in that is the 90 minute runtime. In a toss-up, I'll always back the shorter film.
+Huge fan of this one, even over Yojimbo.
+Also playing a part in that is the 90 minute runtime.
+In a toss-up, I'll always back the shorter film.
 
 8/10
 
@@ -187,8 +241,10 @@ By Steven Spielberg
 I wasn't really gripped by this film, but we had a really good time together.
 
 I guess it was sort of a mixed bag to me.
-The best violence I've seen in one of these war pictures. The worst camerawork.
-The sweetest characters. The weirdest conversations in the strangest places.
+The best violence I've seen in one of these war pictures.
+The worst camerawork.
+The sweetest characters.
+The weirdest conversations in the strangest places.
 
 Anyways, I liked it, but I didn't get choked up, so I'd say the film didn't really work for me.
 
@@ -200,12 +256,16 @@ Anyways, I liked it, but I didn't get choked up, so I'd say the film didn't real
 ## High and Low
 By Akira Kurosawa
 
-Wow! Now that's a movie. I think this is my new favorite Kurosawa film.
+Wow! Now that's a movie.
+I think this is my new favorite Kurosawa film.
 I think I generally like the modern-times films even more than the samurai films, since Kurosawa's characters are so relatable and sweet in the modern day.
 
-The first half of this film is unparalleled. The back half slows down just a hair, but I'd say it still works.
+The first half of this film is unparalleled.
+The back half slows down just a hair, but I'd say it still works.
 
-I particularly love the silhouette work in the house. I guess I've been watching these one-room dramas recently, same basic premise as in Reservoir dogs. This one's tension is so much more relatable to me though, and truer and more pure, too.
+I particularly love the silhouette work in the house.
+I guess I've been watching these one-room dramas recently, same basic premise as in Reservoir dogs.
+This one's tension is so much more relatable to me though, and truer and more pure, too.
 
 9/10
 
@@ -216,7 +276,6 @@ I particularly love the silhouette work in the house. I guess I've been watching
 By Quentin Tarantino
 
 I liked the film, quite a lot! I thought the cast was so cool, and the setup is pretty crafty.
-
 I think the flash of this film is sort of worn off today, but I can see its influence now.
 
 6/10

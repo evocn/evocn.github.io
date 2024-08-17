@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Bujo.md",
+                "file": "thoughts/journal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "thoughts/reviews.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,16 +104,20 @@
   },
   "active": "9dbad71a58de9e99",
   "lastOpenFiles": [
-    "now.md",
+    "thoughts/favorites.md",
+    "thoughts/reviews.md",
     "thoughts/journal.md",
-    "Private/Bujo.md",
     "Private/Diary.md",
+    "Private/Video Games/Ideas.md",
+    "now.md",
+    "Private/Bujo.md",
+    "Private/Role-Playing Games/Mew.md",
+    "_index.md",
     "Private/Archives/journal - 2021/job.md",
     "Private/Films",
     "Private/Ideas.md",
     "Private/Temp.md",
     "Private/Video Games/Fish Tank.md",
-    "Private/Role-Playing Games/Mew.md",
     "Private/Role-Playing Games",
     "Private/Archives/journal - 2021/programming.md",
     "Private/Archives/journal - 2021/2022.md",
@@ -127,10 +131,7 @@
     "Private/Train.md",
     "Private/Next.md",
     "Private/Todo.md",
-    "thoughts/reviews.md",
-    "thoughts/favorites.md",
     "Private/Priorities.md",
-    "thoughts.md",
     "Private/Archives/Early Blog/selflove.html",
     "Private/Archives/Early Blog/process.html",
     "Private/Archives/Early Blog/learning.html",

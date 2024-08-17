@@ -4,6 +4,14 @@
 ---
 
 ---
+## From the [Wikipedia Page](https://en.wikipedia.org/wiki/Romanticism) on Romanticism
+"Romanticists rejected the social conventions of the time in favour of a moral outlook known as individualism. They argued that passion and intuition were crucial to understanding the world, and that beauty is more than merely an affair of form, but rather something that evokes a strong emotional response. With this philosophical foundation, the Romanticists elevated several key themes to which they were deeply committed: a reverence for nature and the supernatural, an idealization of the past as a nobler era, a fascination with the exotic and the mysterious, and a celebration of the heroic and the sublime."
+
+I have never heard of such a wonderful philosophy!
+
+8/17/2024
+
+---
 ## Exploration in Video Games
 I've come to an understanding of why I tend to dislike most metroidvanias and open world games.
 

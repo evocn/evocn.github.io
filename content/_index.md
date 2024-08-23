@@ -2,28 +2,17 @@
 
 ---
 # Hi, I'm Alex.
+I'm a programmer, game designer, long-time Dungeon Master, and I do plenty of other stuff.
+I live in Bellevue, Washington.
 
-Nice to meet you! I'm a programmer, game designer, and musician living in Bellevue, Washington.
-
----
-
-I think a lot about games, and their potential for expression, connection, and feeling.
-I work on prototypes that explore these ideas.
-
-I like to write music and shoot films sometimes too.
-Recently, I've also been publishing my thoughts on this website.
-I'm not exactly prolific, but I do what I want to!
-
----
+To see what I'm doing these days, check out my [now](/now) page.
 
 I appreciate art which shows us the world in a fresh light.
-Above all, I think art is best when it is simple and honest.
+If you're looking for some good movies, books, etc. to check out, I keep a list of my [favorites](/thoughts/favorites) and I write [reviews](/thoughts/reviews) of just about everything I see.
 
-If you think so too, I think we'd be good friends!
+I also keep a little micro-blog [journal](/thoughts/journal) where I write on games, programming, storytelling, philosophies I'm interested in, and lots more.
+
+If you think we'd be good friends, send me an email!
+alexanderhartford@gmail.com
 
 ![me](images/me.png)
-(Here's me, by the way!)
-
-Thanks for stopping by. Go ahead and take a look around!
-If you have questions or want to get in touch, send me an email.
-alexanderhartford@gmail.com

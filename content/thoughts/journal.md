@@ -2,6 +2,43 @@
 *My thoughts*
 
 ---
+## Two things to never forget!
+A dream is not something that will happen in the future, a dream is something which inspires you to do something *right now!*
+
+Desire is a pact you make with yourself to be unhappy until you get what you think you want.
+
+8/20/2024
+
+---
+Coming of age story is a really popular story.
+
+It makes sense why it's so ubiquitous. It is, in a sense, the only universal experience in life.
+Every single person with the capacity to understand the story knows what it is like to get older, and has some sweet, nostalgic memory for their youth.
+
+8/18/2024
+
+---
+Good workmen never quarrel with their tools.
+
+8/17/2024
+
+---
+One thing I've come to realize with RPG design is that there are really two things to design with tabletop games, usually.
+
+1. Character Creation.
+2. The actual game.
+
+For some reason, designing #1 is my favorite thing to do.
+I love to imagine the players' choices when they're faced with all these cool ideas.
+I think if I could just run a game where players chose their characters, I'd be in bliss.
+
+However, it only really happens once, and then you run the game.
+
+I wonder what the right thing is here?
+Should I pivot into this specialty of design and just ignore the rest of the game?
+Or maybe I'm focusing on the wrong things...
+
+8/17/2024
 
 ---
 ## From the [Wikipedia Page](https://en.wikipedia.org/wiki/Romanticism) on Romanticism
@@ -12,7 +49,7 @@ I have never heard of such a wonderful philosophy!
 8/17/2024
 
 ---
-## Exploration in Video Games
+## What is Exploration?
 I've come to an understanding of why I tend to dislike most metroidvanias and open world games.
 
 At first, I thought I had just learned everything the genres have to offer. In metroidvanias, you get keys which unlock doors. They're special keys, but you can only take that so far, right?
@@ -62,8 +99,6 @@ The real insight here? Don't follow your first instinct all the time! I thought 
 8/13/2024
 
 ---
-## A good thought from Rupert
-
 "It's possible for the type configuration of the mind (thought and perception) to be relaxed, through meditation.
 When the mind does expand or relax, the thinking and perceiving faculties expand or relax, and we have a different view of reality.
 In fact, this is why we have artists in our culture.
@@ -73,7 +108,6 @@ They are able to bring that information into space-time to give the viewer a tas
 -Rupert Spira
 
 ---
-## To improve the game
 *A few thoughts on Tabletop games and how to run them better.*
 
 2 players is ideal. 3 is an upward limit. It doesn't matter the type of game you're running. Things get confused beyond those limits. You can't keep 4 players all involved in a tale for any length of time, with dynamic stories swirling around them all. 5 is nearly unthinkable!

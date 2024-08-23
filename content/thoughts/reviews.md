@@ -1,7 +1,40 @@
 # Reviews
 *Discussion of art*
 
+## Monsters, Inc.
+By Pixar
+
+8/10
+
+8/21/2024
+
 ---
+## Thirty Flights of Loving, Quadrilateral Cowboy, etc.
+By Blendo Games
+
+These games are very interesting to me, man.
+
+For one thing, they're extremely low-fidelity experiences.
+There are bugs everywhere, the scenarios are hacked together, and I'm uncertain as the player what is intentional and what isn't.
+The best parts of this interactive experience are the parts which are staged and scripted, where you don't have the chance to push the wrong buttons or have to figure out what you're supposed to do.
+I really enjoy the tone and the essence of what these games are trying to do, but it's hamstrung every step of the way.
+
+Game-playing audiences don't mind it, I guess.
+Quadrilateral Cowboy beat Inside and Stardew Valley for the Seamus McNally in 2017 (a relatively weak year, but still).
+This is a testament to how starved video games are for some authentic experience.
+You put together something which speaks a little bit to some part of the human soul, and people don't even mind that it's hardly playable.
+These guys are one of the only people doing this right now!
+It's insane!
+
+Now there are all sorts of game design questions these games bring up, too. Do interactive elements even belong in these experiences? Would they be better as short films? Can this experience be polished? Or does it rely on a sense of uncertainty?
+But I don't need to ask too many questions, I just enjoy the ride.
+
+Thanks for making these happen, Blendo.
+I, for one, got inspired by your games.
+
+6/10
+
+8/17/2024
 
 ---
 ## The Incredibles

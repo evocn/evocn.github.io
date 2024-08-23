@@ -8,7 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "760ec6d8ad932a5d",
+            "id": "edac5a35515cbbfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Bujo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "740c32a6ade5e10d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/journal.md",
+                "file": "thoughts/reviews.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +47,12 @@
             }
           },
           {
-            "id": "9dbad71a58de9e99",
+            "id": "52ac037b6fb1ba9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/reviews.md",
+                "file": "Private/Apartment.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,43 +115,43 @@
   "left-ribbon": {
     "hiddenItems": {}
   },
-  "active": "9dbad71a58de9e99",
+  "active": "93a62528a44d3ab8",
   "lastOpenFiles": [
-    "thoughts/favorites.md",
     "thoughts/reviews.md",
-    "thoughts/journal.md",
-    "Private/Diary.md",
-    "Private/Video Games/Ideas.md",
-    "now.md",
+    "Private/Apartment.md",
+    "Untitled",
+    "journal/reviews.md",
+    "journal",
+    "Private/Video Games/Fish Tank.md",
+    "Private/Role-Playing Games/Ideas.md",
     "Private/Bujo.md",
+    "Archives/games (6-2023 to 6-2024).md",
+    "Archives/journal (1-2024 to 6-2024).md",
+    "Archives/2023.md",
+    "Archives/films (2023).md",
+    "Archives",
+    "Private/Diary.md",
+    "thoughts/journal.md",
+    "thoughts/favorites.md",
+    "music.md",
+    "Private/Video Games/Ideas.md",
+    "Private/Training/Train.md",
+    "Private/Music/Ideas.md",
+    "Private/Films/Ideas.md",
+    "Private/Temp.md",
+    "Private/Training",
+    "Private/Music",
     "Private/Role-Playing Games/Mew.md",
+    "thoughts.md",
     "_index.md",
+    "now.md",
     "Private/Archives/journal - 2021/job.md",
     "Private/Films",
     "Private/Ideas.md",
-    "Private/Temp.md",
-    "Private/Video Games/Fish Tank.md",
     "Private/Role-Playing Games",
     "Private/Archives/journal - 2021/programming.md",
-    "Private/Archives/journal - 2021/2022.md",
-    "Private/Archives/journal - 2021/musicmaking.md",
-    "Private/Archives/journal - 2021/resistance.md",
-    "Private/Archives/journal - 2021/money.md",
-    "Private/Archives/journal - 2021/home.md",
-    "Private/Archives/journal - 2021/social.md",
-    "Private/Archives/journal - 2021/math.md",
-    "Private/Archives/journal - 2021/copyright.md",
-    "Private/Train.md",
-    "Private/Next.md",
-    "Private/Todo.md",
-    "Private/Priorities.md",
     "Private/Archives/Early Blog/selflove.html",
     "Private/Archives/Early Blog/process.html",
-    "Private/Archives/Early Blog/learning.html",
-    "Private/Archives/Early Blog/fun.html",
-    "Private/Archives/Early Blog",
-    "Private/Archives/journal - 2021",
-    "Private/Archives/journal - 2022/youtube",
-    "Private/Archives/journal - 2022/social"
+    "Private/Archives/Early Blog/learning.html"
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Sanctum",
+  "cssTheme": "Obsidian Nord",
   "interfaceFontFamily": "Fira Mono",
   "textFontFamily": "Fira Mono",
   "monospaceFontFamily": "Fira Mono",
   "baseFontSizeAction": true,
   "showViewHeader": false,
-  "baseFontSize": 23
+  "baseFontSize": 22
 }

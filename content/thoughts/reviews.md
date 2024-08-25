@@ -1,6 +1,36 @@
 # Reviews
 *Discussion of art*
 
+---
+## WALL-E
+By Pixar
+
+This one's about in the same ballpark as Ratatouille.
+Pretty nice film, very well-made.
+Just felt like the characters were a little obscure, not that clear, and the pace was a little too quick for my liking.
+
+7/10
+
+8/24/2024
+
+---
+## Ratatouille
+By Pixar
+
+It was certainly a good film. Very beautiful, obvious care was put into the making of it.
+
+But perhaps the premise is a bit flawed, the characters are a little obscure, and the pace is a little too all over the place for this to be considered another pixar masterpiece.
+
+Less time with the rats, more time with the chef lady, and a different Linguini character (with perhaps a little more change) would have been enough.
+
+I think the most egregious sin the film commits was the one scene where Linguini actually displays some regret for his actions, the film is too busy pulling some gag about a rat eating grapes to give it its full attention.
+When the film does deign to focus in on just one thing for a time, I am always entranced.
+
+6/10
+
+8/22/2024
+
+---
 ## Monsters, Inc.
 By Pixar
 

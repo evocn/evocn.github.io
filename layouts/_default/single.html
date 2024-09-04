@@ -1,3 +1,10 @@
 {{ define "main" }}
+    <h1>{{ .Title }}</h1>
+    <hr>
 	{{ .Content }}
+    <hr>
+    {{ if ne ($.Date.Format "2006-01-02") "0001-01-01" }}
+        {{.Date.Format "January 2, 2006"}} |
+    {{ end }}
+    {{ partial "tags.html" .}}
 {{ end }}

@@ -6,6 +6,6 @@ assetDir    = 'assets'
 staticDir   = 'assets'
 
 languageCode = 'en-us'
-disableKinds = ['taxonomy', 'term', 'section', 'category', 'RSS']
+disableKinds = ['taxonomy', 'category', 'RSS']
 
 ignorefiles = [ 'Private/*', 'Archives/*' ]

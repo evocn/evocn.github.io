@@ -1,0 +1,9 @@
+{{ define "main" }}
+    <h1>{{ .Title }}</h1>
+    <hr>
+    {{ range .Data.Pages }}
+        <h2><a href="{{.Permalink}}">{{.Title}}</a></h2>
+        <blockquote>{{.Date.Format "January 2, 2006"}} | {{ partial "tags.html" .}}</blockquote>
+        <hr>
+    {{ end }}
+{{ end }}

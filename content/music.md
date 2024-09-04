@@ -1,5 +1,8 @@
-# Music
-
+---
+date: 2024-09-03
+title: 'Music'
+tags: []
+---
 I put the best songs I write here!
 The newest stuff is up top.
 

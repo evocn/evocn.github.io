@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "music.md",
+                "file": "_index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,9 +77,9 @@
   },
   "active": "74024bb0087486cf",
   "lastOpenFiles": [
+    "music.md",
     "favorites.md",
     "now.md",
-    "music.md",
     "reviews.md",
     "Private/Ideas.md",
     "Private/Training.md",

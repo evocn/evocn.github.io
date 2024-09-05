@@ -45,4 +45,9 @@ And my reasoning for that can be whatever I want it to be as well.
 
 In sum, I should make a decision about what art means to me, and be earnest about it, and stick with it. 
 
-Once again, I am reminded that it's far too easy to forget that I'm a *Free Man in Paris*!
+---
+All works of art have an audience.
+Nothing is made for no one.
+
+Some art is made for oneself.
+That is perhaps the most crucial audience of all!

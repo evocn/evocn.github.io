@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "Private/Bullet Journal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,6 +77,10 @@
   },
   "active": "74024bb0087486cf",
   "lastOpenFiles": [
+    "posts/rules.md",
+    "_index.md",
+    "Private/Bullet Journal.md",
+    "Private/Training Diary.md",
     "music.md",
     "favorites.md",
     "now.md",
@@ -84,10 +88,8 @@
     "Private/Ideas.md",
     "Private/Training.md",
     "Private/Appropriation.md",
-    "_index.md",
     "Private/Bullet.md",
     "Private/Diary.md",
-    "posts/rules.md",
     "posts/tabletop_tips.md",
     "posts/what_are_video_games.md",
     "posts/exploration.md",
@@ -101,8 +103,6 @@
     "posts/writers_block.md",
     "posts/rolling_stone.md",
     "posts/sitting.md",
-    "posts/kids.md",
-    "posts/proust_habit.md",
     "posts",
     "Private/Ideas",
     "Private/Ideas",

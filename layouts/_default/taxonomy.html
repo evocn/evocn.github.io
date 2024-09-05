@@ -1,7 +1,8 @@
 {{ define "main" }}
-    <h1>"{{ .Title }}"</h1>
+    <h1>Posts tagged "{{ .Title }}"</h1>
+    <hr>
     {{ range .Pages }}
-        <h3>{{.Date.Format "2006-01-02"}} | <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+        <h3>{{.Date.Format "01/06"}} | <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
     {{ end }}
 {{ end }}
 

@@ -7,7 +7,7 @@ tags:
   - fiction
 ---
 Here is something to pin down:
-> What are the purpose of rules?
+> What is the purpose of rules?
 
 To the narrative player, these things get in the way of the story they want to tell.
 But when you strip them away, that same player feels... odd.

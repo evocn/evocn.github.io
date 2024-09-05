@@ -7,7 +7,7 @@ You ever heard of the French Republican Calendar?
 Look it up.
 
 Now don't get me wrong, I'm a Gregorian at heart.
-But imagine the things this calendar could do for us.
+But imagine the things this calendar could do for us!
 
 12 30-day months per year.
 Just fill in the overtime with a few days at the end.

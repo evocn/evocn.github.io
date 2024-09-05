@@ -1,13 +1,11 @@
 html {
-    /*
     --color-page:   #F5F5F5;
-    --color-text:   #000000;
-    --color-accent: #fF7D00;
-    */
+    --color-text:   #050609;
+    --color-accent: #6184D8;
 
-    --color-page:   #0d3b66;
-    --color-text:   #F5F5F5;
-    --color-accent: #FFA400;
+    /*
+    --color-accent: #138C68;
+    */
 
     overflow-x: hidden;
     color:            var(--color-text);
@@ -22,10 +20,15 @@ body {
     padding: 0px 10px 50px 10px;
     max-width: 800px;
 
-    font-family: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro", "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
+    font-family: Verdana, Arial, sans-serif; 
     font-size: 110%;
 }
-h1 { text-align: center; }
+h1 {
+    text-align: center;
+}
+h1, h2, h3, h4 {
+    font-family: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro", "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
+}
 
 a       { color: var(--color-accent); }
 a:hover { color: var(--color-text);   }

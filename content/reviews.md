@@ -69,7 +69,7 @@ This one's about in the same ballpark as Ratatouille.
 Pretty nice film, very well-made.
 Just felt like the characters were a little obscure, not that clear, and the pace was a little too quick for my liking.
 
-7/10
+6/10
 
 8/24/2024
 

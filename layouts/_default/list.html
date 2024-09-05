@@ -1,9 +1,25 @@
 {{ define "main" }}
     <h1>{{ .Title }}</h1>
     <hr>
+
+    <center>
+    <strong>By tag:
+    <br>
+    |
+	{{range $name, $taxonomy := .Site.Taxonomies.tags}} {{ $cnt := .Count }}
+	    {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+            <a href={{ .RelPermalink }} title="All pages with tag <i>{{$name}}</i>">{{$name}}</a>
+	    {{end}}
+        |
+	{{end}}
+</strong>
+    </center>
+
+    <hr>
+
+    <strong>
     {{ range .Data.Pages }}
-        <h2><a href="{{.Permalink}}">{{.Title}}</a></h2>
-        <blockquote>{{.Date.Format "January 2, 2006"}} | {{ partial "tags.html" .}}</blockquote>
-        <hr>
+        <h3>{{.Date.Format "01/06"}} | <a href="{{.Permalink}}">{{.Title}}</a></h3>
     {{ end }}
+    </strong>
 {{ end }}

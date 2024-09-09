@@ -1,7 +1,7 @@
 ---
 
 ---
-# Hi, I'm Alex.
+# Hi, I'm Alex!
 I'm a programmer, game designer, long-time Dungeon Master, and I do plenty of other stuff.
 I live in Bellevue, Washington.
 

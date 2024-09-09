@@ -6,6 +6,17 @@ I write reviews of nearly everything I see!
 If you're looking for my favorite stuff, though, look [here](/favorites) instead!
 
 ---
+# Madadayo
+By Akira Kurosawa
+
+Freah, simple, patient, and personal.
+I love films like this one!
+
+8/10
+
+9/7/2024
+
+---
 # The Dying Earth
 Vancian Magic is way cooler than I ever thought it could have been.
 

@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Bullet Journal.md",
+                "file": "Private/Strategies/Priorities.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f402de18f1b5d40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,21 +89,24 @@
   "left-ribbon": {
     "hiddenItems": {}
   },
-  "active": "74024bb0087486cf",
+  "active": "3f402de18f1b5d40",
   "lastOpenFiles": [
-    "posts/rules.md",
-    "_index.md",
-    "Private/Bullet Journal.md",
-    "Private/Training Diary.md",
-    "music.md",
-    "favorites.md",
-    "now.md",
     "reviews.md",
-    "Private/Ideas.md",
-    "Private/Training.md",
-    "Private/Appropriation.md",
-    "Private/Bullet.md",
+    "music.md",
+    "now.md",
+    "Private/Strategies/Priorities.md",
+    "_index.md",
+    "favorites.md",
+    "Private/Strategies/Refresh.md",
+    "Private/Calendar.md",
     "Private/Diary.md",
+    "Private/Ideas.md",
+    "Private/Strategies/Lifting.md",
+    "Private/Appropriation.md",
+    "Private/Strategies",
+    "posts/rules.md",
+    "Private/Training.md",
+    "Private/Bullet.md",
     "posts/tabletop_tips.md",
     "posts/what_are_video_games.md",
     "posts/exploration.md",
@@ -101,8 +118,6 @@
     "posts/audience.md",
     "posts/fantasy_surrealism.md",
     "posts/writers_block.md",
-    "posts/rolling_stone.md",
-    "posts/sitting.md",
     "posts",
     "Private/Ideas",
     "Private/Ideas",
@@ -111,7 +126,6 @@
     "Private/Trajectory",
     "Private/Improvement",
     "Private/Discipline",
-    "posts",
-    "Archives"
+    "posts"
   ]
 }

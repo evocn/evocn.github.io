@@ -1,7 +1,7 @@
 ---
 title: My Favorite Art
 ---
-This is just a list of all my favorite things, at this point in time!
+This is just a list of all my favorite things.
 
 ---
 # Films

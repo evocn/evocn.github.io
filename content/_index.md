@@ -2,15 +2,14 @@
 
 ---
 # Hi, I'm Alex!
-I'm a programmer, game designer, long-time Dungeon Master, and I do plenty of other stuff.
-I live in Bellevue, Washington.
+I'm in Bellevue, Washington.
 
 To see what I'm doing these days, check out my [now](now) page.
 
-I appreciate art which shows us the world in a fresh light.
 If you're looking for some good movies, books, etc. to check out, I keep a list of my [favorites](favorites) and I write [reviews](reviews) of just about everything I see.
+I appreciate art which shows us the world in a fresh light.
 
-I also keep a little [micro-blog](/posts) where I write down ideas on design, storytelling, being, and creation.
+I also [write](/posts) a public journal.
 
 If you think we'd be good friends, send me an email!
 alexanderhartford@gmail.com

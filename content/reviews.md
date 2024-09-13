@@ -1,9 +1,42 @@
 ---
 title: Reviews
 ---
-I write reviews of nearly everything I see!
+I write reviews of nearly everything I see.
 
 If you're looking for my favorite stuff, though, look [here](/favorites) instead!
+
+---
+# Pumping Iron
+This film is insane.
+
+I know a lot of it is staged, but it's probably the best film about sports I've seen, besides *Olympia*.
+
+I'm a huge bodybuilding fan, especially after seeing this one.
+As a film enjoyer, though, I found way more inspiration in this film than in a lot of others!
+Maybe it's because your subject is inherently interesting, so it's easier to shoot good stuff?
+I don't think that's the whole story. I loved the editing tricks, the simple, sparse narration, the handheld camerawork (always finding the funniest or the most dynamic part of a scene), and even the music choices were golden.
+
+Great film. Best underdog movie ever also.
+
+8/10
+
+9/11/2024
+
+---
+# In the Mood for Love
+By Wong Kar-wai
+
+Movie is a little long, a little corny, but it's so beautiful, and it's really got a lot going on.
+
+I love the drama, the places these people put themselves, and the funny, lighthearted world which exists around them, seemingly entirely unnoticing of their presence.
+In this world, every married person has an affair, and gets away with it, and only our heroes, the ones with the sweetest intentions and the nicest smiles, get nothing. It's brutal!
+But in the end, you sort of realize that they got exactly what they wanted, in a sense.
+
+Anyways, beautiful film. I think it could have been about a half hour shorter, so I take a couple points off, but otherwise I loved it.
+
+7/10
+
+9/10/2024
 
 ---
 # Madadayo

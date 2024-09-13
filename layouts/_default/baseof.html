@@ -7,8 +7,6 @@
     {{- $css := resources.Get "style.css" | minify | fingerprint -}}
     <link rel="stylesheet" href="{{ $css.RelPermalink }}" type="text/css" media="screen" integrity="{{ $css.Data.Integrity }}">
 
-    <link rel="icon" type="image/x-icon" href="favicon.png">
-
     <h3>
     <center>
     <a href="/">Alex Hartford</a>

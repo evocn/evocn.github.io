@@ -3,7 +3,7 @@ title: Now
 tags:
 ---
 Here's what I'm up to these days:
-## Working on creative projects
+## Learning
 ## Staying healthy
 Eating well, sleeping lots, and exercising regularly.
 ## Working at Nintendo

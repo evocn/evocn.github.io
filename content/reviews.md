@@ -6,6 +6,31 @@ I write reviews of nearly everything I see.
 If you're looking for my favorite stuff, though, look [here](/favorites) instead!
 
 ---
+# The War of Art
+By Steven Pressfield
+
+One of the few perfect books. I recommend this to everyone.
+
+If you have any feelings of doubt about the way you spend your time, or have ever struggled to start working on anything you believed in, or even if you're not 100% focused on or certain about your goals in life, this book is your Holy Bible.
+Ignore its teachings at your peril.
+
+10/10
+
+9/16/2024
+
+---
+# Amadeus
+One of the better Cain and Abel stories I've seen.
+This was my second watch, and it wasn't diminished by it. Mostly because of the performances.
+I think the actors in this film did a lot with a little, and pulled it off well. Especially Constanze.
+
+I think I still prefer *The Fountainhead*, but this is pretty darn good stuff. Pretty fun to imagine how real the story was also, even though it's likely entirely farcicle.
+
+6/10
+
+9/16/2024
+
+---
 # Pumping Iron
 This film is insane.
 
@@ -116,6 +141,22 @@ Just felt like the characters were a little obscure, not that clear, and the pac
 6/10
 
 8/24/2024
+
+---
+# Useful, Not True
+By Derek Sivers
+
+Great short read.
+
+The book is the culmination of the tight, punch-you-in-the-face curation of ideas that I love about your work, and I've come back a couple of times to it already.
+
+I'd say the biggest shift that the book facilitated is not necessarily in introducing new ideas, but giving me the permission to believe and follow ideas which I sometimes ignore in the pursuit of "truth".
+
+It's liberating to just follow what's best for me, without worrying about whether it would extend to others.
+
+Remember that things need not be true to be useful.
+
+8/10
 
 ---
 # Ratatouille
@@ -670,7 +711,7 @@ Good art is a mix. Let's not forget that in our pursuit of art in games.
 
 ---
 # Animal Well
-Billy Basso
+By Billy Basso
 
 *Animal Well* is the latest Super Metroid ripoff.
 It's a good game.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reviews.md",
+                "file": "Private/Strategies/Priorities.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,6 +77,7 @@
   },
   "active": "542d5da4caebd48f",
   "lastOpenFiles": [
+    "reviews.md",
     "posts/useful_not_true.md",
     "Private/Diary.md",
     "Private/Projects/Fish.md",
@@ -86,7 +87,6 @@
     "Private/Consider Purchases.md",
     "Private/Colors.md",
     "Private/Nuggets.md",
-    "reviews.md",
     "now.md",
     "_index.md",
     "Private/Strategies/Proposals.md",

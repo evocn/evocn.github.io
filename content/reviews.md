@@ -6,6 +6,112 @@ I write reviews of nearly everything I see.
 If you're looking for my favorite stuff, though, look [here](/favorites) instead!
 
 ---
+# Poor Things
+Very offensive, brash film. I consider it to be highly effective.
+The film appears to be complex, but in truth, is dead simple. 
+What would a child think of the world we live in (and the underlying human condition) if they didn't have our rationalizations of culture?
+
+I think the sex is funny, pretty much a circus film. The guys are as you'd expect, and it exposed a nice little feeling in me about possession and obsession.
+
+The insight is this: be completely earnest at all times. (S)he who does as she wishes will win the world.
+The men in this world are unhappy because they stake their lives in women, or in their work.
+It's really damn hopeless for these guys, really, as I don't really see a way out here.
+
+6/10
+
+9/25/2024
+
+---
+# Sun and Steel
+By Yukio Mishima
+
+Trying to communicate some very tangled stuff, this book.
+
+I loved the first half, feels more personal than Mishima's other stuff.
+Pretty plain - Mishima realizes that writing is individual, but experiencing life as part of a group is a pretty important part of life, which he represents as the struggle of the body, so he decides to start lifting and working out to participate in that.
+Then he continues the revelation to realize that at the core of art and the body are the root of death, and that the pursuit of the body is the only way to truly accept and embrace death.
+
+He's a pretty weird thinker, lots of crazy leaps, vivid ideas, sexual imagery for no reason, very funny philosophies. Just a total alien guy.
+I think he's really at his best when he's discussing more relatable concepts, like how modern society kills through inactivity, how most thinkers are completely undeveloped in their bodily understanding and therefore are unqualified for their own thoughts, and how bodily knowledge is, indeed, truer in a sense than purely intellectual knowledge.
+
+The epilogue sucks dick, I don't even know what it's supposed to be about. I think Mishima just wanted a way to symbolize his thoughts, but I think he should have just left it at the essay.
+
+All in all, it's a nice monologue from a guy who was really conflicted. I particularly like his explicit admittance of feeling insecure because he didn't make it into the kamikaze fighters, which is like the most clearly vulnerablr admittance of insecurity I've seen in a long while. It's sweet.
+
+6/10
+
+9/24/2024
+
+---
+# Do The Work
+By Steven Pressfield
+
+Probably the funniest of Steve's self-help trilogy. All of which deserve a read.
+
+This one's about how to go about a project, from start to finish. 
+
+Best stuff:
+- You can fit any creative idea's outline on a single sheet of paper, beginning middle and end.
+- All you do after that is fill in the gaps between those three parts. You should get 7 or 8 major movements.
+- The rest of the process is just work.
+- Sometimes you hit The Wall, in which case you have to dig deep.
+- Sometimes you get close to the end and encounter The Big Crash, where everything seems to be going wrong in the final hour. Then you really have to dig deep, and have faith, and be willing to rework the whole damn thing.
+- Finally, when you finish, you have to ship it. If you don't, it was all for nothing. Once you ship something, you will always deliver, for the rest of your life.
+
+Good book, packed full of good anecdotes, funny examples from history, and the tightest, sharpest writing east of Derek
+
+10/10
+
+9/29/2024
+
+---
+# Poor Things
+Very offensive, brash film. I consider it to be highly effective.
+The film appears to be complex, but in truth, is dead simple. 
+What would a child think of the world we live in (and the underlying human condition) if they didn't have our rationalizations of culture?
+
+I think the sex is funny, pretty much a circus film. The guys are as you'd expect, and it exposed a nice little feeling in me about possession and obsession.
+
+The insight is this: be completely earnest at all times. (S)he who does as she wishes will win the world.
+The men in this world are unhappy because they stake their lives in women, or in their work.
+It's really damn hopeless for these guys, really, as I don't really see a way out here.
+
+6/10
+
+9/25/2024
+
+---
+# Sun and Steel
+By Yukio Mishima
+
+Trying to communicate some very tangled stuff, this book.
+
+I loved the first half, feels more personal than Mishima's other stuff.
+Pretty plain - Mishima realizes that writing is individual, but experiencing life as part of a group is a pretty important part of life, which he represents as the struggle of the body, so he decides to start lifting and working out to participate in that.
+Then he continues the revelation to realize that at the core of art and the body are the root of death, and that the pursuit of the body is the only way to truly accept and embrace death.
+
+He's a pretty weird thinker, lots of crazy leaps, vivid ideas, sexual imagery for no reason, very funny philosophies. Just a total alien guy.
+I think he's really at his best when he's discussing more relatable concepts, like how modern society kills through inactivity, how most thinkers are completely undeveloped in their bodily understanding and therefore are unqualified for their own thoughts, and how bodily knowledge is, indeed, truer in a sense than purely intellectual knowledge.
+
+The epilogue sucks dick, I don't even know what it's supposed to be about. I think Mishima just wanted a way to symbolize his thoughts, but I think he should have just left it at the essay.
+
+All in all, it's a nice monologue from a guy who was really conflicted. I particularly like his explicit admittance of feeling insecure because he didn't make it into the kamikaze fighters, which is like the most clearly vulnerablr admittance of insecurity I've seen in a long while. It's sweet.
+
+6/10
+
+9/24/2024
+
+---
+# The Warped Forest
+Funny concept, where a weird world is filled with unhappy people who dream of a better life which is actually our world.
+
+It's just filled with the most mundane nonsense imaginable for the rest of it.
+
+3/10
+
+9/24/2024
+
+---
 # The War of Art
 By Steven Pressfield
 

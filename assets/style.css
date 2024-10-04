@@ -41,3 +41,16 @@ img {
 audio {
     width: 80%;
 }
+
+table, th, td {
+    border: 1px solid;
+    align: center;
+}
+th, td {
+    padding: 5px;
+    text-align: right;
+}
+table {
+    max-width: 80%;
+    margin: 0px auto;
+}

@@ -6,6 +6,62 @@ I write reviews of nearly everything I see.
 If you're looking for my favorite stuff, though, look [here](/favorites) instead!
 
 ---
+# Nausicaa, of the Valley of the Wind
+This is the perfect fantasy film, in my book.
+
+Super grounded, very relatable, and reverent for the kinds of things that happen in the world.
+The film is about war, pollution, apocalypse, but it's so hopeful.
+
+The characters are unforgettable, larger than life, and endlessly charming. Lord Yupa, Obaba, Kushana and Kurotowa, Mito and the rest of the old men... They're all the pinnacle of their archetypes.
+
+The score is phenomenal, the colors and the imaginative environments are wonderful, and even the Disney dub from 2005 is one of the best of all time.
+
+10/10
+
+10/19/2024
+
+---
+# My Neighbor Totoro
+Film is as charming as I remember it being.
+
+I guess the one part which really surprised me is how emotional little things made me.
+In particular, when the kids are visiting their mom in the hospital, and they're so happy to see her.
+
+These kids, they're trying to be as tough as they can, right? Trying to deal with their mom's situation. They're pretty independent, since they have to be tough, like that.
+
+But the mom turns to her bedside table and pulls out a hair brush, and starts brushing Satsuki's hair, and it's like she's just a kid again, with a normal mom who takes care of her.
+
+That made me cry this time! Awesome stuff.
+
+7/10
+
+10/17/2024
+
+---
+# Turning Pro
+By Steven Pressfield
+
+And here, the cap on the trilogy, is Steven's best book.
+This one somehow manages to be head-and-shoulders better than the other two, which I'd consider to each be 10s.
+
+Some books are too important to a person to ignore. This is a book which I have needed to read for a long time, and which I can rely on as a companion in the decades to come.
+
+10/10
+
+10/06/2024
+
+---
+# Jin-Roh
+Good flick, nice pacing, cool direction.
+The writing's pretty weird, though. I never really think I got Mamoru Oshii's obsession with re-telling old tales with some flashy twist.
+
+Also, I don't usually get films with emotionless characters, but this one's a nice balance.
+
+5/10
+
+10/6/2024
+
+---
 # Poor Things
 Very offensive, brash film. I consider it to be highly effective.
 The film appears to be complex, but in truth, is dead simple. 
@@ -816,7 +872,7 @@ Good art is a mix. Let's not forget that in our pursuit of art in games.
 5/21/2024
 
 ---
-# Animal Well
+## Animal Well
 By Billy Basso
 
 *Animal Well* is the latest Super Metroid ripoff.

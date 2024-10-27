@@ -1,9 +1,10 @@
 {
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "Fira Mono",
   "textFontFamily": "Fira Mono",
   "monospaceFontFamily": "Fira Mono",
   "baseFontSizeAction": true,
   "showViewHeader": false,
-  "baseFontSize": 15
+  "baseFontSize": 18,
+  "accentColor": "#238b55"
 }

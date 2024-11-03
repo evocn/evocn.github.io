@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bones/options.md",
+                "file": "bones/rules.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "options"
+              "title": "rules"
             }
           }
         ]
@@ -83,10 +83,13 @@
   },
   "active": "c4536e6aee251629",
   "lastOpenFiles": [
+    "bones/options.md",
+    "Private/Journal.md",
     "bones/rules.md",
+    "Private/Projects/Fish.md",
+    "Private/Diary.md",
     "Private/Projects/Bones/add-ons.md",
     "Private/Projects/Bones/scenarios.md",
-    "bones/options.md",
     "bones/abilities.md",
     "bones/creation.md",
     "bones/rules/creation.md",
@@ -99,15 +102,12 @@
     "Private/Projects/Bones/log.md",
     "Private/Projects/Bones/archive",
     "Private/Projects/Bones/Untitled.md",
-    "Private/Journal.md",
-    "Private/Diary.md",
     "now.md",
     "Private/Projects/Bones/archive/enemies.md",
     "Private/Projects/Bones/setting.md",
     "Private/Ideas/Films.md",
     "Private/Convictions.md",
     "Private/Projects/Dayne.md",
-    "Private/Projects/Fish.md",
     "Private/Ideas/Top Ideas.md",
     "Private/Ideas/Lifting.md",
     "bones/rules",

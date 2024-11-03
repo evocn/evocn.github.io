@@ -2,13 +2,13 @@
 title: Rules
 ---
 ***The Core Mechanic*** - This is a 2D6-based game.
-> ***DCs:*** Easy: **5** | Moderate: **8** | Hard: **12** | Impossible: **18**
+> ***DCs:*** Easy: **7** | Moderate: **9** | Hard: **11**
 
 I tend to resolve most things without dice when characters are proficient at something, have a significant advantage or good plan, or when they are not under any particular pressure.
 Sometimes rolls can have partial success or consequences. I'll always tell you in advance what a roll entails.
 
 ---
-***Attributes*** - There are 6 attributes which govern characters, which typically range from -3 to +3.
+***Attributes*** - There are 5 attributes which govern characters, which typically range from -3 to +3.
 - ***Agility*** - Dodging, sneaking, leaping.
 - ***Strength*** - Pushing, pulling, climbing, wrestling, melee weapons.
 - ***Clarity*** - Perception, ranged weapons, details.
@@ -18,7 +18,7 @@ Sometimes rolls can have partial success or consequences. I'll always tell you i
 > New characters distribute **[+2, +1, 0, -1, -2]** in these five scores.
 
 ---
-***Talent*** - A character's learned or innate capacity to perform some specific task. It can be anything, as long as it's specific, like *climbing* or *repairing things* or *seduction* or *long bow*.
+***Talent*** - A character's learned or innate capacity to perform some task. It can be anything, as long as it's specific, like *climbing* or *repairing things* or *seduction* or *long bow*.
 
 A talented character often doesn't need to roll checks.
 When they do, talents allow you to **reroll 1's** from your initial roll.
@@ -30,7 +30,6 @@ There's a bunch listed in [Options](/bones/options), but you can make up your ow
 
 ---
 # Combat
-
 ***Turns*** - Combat happens in rounds. There isn't initiative, we just go around the table in order, then the enemies go.
 Each round, you can move and do an **Action**.
 
@@ -57,16 +56,17 @@ An unconscious character who takes another Wound dies.
 | 6-7   | Brain Damage | -2 to Knowledge, Clarity.                                                                        |
 | 8-9   | Deep Gash    | -1 to Strength, Agility.                                                                         |
 
----
-***Critical*** - On a weapon's maximum damage output, you score a critical! You roll damage again. This can continue indefinitely.
+These wounds are just examples. Other specific wounds exist, which will come up on the fly.
 
 ---
-***Rest*** - Characters who have time and resources to recover can attempt to mend their Wounds. The GM determines an appropriate time for the characters to get some rest.
+***Critical*** - On a weapon's maximum damage output, you score a critical! You roll damage again, which can also critical indefinitely.
 
-Each rest, once for each Wound, any character can roll a DC 8 Knowledge check to mend a Wound.
-Alternatively, for your own wounds, you can attempt a DC 10 Grit check to manage a Wound yourself.
+---
+***Rest*** - Characters who have time to rest in the game can attempt to mend or mitigate their Wounds.
 
-If your character gets proper rest for two weeks, all Wounds are healed.
+If you have a week of rest or travel, you can mend up to one wound per week.
+
+If you're under duress or trying to mend a wound in a short timeframe (like overnight), any character in the group can roll a DC 10 Knowledge check to mend wounds. They only roll once per wound per rest, and if they fail, the wound remains.
 
 ---
 Any action which isn't an attack is a **Maneuver**.
@@ -74,7 +74,8 @@ Any action which isn't an attack is a **Maneuver**.
 Here's a list of basic maneuvers anyone can use.
 - **Dodge** | Give yourself +1 Armor and +1 Agility till next turn.
 - **Defend** | Take all attacks targeting a nearby ally.
-- **Grapple** | Strength contest with an opponent. They can choose Strength or Agility. If you succeed, you and the opponent can't move or take actions while you wrestle until checking again next turn.
+- **Grapple** | Strength contest with an opponent. They can choose Strength or Agility. If you succeed, you and the opponent can't move or take actions while you wrestle until checking again next turn. When you're wrestling, you can choose to make a check to escape, or, if you're unarmed or wielding a knife, you can make an attack against your opponent.
+- **Disarm** | You roll a strength check against 9 + your opponent's Strength or Agility. If you succeed, you disarm your opponent of one weapon they carry. It ends up on the ground at your feet.
 - **Dash** | Move again.
 - **Shove** | You make an unarmed attack against an enemy's Avoid to try to push them around.
 
@@ -100,7 +101,7 @@ While you're carrying it:
 - Have -2 Agility.
 - Have -2 Strength when climbing or pulling your weight.
 
-It takes a full action to take off your pack, or to retrieve an item from it.
+It takes a full action to take off or put on a pack, or to retrieve an item from it.
 
 ---
 ***Trinket*** - A small item you could keep in your pocket or tied around your neck.
@@ -108,3 +109,36 @@ Everyone can carry one trinket for free.
 
 ---
 ***Beasts of Burden*** - Animals and carts can carry items, too! It's hard to get a Donkey into a Dungeon, though... (that is, of course, what D&D stands for, though, so you should try anyways.)
+
+---
+***Sunder*** - Rolling snake eyes when you roll to hit with a weapon causes it to break in your hands!
+
+A skilled fighter can willingly sunder their equipment to avoid taking a wound against an opponent's attack if it was determined to be a hit. Note they make the decision *before* damage is rolled and wounds are calculated!
+
+---
+# Fate
+In stories and in life, fate smiles upon the brave and the bold. This game is no different.
+
+A **Fate** point may be used to reroll any roll, anywhere on the table.
+
+---
+When you make your character, you get one Fate point automatically.
+
+You can choose to give your character -1 to one of your positive attributes in exchange for fate points.
+This might make sense for your character - if you're playing a teenager or some drunk, for instance.
+
+---
+***Death and Elimination*** - Characters who, through play, die, cannot continue, or leave the path of the story, are left behind, either to continue their story another time, or to fall, as so many do, into the dust of memory. This will likely be a common occurrence, so here's how we'll handle things.
+
+If it's a short game (1 session), and a character leaves, that's it! (Though they can still influence the game, see **Legacy** below.)
+
+If we're telling a longer story and a character dies, then we'll introduce a new character for the widowed player to play starting the following session.
+
+---
+***Legacy*** - When a player doesn't have an active character during a session, they can still use their **Fate** points to help an active character. In fact, when your character leaves the story, they gain one extra Fate point to use!
+
+In addition to the above options for Fate, you can also allow an active character to act using your character's attributes and talents for a turn.
+
+Imagine a priest's warrior friend is slain in front of them, and they pick up their sword, imbued with their friend's spirit, to avenge them! That's what a legacy is about.
+
+---

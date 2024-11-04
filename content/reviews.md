@@ -6,6 +6,33 @@ I write reviews of nearly everything I see.
 If you're looking for my favorite stuff, though, look [here](/favorites) instead!
 
 ---
+# Shuna's Journey
+By Hayao Miyazaki
+
+Great story! Wonderful execution. Makes an old busted fairy tale into something we can all step into and get behind.
+
+The action is glanced over, as you'd expect from a graphic novel (vs. animation).
+
+One thing I learned is that Miyazaki didn't start Studio Ghibli until he was 44 years old.
+The more I learn about these things, the more I realize they're long, arduous processes, where the best way to go is to work in real-world settings for a while, learn the ropes, become a master, and then start to take big swings.
+
+I love this book, man. And the best part is that anyone could write it.
+
+9/10
+
+11/2/2024
+
+---
+# HANA-BI
+By Takeshi Kitano
+
+Much less floored by this one the second time around, but I still haven't really seen a film quite like it.
+
+7/10
+
+11/2/2024
+
+---
 # Nausicaa, of the Valley of the Wind
 This is the perfect fantasy film, in my book.
 

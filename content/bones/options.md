@@ -107,12 +107,11 @@ Taboo | Once per game, break the laws of reality (e.g. revive a fallen ally, mov
 ---
 # Armor
 
-| Gear   | Armor | Consequences                    |
-| ------ | ----- | ------------------------------- |
-| Shield | 1     | Requires 1 hand wielding.       |
-| Helmet | 1     | -3 Clarity                      |
-| Light  | 2     | -2 Agility.                     |
-| Heavy  | 3     | -3 Agility. Stealth impossible. |
+| Gear        | Armor | Consequences                    |
+| ----------- | ----- | ------------------------------- |
+| Light Armor | 2     | -2 Agility.                     |
+| Heavy Armor | 3     | -3 Agility. Stealth impossible. |
+| Shield      | 1     | Requires 1 hand wielding.       |
 
 ---
 # Equipment

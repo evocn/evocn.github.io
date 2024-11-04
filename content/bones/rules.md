@@ -15,7 +15,7 @@ Sometimes rolls can have partial success or consequences. I'll always tell you i
 - ***Knowledge*** - Lore, survival, mending of injuries, use of technology.
 - ***Grit*** - Ability to withstand pain and stay alive when injured.
 
-> New characters distribute **[+2, +1, 0, -1, -2]** in these five scores.
+> New characters distribute **[+2, +2, 0, -1, -1]** in these five scores.
 
 ---
 ***Talent*** - A character's learned or innate capacity to perform some task. It can be anything, as long as it's specific, like *climbing* or *repairing things* or *seduction* or *long bow*.
@@ -47,16 +47,13 @@ Roll damage for your weapon, subtract the target's **Armor** and convert that nu
 If a character takes more Wounds than they can bear, which is [2 + **Grit**], they pass out.
 An unconscious character who takes another Wound dies.
 
-| (D10) | Wound        | Effect                                                                                           |
-| ----- | ------------ | ------------------------------------------------------------------------------------------------ |
-| 0     | Death's Door | Re-roll on this chart. All further Wounds are fatal until your next rest.                        |
-| 1     | Severe Wound | Re-roll on this chart. That injury is permanent. For instance, a Broken Arm is actually severed. |
-| 2-3   | Broken Arm   | -2 Strength. -1 Hand.                                                                            |
-| 4-5   | Broken Leg   | -2 Agility. Half speed.                                                                          |
-| 6-7   | Brain Damage | -2 to Knowledge, Clarity.                                                                        |
-| 8-9   | Deep Gash    | -1 to Strength, Agility.                                                                         |
+Here's a list of some example wounds.
+- **Broken Arm.** -2 Strength. -1 Hand.
+- **Broken Leg**. -2 Agility. Half speed.
+- **Brain Damage**. -2 to Knowledge, Clarity.
+- **Deep Gash**. No immediate effects, but if left untreated for an hour, you will die.
 
-These wounds are just examples. Other specific wounds exist, which will come up on the fly.
+That's just a few, though. I've got my own chart I roll on to determine wounds most of the time.
 
 ---
 ***Critical*** - On a weapon's maximum damage output, you score a critical! You roll damage again, which can also critical indefinitely.

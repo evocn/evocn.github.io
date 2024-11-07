@@ -11,11 +11,11 @@ Sometimes rolls can have partial success or consequences. I'll always tell you i
 ***Attributes*** - There are 5 attributes which govern characters, which typically range from -3 to +3.
 - ***Agility*** - Dodging, sneaking, leaping.
 - ***Strength*** - Pushing, pulling, climbing, wrestling, melee weapons.
-- ***Clarity*** - Perception, ranged weapons, details.
-- ***Knowledge*** - Lore, survival, mending of injuries, use of technology.
+- ***Clarity*** - Perception, ranged weapons, detection of details.
+- ***Knowledge*** - Lore, survival, mending of injuries, use of technology, conversational ability.
 - ***Grit*** - Ability to withstand pain and stay alive when injured.
 
-> New characters distribute **[+2, +2, 0, -1, -1]** in these five scores.
+> New characters distribute **[+2, +1, 0, -1, -2]** in these five scores.
 
 ---
 ***Talent*** - A character's learned or innate capacity to perform some task. It can be anything, as long as it's specific, like *climbing* or *repairing things* or *seduction* or *long bow*.
@@ -69,7 +69,7 @@ If you're under duress or trying to mend a wound in a short timeframe (like over
 Any action which isn't an attack is a **Maneuver**.
 
 Here's a list of basic maneuvers anyone can use.
-- **Dodge** | Give yourself +1 Armor and +1 Agility till next turn.
+- **Dodge** | Give yourself +2 Agility and +2 Armor till next turn.
 - **Defend** | Take all attacks targeting a nearby ally.
 - **Grapple** | Strength contest with an opponent. They can choose Strength or Agility. If you succeed, you and the opponent can't move or take actions while you wrestle until checking again next turn. When you're wrestling, you can choose to make a check to escape, or, if you're unarmed or wielding a knife, you can make an attack against your opponent.
 - **Disarm** | You roll a strength check against 9 + your opponent's Strength or Agility. If you succeed, you disarm your opponent of one weapon they carry. It ends up on the ground at your feet.

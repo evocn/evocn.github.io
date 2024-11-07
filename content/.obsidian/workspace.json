@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bones/rules.md",
+                "file": "bones/chronicle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rules"
+              "title": "chronicle"
             }
           }
         ]
@@ -83,6 +83,10 @@
   },
   "active": "c4536e6aee251629",
   "lastOpenFiles": [
+    "bones/ideas.md",
+    "bones/chronicle.md",
+    "bones/options.md",
+    "bones/rules.md",
     "Private/Projects/Bones/games/2-siege.md",
     "Private/Projects/Bones/games/1-gunpowder.md",
     "Private/Projects/Bones/games/0-template.md",
@@ -95,12 +99,8 @@
     "Private/Projects/Bones/setting",
     "Private/Projects/Bones/games",
     "Private/Projects/Bones/archive/enemies.md",
-    "bones/rules.md",
     "Private/Projects/Fish.md",
     "Private/Projects/Dayne.md",
-    "bones/options.md",
-    "bones/ideas.md",
-    "bones/log.md",
     "reviews.md",
     "Private/Diary.md",
     "Private/Journal.md",

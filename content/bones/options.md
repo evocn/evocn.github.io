@@ -5,6 +5,71 @@ This document provides some fun inspiration for options for your character.
 
 You can pick something here or make up your own thing to fit your character.
 Just make sure you run it by Alex first before we run the thing.
+
+---
+# Weapons
+
+| Weapons        | Hands | Damage | Special                                |
+| -------------- | ----- | ------ | -------------------------------------- |
+| Knife          | 1     | D4     | Stow for 1/2.                          |
+|                |       |        |                                        |
+| Sword          | 1     | D6     |                                        |
+| Longsword      | 2     | 2D4    | Stow for 1.                            |
+| Greatsword     | 2     | 2D6    |                                        |
+|                |       |        |                                        |
+| Battle Axe     | 2     | D10    |                                        |
+| Polearm        | 2     | ^D6s   |                                        |
+| Spear          | 2     | D4     | 1 Armor.                               |
+| Mace           | 1     | D8     | -1 Agility.                            |
+|                |       |        |                                        |
+| Bow            | 2     | D10    | Ranged. Requires arrows.               |
+| Short Bow      | 2     | D6     | Ranged. Requires arrows. Stow for 1.   |
+| Javelin        | 1     | D8     | Short-Ranged. Uses Strength to hit.    |
+|                |       |        |                                        |
+| Bare-Knuckle   | 1     | D2     |                                        |
+| Improv. Weapon | 1     | D4     | Various. Cannot Critical.              |
+| Whip           | 1     | -      | Prevent character's movement on a hit. |
+
+---
+# Armor
+
+| Gear        | Armor | Consequences                    |
+| ----------- | ----- | ------------------------------- |
+| Light Armor | 2     | -2 Agility.                     |
+| Heavy Armor | 3     | -3 Agility. Stealth impossible. |
+| Shield      | 1     | Requires 1 hand wielding.       |
+
+---
+# Equipment
+
+| Equipment      | Effect                                                                        |
+| -------------- | ----------------------------------------------------------------------------- |
+| Smithing Tools | You can mend sundered weapons and armor instead of mending a wound each rest. |
+| Medical Kit    | Mend a wound, guaranteed.                                                     |
+| Crowbar        | Open something with leverage.                                                 |
+| 30 ft of rope  | All sorts of uses for this stuff!                                             |
+| Shovel         | Dig holes.                                                                    |
+| Spell Book     | Contains Arcane Spells.                                                       |
+| Grappling hook | Lets you hook on to something.                                                |
+| Quiver         | Holds 6 arrows.                                                               |
+| Flask of Oil   | Flammable.                                                                    |
+| Torch          | Emits light for a few hours.                                                  |
+| Potion         | Might have all kinds of effects.                                              |
+
+---
+# Trinkets
+- Whetstone
+- Tinderbox
+- Whistle
+- Pouch of coins
+- Potion
+- Lockpick
+- Harmonica
+- Holy Cross
+- Gemstone
+- Necklace
+- Box of Dice
+
 # Abilities
 - ***Mark*** | Once per session, you may choose an opponent. You deal +1d6 extra damage to that opponent.
 - ***Martial Arts*** | Your unarmed strikes deal 1d4 damage. You gain a talent in grappling. Any character who attempts to get past you is stopped in their tracks.
@@ -79,67 +144,3 @@ Familiar | You get a little magic pet who can help you do things.
 Vision | Once per session, you can glean a vision of the future or the past of a location, creature, or object from touching it. You cannot control the vision's course or direction. You can also enter a sleeping creature's dream.
 
 Taboo | Once per game, break the laws of reality (e.g. revive a fallen ally, move a mountain, travel through time or space). Some things are still impossible. All things come at a cost.  
-
----
-# Weapons
-
-| Weapons        | Hands | Damage | Special                                |
-| -------------- | ----- | ------ | -------------------------------------- |
-| Knife          | 1     | D4     | Stow for 1/2.                          |
-|                |       |        |                                        |
-| Sword          | 1     | D6     |                                        |
-| Longsword      | 2     | 2D4    | Stow for 1.                            |
-| Greatsword     | 2     | 2D6    |                                        |
-|                |       |        |                                        |
-| Battle Axe     | 2     | D10    |                                        |
-| Polearm        | 2     | ^D6s   |                                        |
-| Spear          | 2     | D4     | 1 Armor.                               |
-| Mace           | 1     | D8     | -1 Agility.                            |
-|                |       |        |                                        |
-| Bow            | 2     | D10    | Ranged. Requires arrows.               |
-| Short Bow      | 2     | D6     | Ranged. Requires arrows. Stow for 1.   |
-| Javelin        | 1     | D8     | Short-Ranged. Uses Strength to hit.    |
-|                |       |        |                                        |
-| Bare-Knuckle   | 1     | D2     |                                        |
-| Improv. Weapon | 1     | D4     | Various. Cannot Critical.              |
-| Whip           | 1     | -      | Prevent character's movement on a hit. |
-
----
-# Armor
-
-| Gear        | Armor | Consequences                    |
-| ----------- | ----- | ------------------------------- |
-| Light Armor | 2     | -2 Agility.                     |
-| Heavy Armor | 3     | -3 Agility. Stealth impossible. |
-| Shield      | 1     | Requires 1 hand wielding.       |
-
----
-# Equipment
-
-| Equipment      | Effect                                                                        |
-| -------------- | ----------------------------------------------------------------------------- |
-| Smithing Tools | You can mend sundered weapons and armor instead of mending a wound each rest. |
-| Medical Kit    | Mend a wound, guaranteed.                                                     |
-| Crowbar        | Open something with leverage.                                                 |
-| 30 ft of rope  | All sorts of uses for this stuff!                                             |
-| Shovel         | Dig holes.                                                                    |
-| Spell Book     | Contains Arcane Spells.                                                       |
-| Grappling hook | Lets you hook on to something.                                                |
-| Quiver         | Holds 6 arrows.                                                               |
-| Flask of Oil   | Flammable.                                                                    |
-| Torch          | Emits light for a few hours.                                                  |
-| Potion         | Might have all kinds of effects.                                              |
-
----
-# Trinkets
-- Whetstone
-- Tinderbox
-- Whistle
-- Pouch of coins
-- Potion
-- Lockpick
-- Harmonica
-- Holy Cross
-- Gemstone
-- Necklace
-- Box of Dice

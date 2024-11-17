@@ -1,8 +1,7 @@
 html {
-    --color-page:   #F5F5F5;
-    --color-text:   #050609;
-    --color-accent: #10a378;
-    --other-accent: #6184D8;
+    --color-page:   #050609;
+    --color-text:   #F5F5F5;
+    --color-accent: #FC7753;
 
     overflow-x: hidden;
     color:            var(--color-text);

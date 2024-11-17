@@ -66,15 +66,26 @@ If you have a week of rest or travel, you can mend up to one wound per week.
 If you're under duress or trying to mend a wound in a short timeframe (like overnight), any character in the group can roll a DC 10 Knowledge check to mend wounds. They only roll once per wound per rest, and if they fail, the wound remains.
 
 ---
+***Grappling*** - You can attempt to grapple with an opponent by making a Strength check against their avoid. If you succeed, you and your opponent are locked together in a grappling match.
+
+On their turn, a grappler can choose from the following options:
+- Attack the enemy with an unarmed strike or a knife.
+- Move the enemy up to five feet.
+- Escape from the grapple, by rolling against the enemy's Strength + 7.
+- Tighten their hold. Impose a -2 penalty on the enemy's escape.
+- Maneuver the enemy into an advantageous position. Impose a -2 penalty to the enemy's Avoid.
+
+Grapplers are free to drop or equip items while grappling.
+
+---
 Any action which isn't an attack is a **Maneuver**.
 
 Here's a list of basic maneuvers anyone can use.
 - **Dodge** | Give yourself +2 Agility and +2 Armor till next turn.
 - **Defend** | Take all attacks targeting a nearby ally.
-- **Grapple** | Strength contest with an opponent. They can choose Strength or Agility. If you succeed, you and the opponent can't move or take actions while you wrestle until checking again next turn. When you're wrestling, you can choose to make a check to escape, or, if you're unarmed or wielding a knife, you can make an attack against your opponent.
-- **Disarm** | You roll a strength check against 9 + your opponent's Strength or Agility. If you succeed, you disarm your opponent of one weapon they carry. It ends up on the ground at your feet.
+- **Disarm** | With an open hand, you can attempt to disarm an opponent. You roll a Strength check against your opponent's Avoid. If you succeed, you disarm your opponent of one weapon they carry.
 - **Dash** | Move again.
-- **Shove** | You make an unarmed attack against an enemy's Avoid to try to push them around.
+- **Shove** | You make an unarmed attack against an enemy's Avoid to try to push them up to 5 feet.
 
 **Abilities** can introduce maneuvers that only specific characters can use.
 

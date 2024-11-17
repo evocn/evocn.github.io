@@ -1,7 +1,7 @@
 {
   "useMarkdownLinks": true,
   "promptDelete": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "foldHeading": true,
   "foldIndent": false,
   "showIndentGuide": false,
@@ -17,5 +17,6 @@
   "autoPairBrackets": false,
   "autoPairMarkdown": false,
   "smartIndentList": true,
-  "useTab": true
+  "useTab": true,
+  "mobilePullAction": "editor:fold-all"
 }

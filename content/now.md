@@ -9,7 +9,6 @@ I graduated from Cal Poly in 2023, and started working at Nintendo Technology De
 
 I'm living in downtown Bellevue now with June, who's starting her last year at UW.
 
-I've been working hard, but I've had some free time recently to work on creative projects again!
-I'm excited to work on some more games and music soon.
+I recently started a Role-Playing game, trying to explore and elevate more grounded, down-to-earth topics.
 
-*Updated October 28, 2024*
+*Updated November 10, 2024*

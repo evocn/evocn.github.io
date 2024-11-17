@@ -2,7 +2,7 @@
   "lightStyle": "minimal-light",
   "darkStyle": "minimal-dark",
   "lightScheme": "minimal-default-light",
-  "darkScheme": "minimal-ayu-dark",
+  "darkScheme": "minimal-eink-dark",
   "editorFont": "",
   "lineHeight": 1.5,
   "lineWidth": 40,
@@ -24,11 +24,11 @@
   "fullWidthMedia": true,
   "bordersToggle": true,
   "minimalStatus": true,
-  "focusMode": false,
+  "focusMode": true,
   "underlineInternal": true,
   "underlineExternal": true,
   "folding": true,
   "lineNumbers": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "devBlockWidth": false
 }

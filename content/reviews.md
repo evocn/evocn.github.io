@@ -6,6 +6,56 @@ I write reviews of nearly everything I see.
 If you're looking for my favorite stuff, though, look [here](/favorites) instead!
 
 ---
+# Robin Hood
+1973 one
+
+Too much stupid lion guy.
+This one's the best otherwise though, super nice stuff.
+
+7/10
+
+11/10/2024
+
+---
+# The Legend of Bagger Vance
+Movie's a cool idea, but it's about the corniest flick you can imagine. Almost feels like the direction wasn't right here.
+
+I think it works pretty good in the middle quarter, when stuff's coming together for the guy's golf game. Cool editing going on.
+But otherwise, this one pretty much doesn't do much for me.
+
+3/10
+
+11/9/2024
+
+---
+# Scott Pilgrim vs. the World
+I mean, come on!
+
+9/10
+
+11/5/2024
+
+---
+# The Green Knight
+Silly movie, but also nice and reverent about some stuff.
+
+Not much to say, it's pretty much what you'd expect.
+
+6/10
+
+11/7/2024
+
+---
+# The Curious Case of Benjamin Button
+Pretty fun flick. I like whole-life stories, and this one makes a lot of sense.
+
+The trouble is that it's all about the gimmick the whole time. It loses the whole point of the whole life story, which is showing you how people feel. I guess Benjamin is a PTSD loner who has to go figure himself out and come to terms with things, but I still wish I got a little more of his feelings in this one.
+
+7/10
+
+11/5/2024
+
+---
 # Shuna's Journey
 By Hayao Miyazaki
 

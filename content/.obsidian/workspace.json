@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bones/chronicle.md",
+                "file": "Private/Projects/Bones/games/1-gunpowder.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chronicle"
+              "title": "1-gunpowder"
+            }
+          },
+          {
+            "id": "58e2b0cf96539e36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Projects/Bones/games/2-siege.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-siege"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,36 +97,36 @@
   "left-ribbon": {
     "hiddenItems": {}
   },
-  "active": "c4536e6aee251629",
+  "active": "58e2b0cf96539e36",
   "lastOpenFiles": [
-    "bones/ideas.md",
-    "bones/chronicle.md",
-    "bones/options.md",
-    "bones/rules.md",
-    "Private/Projects/Bones/games/2-siege.md",
     "Private/Projects/Bones/games/1-gunpowder.md",
-    "Private/Projects/Bones/games/0-template.md",
-    "Private/Projects/Bones/archive/proposal 1.md",
-    "Private/Projects/Bones/setting/overview.md",
-    "Private/Projects/Bones/log.md",
-    "Private/Projects/Bones/archive/setting.md",
-    "Private/Projects/Bones/add-ons.md",
-    "Private/Projects/Bones/scenarios.md",
-    "Private/Projects/Bones/setting",
-    "Private/Projects/Bones/games",
-    "Private/Projects/Bones/archive/enemies.md",
-    "Private/Projects/Fish.md",
-    "Private/Projects/Dayne.md",
-    "reviews.md",
+    "bones/rules.md",
+    "now.md",
+    "_index.md",
+    "rp.md",
+    "music.md",
     "Private/Diary.md",
     "Private/Journal.md",
+    "Private/Projects/Bones/games/2-siege.md",
+    "bones/options.md",
+    "Private/Projects/Bones/enemies.md",
+    "Private/Projects/Bones/log.md",
+    "Private/Projects/Bones/setting.md",
+    "Private/Projects/Bones/scenarios.md",
+    "Private/Projects/Bones/add-ons.md",
+    "Private/Projects/Bones/setting/overview.md",
+    "Private/Projects/Bones/archive/proposal 1.md",
+    "favorites.md",
+    "reviews.md",
+    "Private/Projects/Bones/games/0-template.md",
+    "bones/chronicle.md",
+    "Private/Projects/Dayne.md",
+    "bones/ideas.md",
+    "Private/Projects/Bones/archive/setting.md",
+    "Private/Projects/Bones/setting",
+    "Private/Projects/Bones/games",
+    "Private/Projects/Fish.md",
     "bones/abilities.md",
-    "bones/creation.md",
-    "bones/rules/creation.md",
-    "bones/rules/equipment.md",
-    "bones/rules/violence.md",
-    "Private/Projects/Bones/notes.md",
-    "Private/Projects/Bones/archive/proposal.md",
     "Private/Projects/Bones/archive",
     "bones/rules",
     "bones",

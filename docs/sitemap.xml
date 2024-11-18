@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://alexhartford.org/music/</loc>
-    <lastmod>2024-09-03T00:00:00+00:00</lastmod>
+    <loc>http://alexhartford.org/now/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://alexhartford.org/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
@@ -101,14 +101,15 @@
     <loc>http://alexhartford.org/posts/writers_block/</loc>
     <lastmod>2024-05-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://alexhartford.org/music/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://alexhartford.org/posts/output_fear/</loc>
     <lastmod>2022-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://alexhartford.org/bones/</loc>
   </url><url>
     <loc>http://alexhartford.org/favorites/</loc>
-  </url><url>
-    <loc>http://alexhartford.org/now/</loc>
   </url><url>
     <loc>http://alexhartford.org/bones/options/</loc>
   </url><url>

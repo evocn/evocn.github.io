@@ -1,12 +1,8 @@
 ---
-date: 2024-09-03
-title: 'Music'
-tags: []
+date: 2023-12-31
+title: Music
+tags:
 ---
-I put the best songs I write here.
-
----
-
 {{<audio src="music/sea.wav" caption="sea (December 2023)">}}
 {{<audio src="music/ojii.m4a" caption="ojii (December 2023)">}}
 {{<audio src="music/gate.m4a" caption="gate (December 2023)">}}

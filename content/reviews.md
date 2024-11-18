@@ -6,6 +6,68 @@ I write reviews of nearly everything I see.
 If you're looking for my favorite stuff, though, look [here](/favorites) instead!
 
 ---
+# The Lemon Twigs
+Live at *Barboza*
+
+First time going to a show in a basement like this in a while.
+
+Wonderful show! Great performance. I love these guys.
+
+10/10
+
+11/15/2024
+
+---
+# American Psycho
+This one was sillier than I thought it was going to be.
+
+A gleeful romp through what it really means to be a man!
+
+7/10
+
+11/15/2024
+
+---
+# Office Space
+Mike Judge
+
+Dumb movie, but it's so nice in some parts, that I really appreciated it.
+
+Maybe I'm already corporate enough to feel this one for real. That's funny, huh?
+
+6/10
+
+11/14/2024
+
+---
+# American Beauty
+I feel like this film is pretty corny most of the time, but it has a few performances, a few lines, a few sentiments that mean a lot to me.
+
+That's really all that matters, so I'd say I liked it.
+
+I'm kind of tired of seeing suburban stuff, but this film actually made it seem okay for once, like a hell you can actually escape from.
+
+8/10
+
+11/14/2024
+
+---
+# Two Star and the Dream Police
+By Mk.Gee
+
+This album put me on my ass!
+
+I'd recommend it highly. It's the most earnest music I've heard in a while. Maybe I'm nuts or something.
+
+It feels like this guy really means what he says, that's all.
+
+Check out the videos at [mkgee.com](https://mkgee.com).
+
+9/10
+
+11/7/2024
+
+---
 # Robin Hood
 1973 one
 

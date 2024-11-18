@@ -19,7 +19,7 @@ Just make sure you run it by Alex first before we run the thing.
 |                |       |        |                                        |
 | Battle Axe     | 2     | D10    |                                        |
 | Polearm        | 2     | ^D6s   |                                        |
-| Spear          | 2     | D4     | 1 Armor.                               |
+| Spear          | 2     | D6     | 1 Armor.                               |
 | Mace           | 1     | D8     | -1 Agility.                            |
 |                |       |        |                                        |
 | Bow            | 2     | D10    | Ranged. Requires arrows.               |

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Scratch.md",
+                "file": "now.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Scratch"
+              "title": "now"
             }
           }
         ]
@@ -66,9 +66,13 @@
   },
   "active": "58e2b0cf96539e36",
   "lastOpenFiles": [
+    "music.md",
+    "_index.md",
+    "now.md",
+    "Private/Scratch.md",
+    "rp.md",
     "Private/Archives/Diary - 2024.md",
     "Private/Diary.md",
-    "Private/Scratch.md",
     "Private/Archives/reviews.md",
     "Private/Archives/favorites.md",
     "Private/Projects/bird/README.md",
@@ -88,10 +92,6 @@
     "Private/Archives/posts/two_games.md",
     "Private/Archives/posts/game_a_week.md",
     "Private/Archives/posts/daily.md",
-    "Private/Archives/posts/summary.md",
-    "Private/Archives/posts/proust_habit.md",
-    "Private/Archives/posts/writers_block.md",
-    "Private/Archives/posts/somatic.md",
     "Private/Archives/posts",
     "Private/Archives/bones",
     "Private/Projects/bird",

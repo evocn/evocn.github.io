@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "now.md",
+                "file": "Private/Scratch.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "now"
+              "title": "Scratch"
             }
           }
         ]
@@ -46,23 +46,6 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          },
-          {
-            "id": "3d90d3c67e574ce2",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
           }
         ]
       }
@@ -83,41 +66,41 @@
   },
   "active": "58e2b0cf96539e36",
   "lastOpenFiles": [
-    "reviews.md",
-    "now.md",
-    "music.md",
-    "Private/Projects/Bones/games/2-siege.md",
-    "Private/Projects/Bones/games/1-gunpowder.md",
-    "bones/rules.md",
-    "_index.md",
-    "rp.md",
+    "Private/Archives/Diary - 2024.md",
     "Private/Diary.md",
-    "Private/Journal.md",
-    "bones/options.md",
-    "Private/Projects/Bones/enemies.md",
-    "Private/Projects/Bones/log.md",
-    "Private/Projects/Bones/setting.md",
-    "Private/Projects/Bones/scenarios.md",
-    "Private/Projects/Bones/add-ons.md",
-    "Private/Projects/Bones/setting/overview.md",
-    "Private/Projects/Bones/archive/proposal 1.md",
-    "favorites.md",
-    "Private/Projects/Bones/games/0-template.md",
-    "bones/chronicle.md",
-    "Private/Projects/Dayne.md",
-    "bones/ideas.md",
-    "Private/Projects/Bones/archive/setting.md",
-    "Private/Projects/Bones/setting",
-    "Private/Projects/Bones/games",
-    "Private/Projects/Fish.md",
-    "bones/abilities.md",
-    "Private/Projects/Bones/archive",
-    "bones/rules",
-    "bones",
-    "Private/Ideas",
-    "Private/Projects/Mu",
-    "Private/Projects/Bones",
-    "Private/Projects/New folder",
-    "Private/Strategies"
+    "Private/Scratch.md",
+    "Private/Archives/reviews.md",
+    "Private/Archives/favorites.md",
+    "Private/Projects/bird/README.md",
+    "Private/Archives/posts/rules.md",
+    "Private/Archives/posts/output_fear.md",
+    "Private/Archives/posts/exploration.md",
+    "Private/Archives/posts/tabletop_tips.md",
+    "Private/Archives/posts/krishnamurti.md",
+    "Private/Archives/posts/fantasy_surrealism.md",
+    "Private/Archives/posts/publish.md",
+    "Private/Archives/posts/wizards.md",
+    "Private/Archives/posts/intensity.md",
+    "Private/Archives/posts/roleplaying_tool.md",
+    "Private/Archives/posts/kids.md",
+    "Private/Archives/posts/alternative_calendars.md",
+    "Private/Archives/posts/rolling_stone.md",
+    "Private/Archives/posts/two_games.md",
+    "Private/Archives/posts/game_a_week.md",
+    "Private/Archives/posts/daily.md",
+    "Private/Archives/posts/summary.md",
+    "Private/Archives/posts/proust_habit.md",
+    "Private/Archives/posts/writers_block.md",
+    "Private/Archives/posts/somatic.md",
+    "Private/Archives/posts",
+    "Private/Archives/bones",
+    "Private/Projects/bird",
+    "Private/Archives/Projects/Games/Prototypes",
+    "Private/Archives/Projects/Games",
+    "Private/Archives/Projects/Ideas",
+    "Private/Projects/Games/Prototypes/1-Action-Platformer",
+    "Private/Projects/Games/Prototypes",
+    "Private/Projects/Games",
+    "Private/Archives/Projects"
   ]
 }

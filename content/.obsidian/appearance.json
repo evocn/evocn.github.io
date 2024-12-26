@@ -5,6 +5,7 @@
   "monospaceFontFamily": "Fira Mono",
   "baseFontSizeAction": true,
   "showViewHeader": false,
-  "baseFontSize": 18,
-  "accentColor": "#238b55"
+  "baseFontSize": 17,
+  "accentColor": "#238b55",
+  "theme": "system"
 }

@@ -1,12 +1,12 @@
 ---
 title: Now
 tags: 
-date: 2024-11-17
+date: 2024-12-26
 ---
 > Working at Nintendo on graphics / tools.
 
-> Running *[Bones](/bones)*, a series of short Role-Playing games, exploring grounded, down-to-earth conceptions of fantasy and violence.
-
 > Working on [games](https://alexhartford.itch.io).
 
-> Listening.
+> Reading *The Book of Life* again.
+
+> Playing UFO 50!

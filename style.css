@@ -1,7 +1,13 @@
 html {
+    /*
     --color-page:   #E8F8C1;
     --color-text:   #000501;
     --color-accent: #327345;
+    */
+
+    --color-page:   #2C3639;
+    --color-text:   #DCD7C9;
+    --color-accent: #76ABAE;
 
     overflow-x: hidden;
     color:            var(--color-text);
